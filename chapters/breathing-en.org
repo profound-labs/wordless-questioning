@@ -1,11 +1,12 @@
 #+TITLE: Breathing
+#+OPTIONS: d:(not "TOPICS")
 
 * Breathing (1307w)
 
 :TOPICS:
 - opening
 - stop and open attention
-- simple message: wake up, see what is real, don't suffer, keep unpacking that
+- simple message: don't suffer
 :END:
 
 #+begin_quote
@@ -34,39 +35,42 @@ don't have to suffer. We keep unpacking that.
 :END:
 
 #+begin_quote
-'Hogy tudom megcsinálni?' Sehogy, nem ez a feladatod. Kérdezd azt, 'Tudok rá figyelni?'
+'How can I do it?' That's not the task for you. Rather ask, 'Can I pay attention to it?'
 
-Ismerni csak azután fogod, hogy a bizalom engedett gyakorolni, és azt tudod majd
-kifejezni ami már mögötted van. Ami jön, azt nem tudod ismerettel kifejezni, a
-gondolat erre nem elegendő.
+You are only going to know it after the initial faith has allowed you to
+practice, and you are going to be able to express what is already behind you.
+That which is ahead, you can't describe it with knowledge, thinking is not
+sufficient for that.
 
-A légzés érzetére megállunk. Visszakerülünk az elejére, ahol nem tudjuk mi lesz.
-Egy üres és tágas helyre kerülünk így, magunk vagyunk és van időnk itt megállni.
+The sensation of breathing stops us. We are back at the beginning, when we don't
+know what is going to happen. We are at an empty and spacious place this way,
+where we are by ourselves and we have time to stop here.
 
-Az üvegből folyó víz megáll, amikor az üveget egyenesen tartjuk, és az üvegben a
-víz a súlyánál fogva a helyére kerül. A mozgás látszik benne, de önmaga nem
-mozog.
+The water pouring from the bottle stops when we put it down straight, and the
+water in the bottle settles at the bottom because of its own weight. We can see
+movement through it, but itself is not moving.
 
-A légzésre figyelve az érzékek befelé fordulnak. A szem látja a színeket, de a
-látás befelé irányul, nem akar kívül színeket és formákat keresni. A fül hallja
-a hangokat, de a hallás befelé fordul és nem keres. A test érzi a hideget,
-meleget, a ruhák felületét és a csontok merev súlyát, a légzés közben figyeljük
-ezt és hagyjuk a testet lenyugodni, hagyjuk az elmét befelé fordulva elcsendesedni.
+The senses turn inward when watching the breathing. The eye sees colors, but the
+seeing is directed inward, it is not seeking color and forms outside. The ear
+hears sounds, but the hearing turns inward and is not seeking. The body feels
+hot and cold, the surface of clothes and the rigid weight of the bones, we watch
+this while breathing and let the body calm down, let the mind turn inward and
+grow still.
 
-Ez az érzés világa ebben teljes, minden ami vagyunk, vagy amivé valaha
-válhatunk, ezen belül van. Az érzés és tudat a testtől függ, nem tudunk
-hozzátenni vagy elvenni belőle. Minden légzésben teljes, a testtel kezdődik és
-azzal lesz vége.
+Feelings and the mind are dependent on the body, we can't add to it or take away
+from it. It is complete in every breath, it start with the body and is going to
+end with it. This world, made of feelings, is complete in this, everything we
+are and everything we can ever become, is contained in this.
 
 When we suffer, we know that there is something we don't understand. We don't
 understand how one thing was created by another, how one thing is under our
 control, and another is not.
 
 When we don't see, we repeat the same pattern like a program, and create the
-same suffering again and again. Complain, 'why does is always happen this way'?
-Perhaps because we keep doing the same thing, and not see it.
+same suffering again and again. We complain, 'why does is always happen this way?'
+We keep doing the same thing, and not see it.
 
-We see that one thing depends on another. Then we have the freedom to stop.
+Looking closer, we see that one thing depends on another. Then we are free to stop doing it.
 We return to a quiet contentment that way.
 #+end_quote
 

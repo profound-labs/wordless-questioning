@@ -1,6 +1,57 @@
 #+TITLE: It Doesn't Make Much Noise -- Notes
 
+---
+
+imitating first, but not for being an imitation.
+
+knowing what to do, can pick up sth else to do it
+
+like taking notes, knowing what to use it for, you don't need complex stuff, b/c you know if you fulfil the purpose or not
+
+same with practice, don't be misled by the glamour, when you know what to do, do it here, don't have to go s/w else.
+
+---
+
+This is it, this how my life will be.
+I can be with this for the rest of my life.
+If does heal it will, if it doesn't, it won't. I will figure out how to live together with this.
+
+blind walkers
+blind programmers
+- guy will find a seat on the bus
+panic attacks
+Aj Vimalo OCD, I will be with this
+
+buddhist monk training
+free to leave, but those who stayed all got better
+
+this is what conquers Mara, this wholly giving ourselves into it with nothing left, this is what turns weapons into flowers.
+
+---
+
+we wait, and when it has run its course the humble and greateful mind will appear out of nowhere
 humble mind, grateful mind, not tough, not old wood
+
+---
+
+to know is to know five things
+
+dhamma, atha, niruti, patibhana
+
+pleasant or unpleasant is after contact and before clinging
+
+---
+
+structure:
+
+- introduction
+- description of suffering
+- description of experience
+- short heuristic
+- Dhamma reference
+- supporting anecdote
+
+---
 
 * [[file:index.org][It Doesn't Make Much Noise]]
 * Tasks
@@ -29,6 +80,11 @@ Aronson (2008) szerint a heurisztikák révén tudjuk értelmezni a minket körb
 vevő információs halmazt. [...] A heurisztika alkalmazása csökkenti a
 gondolkodás igényét, a részletesebb megismerést. A heurisztikával áll szemben a
 módszeres gondolkodás.
+
+There aren't many precise descriptions, it reads like a quote collection or idea
+list. Attention heuristics.
+
+Or like dreams, loosely coherent pictures in an larger, more comprenensive frame.
 
 * Timing and Length
 
@@ -106,13 +162,26 @@ he'd cross over the flood
 like one who, having bailed out the boat,
 	has reached the far shore.
 
-* Emails
+* See Also
+** emails
 
 cinikusság
 [[mu4e:msgid:87bm3v77wn.fsf@gmail.com][Re: {printf_gambatte} Weöres Sándor - A Teljesség Felé]]
 
 egyszerűsítsd
 [[mu4e:msgid:878u2xyh3z.fsf@gmail.com][meditáció]]
+
+[[mu4e:msgid:87wp5i5osh.fsf@gmail.com][oolong]]
+
+[[mu4e:msgid:87y3py5tez.fsf@gmail.com][oolong]]
+
+[[mu4e:msgid:87wp346hhx.fsf@gmail.com][Re: Meditáció]]
+
+[[mu4e:msgid:87twayxyg8.fsf@gmail.com][meditation (safe for work)]]
+
+** other
+
+[[file:~/prods/articles/instrucao-basica/instrucao-basica.org][Instrução Básica]]
 
 Clarity and Calm for Busy People
 http://www.amaravati.org/dhamma-books/clarity-and-calm/
@@ -123,13 +192,18 @@ http://www.amaravati.org/audio/day-1b-guided-meditation-experiencing-whole-body/
 Guided Meditation: Breathing Through Four Elements
 http://www.amaravati.org/audio/day-5b-gm-breathing-through-four-elements/
 
-[[mu4e:msgid:87wp5i5osh.fsf@gmail.com][oolong]]
-
-[[mu4e:msgid:87y3py5tez.fsf@gmail.com][oolong]]
-
-[[mu4e:msgid:87wp346hhx.fsf@gmail.com][Re: Meditáció]]
-
-[[mu4e:msgid:87twayxyg8.fsf@gmail.com][meditation (safe for work)]]
+https://www.youtube.com/watch?v=e5oDCy_0p5o | Weöres Sándor: Meztelenség, A teljesség felé - YouTube
+https://www.youtube.com/watch?v=_bNh8oZ5_SA | A mozdulatlan utazás (A teljesség felé) - YouTube
+https://www.youtube.com/watch?v=e5oDCy_0p5o | Weöres Sándor: Meztelenség, A teljesség felé - YouTube
+https://www.youtube.com/watch?v=wiqleF19Cj0 | Szögyal Rinpocse: Meditáció - YouTube
+https://www.youtube.com/watch?v=VmYenDz20qo | Sunrjú Szuzuki: Légzés - YouTube
+https://www.youtube.com/watch?v=y4Rd6EtyfL8 | Csuang-ce: Az aranylét szabályai - YouTube
+https://www.youtube.com/channel/UC0sZDQL9U83T3wrtRTMGUjA/videos | Itt vagyok - YouTube
+https://www.youtube.com/watch?v=l_2GBGRH9b4 | Mustó Péter SJ: Elszántan - YouTube
+https://www.youtube.com/watch?v=B_kToPBhDRg | Mustó Péter SJ: Engedd el! (tanácsok keresztény meditációhoz) - YouTube
+https://www.youtube.com/watch?v=wiqleF19Cj0&t=326s | Szögyal Rinpocse: Meditáció - YouTube
+https://soundcloud.com/ectilos/electrocat-toma-irodalmi-1 | electrocat-Toma-!rodalmi DubTechno-Weöres Sándor-A Teljesség Felé by electrocat - Tilos radio | Free Listening on SoundCloud
+https://www.youtube.com/watch?v=9ALm0s4qrTQ | Hagyaték - A teljesség felé - Weöres Sándor hagyatéka - YouTube
 
 * more
 
