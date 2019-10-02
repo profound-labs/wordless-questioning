@@ -1,6 +1,6 @@
 #+TITLE: Ocean
 
-* Ocean (973w)
+* Ocean
 
 :TOPICS:
 - different form of cognition

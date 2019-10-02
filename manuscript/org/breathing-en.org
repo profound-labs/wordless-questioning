@@ -1,9 +1,6 @@
 #+TITLE: Breathing
 
 * Notes :noexport:
-
-generosity relaxes
-
 * Breathing
 
 :TOPICS:
@@ -40,7 +37,8 @@ don't have to suffer. We keep unpacking that.
 :END:
 
 #+begin_text
-'How can I do it?' That's not the task for you. Rather ask, 'Can I pay attention to it?'
+'How can I do it?' That's not the task for you. Rather ask, 'Can I pay attention
+to it?'
 
 You are only going to know it after the initial faith has allowed you to
 practice, and you are going to be able to express what is already behind you.
@@ -160,6 +158,24 @@ nothing wrong with that. It is a happiness which is not connected to craving,
 not dependent on having to get or gain something. It is a happiness arising from
 seclusion of the senses, withdrawing to simplicity, and knowing the present
 moment. That is an alert, content, and satisfied state of mind.
+#+end_text
+
+:TOPICS:
+- generosity relaxes
+:END:
+
+#+begin_text
+If you find youself in a tense, strict and cynical mood, I recommend shift your
+posture slightly, quietly rub your ears or massage the face muscles, and
+recollect generosity. In the monastery, it is frequently the lay friends who
+come to cook and offer the midday meal for the community. They can be busy while
+in the kitchen, but they are always relaxed and happy when finished.
+
+Recollecting good actions we have done relaxes the anxious and ambitious mind.
+It lets us recognize that we have space, and don't have to push get ahead of
+others, there is goodness in the world and we can drop the big hurry.
+Recollecting the generosity of friends and relatives is also joyful, but even
+seeing a stranger help another stranger brings us to smile.
 #+end_text
 
 :TOPICS:

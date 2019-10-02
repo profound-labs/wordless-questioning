@@ -1,13 +1,20 @@
 #+TITLE: It Doesn't Make Much Noise
 
-* Kezdőlap
-* 1. Breathing [[file:org/breathing-en.org][EN]] - [[file:org/breathing-hu.org][HU]]
-* 1.1 But How [[file:org/but-how-en.org][EN]] - [[file:org/but-how-hu.org][HU]]
-* 2. Cycles [[file:org/cycles-en.org][EN]] - [[file:org/cycles-hu.org][HU]]
-* 3. Ocean [[file:org/ocean-en.org][EN]]
-* 4. Elements [[file:org/elements-en.org][EN]]
-* 5. Too Much [[file:org/too-much-en.org][EN]]
-* 6. Boat [[file:org/boat-en.org][EN]]
-* 7. Bones [[file:org/bones-en.org][EN]]
-* 8. Heroes [[file:org/heroes-en.org][EN]]
-* Further Readings
+|   |     | Title            |         | Words |
+|---+-----+------------------+---------+-------|
+|   |     | Kezdőlap         |         |       |
+|   |  1. | Breathing        | [[file:org/breathing-en.org][EN]] - [[file:org/breathing-hu.org][HU]] |  1615 |
+|   | 1.1 | But How          | [[file:org/but-how-en.org][EN]] - [[file:org/but-how-hu.org][HU]] |       |
+|   |  2. | Cycles           | [[file:org/cycles-en.org][EN]] - [[file:org/cycles-hu.org][HU]] |  1349 |
+|   |  3. | Ocean            | [[file:org/ocean-en.org][EN]]      |  1001 |
+|   |  4. | Elements         | [[file:org/elements-en.org][EN]]      |   997 |
+|   |  5. | Too Much         | [[file:org/too-much-en.org][EN]]      |  1037 |
+|   |  6. | Boat             | [[file:org/boat-en.org][EN]] - [[file:org/boat-hu.org][HU]] |  1278 |
+|   |  7. | Bones            | [[file:org/bones-en.org][EN]]      |  1240 |
+|   |  8. | Heroes           | [[file:org/heroes-en.org][EN]]      |  1933 |
+|   |     | Further Readings |         |       |
+|---+-----+------------------+---------+-------|
+|   |     |                  |         | 10450 |
+| ^ |     |                  |         |     x |
+|---+-----+------------------+---------+-------|
+#+TBLFM: $x=vsum(@2..@-1)

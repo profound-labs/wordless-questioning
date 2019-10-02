@@ -1,8 +1,10 @@
 #+TITLE: Bones
 
+* Notes :noexport:
+
  - restore view; life, the whole of it; a baby and the ash urn are same weight
 
-* Bones (1311w)
+* Bones [0/1]
 
 :TOPICS:
 - the bones as the fixed parts
@@ -12,7 +14,7 @@
 
 #+begin_text
 The bones are fascinating because they show the core, the fixed part of the body
-that determines what it is, what it can and cannot do.
+which determines what it is, what it can and cannot do.
 
 It is also frightening because seeing bones reminds us of the suffering of
 losing what we know, but they also teach us what we don't know -- how to not
@@ -123,11 +125,11 @@ as it is streched against the bone of the skull.
 Watching the body like this is like watching the rain, there is nothing to do,
 nothing to decide, and rain goes on without us having to get involved.
 
-A testi tudatosság megállítja a haragot, neheztelést és belső vádaskodást.
-Gondolatokon keresztül nincs a haragból kiút, de ezt ilyenkor nem látjuk.
-Valahogy fontosnak érezzük, hogy mérgesek legyünk, pedig csak az idő telik el
-vele fájdalmasan. Erre vágyunk, hogy vége legyen és nyugodtan mehessenek a
-dolgok tovább.
+Awareness of the body stops the anger, resentment and inner blaming. There is no
+escape. Continuing the thinking we only dig ourselves deeper, but we can't see
+that at the time. Somehow we feel it is important to be angry, although only the
+time passes painfully with it. We wish for it to be over finally, and let things
+continue smoothly.
 #+end_text
 
 :TOPICS:
@@ -136,6 +138,7 @@ dolgok tovább.
 - interpreting somebody else's dream
 - time-travelling back to the present
 - resolution starts
+- [ ] translate
 :END:
 
 #+begin_text

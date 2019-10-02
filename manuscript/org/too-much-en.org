@@ -1,6 +1,6 @@
 #+TITLE: Too Much
 
-* Too Much (1055w)
+* Too Much
 
 :TOPICS:
 - what is real will hurt
@@ -9,6 +9,7 @@
 - hindrances
 :END:
 
+#+begin_text
 We sit down to meditate and turn attention inwards. What is the first thing that
 we are aware of? We want something, or upset with somebody, or feeling dull and
 sleepy, or trying to figure out what to do and why. Other people seem to be
@@ -19,7 +20,15 @@ up our mind because there is no space to even sit down in there.
 
 We often find that what we have to learn is something we never noticed before.
 Something we have been doing for a long time, and only now we start to see it.
+#+end_text
 
+:TOPICS:
+- meditation object shows the mind
+- not for fantasies
+- hindrances as according to plan
+:END:
+
+#+begin_text
 The meditation object show us where our mind is. A quiet room with nothing to do
 seems like the perfect place to spend on hour thinking about our some drama or
 playing out dreams and fantasies, but when the bell rings, do we feel it was
@@ -38,7 +47,14 @@ thing. It's not pretty but finally I know."
 When we experience this, everything is going according to plan. They were caused
 by our actions in the past, this is the result, and we are doing the best
 possible thing by becoming aware of them.
+#+end_text
 
+:TOPICS:
+- awareness breaks compulsions
+- which recipe doubt
+:END:
+
+#+begin_text
 The power of awareness is to break compulsions. When we can't see, the mind runs
 itself in the old program and we only notice when the results are painful. When
 we see it, then we have the freedom to stop.
@@ -51,7 +67,15 @@ Then we look for the right recipe. "What meditation technique should I practice?
 How can I reach a deeper level? There must be a teacher who can tell me what to
 do." We can recognize these thoughts, and know that we are in doubt. Stepping
 back and knowing the mind is experiencing doubt.
+#+end_text
 
+:TOPICS:
+- forgiveness
+- trusting truth and virtue
+- endurance
+:END:
+
+#+begin_text
 And sometimes there is something we know we have to do. Asking for forgiveness
 if we made a mistake, or forgiving a mistake and moving on. Acknowledging a
 situation and resolving the built-up tension in a patient, skilful manner.
@@ -82,7 +106,15 @@ can remember to wait until we see better.
 If we can wait, that often solves half the problem already, which was us. Maybe
 there will be something to do, but often there won't be, because the problem was
 entirely in our excitement or upset.
+#+end_text
 
+:TOPICS:
+- know what you believe
+- causes
+- be with it
+:END:
+
+#+begin_text
 It makes a difference what we trust and what we believe, even when we haven't
 yet confirmed it and can can't say for sure.
 
@@ -113,4 +145,5 @@ and for going through difficulties.
 
 Ask yourself, "Can I find the space in my heart to be with this, as long as it
 needs to be here?" You probably can, but you have to ask the question.
+#+end_text
 

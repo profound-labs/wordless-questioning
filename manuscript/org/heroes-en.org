@@ -1,5 +1,7 @@
 #+TITLE: Heroes
 
+* Notes :noexport:
+
 - beliefs produce thoughts, thoughts are stories, stories have heroes, hero of the story you didn't create
 - think better thoughts
 - good thoughts, what stops you
@@ -8,8 +10,9 @@
 - the wise think the thought they want to think
 - who are your heroes? reflects your highest values
 
-* Heroes
+* Heroes [0/3]
 
+#+begin_text
 Thoughts don't have a good reputation in meditation handbooks. They are seen as
 obstructions, some kind of fault, something annoying and unwanted like flies. We
 come away with the impression that good meditators don't think, and if we are
@@ -103,14 +106,17 @@ thinking mind -- chaotic, dark and destructive.
 
 what has just flickered through your mind? as if thoughts were the measure.
 horrible thoughts sometimes. you're not that.
+#+end_text
 
-the critic is dead, the fantasy is dead, not responding to the persent, just a product of past conditions
+:TOPICS:
+- [ ] the critic is dead, the fantasy is dead, not responding to the persent, just a product of past conditions
+- [ ] space b/w thoughts, you are still conscios. can you watch that space?
+:END:
 
+#+begin_text
 We can step back and observe them. Keep other people safe from them, we have the
 responsibility to keep them under check with self-restraint, and with patience
 they will pass.
-
-space b/w thoughts, you are still conscios. can you watch that space?
 
 We are not these thoughts, the hero is the conscious awareness
 which recognizes that they have no possible benefit. The mind will change and
@@ -119,11 +125,15 @@ there will be better thoughts, we can wait for them.
 There is a hero's journey which describes how the story of the self develops. In
 the Buddha's teaching we can see how this reflects the effort of abandoning the
 unwholesome and developing the wholesome.
+#+end_text
 
+:TOPICS:
 - not heroes of our story
 - there is a real story, but we didn't make it
 - the body doesn't have a story
+:END:
 
+#+begin_text
 The Buddha teaches us about a truth which is greater than the stories of the
 self. There is a story which is not about how the self develops, but which lets
 go of the self.
@@ -144,9 +154,13 @@ the personality as a conditioned process arising and ceasing, and not being
 blocked or compelled by it. The truth is not in what we create. If we create
 something, that might be beautiful and interesting, but it is going to end. The
 personality is not what we trust.
+#+end_text
 
-let go of the person is to stay with it, not rejecting it. like with a child
+:TOPICS:
+- [ ] let go of the person is to stay with it, not rejecting it. like with a child
+:END:
 
+#+begin_text
 When this idea comes up in the mind, that ‘This is beyond me. I can’t do this.
 This is hopeless.’ Then you can remember that this is not where our refuge is.
 The Buddha is the awakening, the Dhamma is the truth, the Sangha is the virtuous
@@ -220,4 +234,5 @@ gratitude and kindness. Recollecting good actions from the past brings back the
 faith in our own capacity for virtue, and when we look around we find that we
 are not alone. Putting energy into cultivating these face-to-face relationships
 is a deep source of happiness.
+#+end_text
 

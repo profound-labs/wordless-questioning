@@ -1,6 +1,6 @@
 #+TITLE: Elements
 
-* Elements (1102w)
+* Elements
 
 :TOPICS:
 - the elements don't have 'me' and 'mine'

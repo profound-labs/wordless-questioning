@@ -1,8 +1,10 @@
 #+TITLE: Boat
 
-* Boat
+* Boat [0/7]
 
-- simplify down to the essence
+:TOPICS:
+- simplify it down to the essence
+:END:
 
 #+begin_text
 Meditation techniques are useful, they let us learn by doing, but we learn the
@@ -10,30 +12,34 @@ techniques not for knowing the techniques, but for knowing the mind. Too many
 techniques, or complicated steps and sequences however are confusing, and lead
 to a sense of being lost.
 
-Egyszerűsítsd le a lényegre. Egy lélegzet, egy BUD-DHO. Belégzésre ismételd
-magadban a mantra felét, BUD-, középen a megállás, kilégzésre, -DHO. BUD-DHO.
-Kész vagy.
+Simplify it down to the essence. One breath, one BUD-DHO. On the in-breath,
+think the first half of the mantra, BUD-, a pause in the middle, and on the
+out-breath, -DHO. BUD-DHO. Done.
 
-A lényeg a béke, a lényeg a megértés, ami megállít.
+The essence is peace, and the understanding, which stops you.
 
-A béke abból ered, hogy az érzékek visszahúzódnak és befelé néznek. A keresés
-megáll, mert ami van elég, és sehova nem kell menni. Az öröm abból fakad, hogy
-az elme megérti, hogy nincs boldogság amit a világban hajszolni lehet. Az
-értékek átrendeződnek.
+The peace originates from the senses drawing in and turning inwards. The seeking
+stops, because what is here is enough, and there is no need to go anywhere. The
+quiet joy arises from the mind which understands that there is no happiness in
+the world to be pursued. The values re-organize themselves.
 
-Hol van a béke most? Hol van a megértés most? Semmit nem kell megoldani.
-BUD-DHO, tíz lélegzet, és vége a világnak. Elég, ha a kérdés megállítja az
-elmét. Ez a megállás a csend, a válasz pedig nem szükséges.
+Where is the peace now? Where is the understanding now? There is nothing to
+solve. BUD-DHO, ten breaths, and the world ends. It is enough, when the question
+stops to mind. This pause is the listening silence, and the anwser is not
+necessary.
 
-Hétköznapi helyzetben, egyszerűsítsd le, amíg mindig felismerhető. Teljesen
-fáradt vagy, semmi energiád, kavarog az agyad a napi jövés-menéstől, de a légzés
-akkor is elérhető, a csend ott is érezhető.
+In an everday situation, simplify it down, until it is clear to recognize. You
+are completely exhausted, you have no energy, your mind is spinning with the
+coming and going of the day, but the breath is still available, the silence can
+be still felt.
 #+end_text
 
+:TOPICS:
 - bail out the boat
 - things are empty
 - bailing out the boat
 - not heavy with self
+:END:
 
 #+begin_text
 One of the teaching images of the Buddha is bailing out the boat. Imagine when
@@ -51,8 +57,10 @@ Emptiness is when the boat is empty. It moves swiftly, because it is light as a
 feather, not heavy with self, the story and drama of ’me’ and ’mine’.
 #+end_text
 
+:TOPICS:
 - happy, here
 - afraid to open
+:END:
 
 #+begin_text
 Often just stopping to look is enough to notice that we are happy where we are.
@@ -75,7 +83,9 @@ do your best. Not because it is useful, not because somebody expects it, but
 because you know it is the right thing to do, and you love doing what you do.
 #+end_text
 
+:TOPICS:
 - map story
+:END:
 
 #+begin_text
 One time I was walking in the countryside, and I had sheets of paper maps with
@@ -117,6 +127,11 @@ everything was well. Next day I did get to the town in time for alms-round, a
 man and two ladies offered me food for the day.
 #+end_text
 
+:TOPICS:
+- sail swiftly
+:END:
+
+#+begin_text
 What lets the boat sail swiftly without obstruction?
 
 Taking on everything is clearly not it, becuase the boat is going to sink on the
@@ -128,21 +143,27 @@ Setting boundaries to create structures in a way that allows us to suffer less,
 and allow others to suffer less. If we take on everything around us, the boat
 will sink even before leaving the port. That can't help us, and can't help
 others either.
+#+end_text
 
-Picking up a responsibility
+:TOPICS:
+- [ ] Picking up a responsibility
+- [ ] self-respect
+- [ ] hospital care
+- [ ] carry your weight
+- [ ] We can't grow stronger if we don't carry our weight, and others can't grow stronger -- carry weight is self-respect
+:END:
 
-self-respect
+:TOPICS:
+- road to success
+:END:
 
-hospital
-
-We can't grow stronger if we don't carry our weight, and others can't grow stronger 
-
+#+begin_text
 The Buddha taught the factors which lead to success. The energy to move and do
 something toward a goal depends on the faith that it makes sense, and the
 resolution to put effort into it. Doubt and criticism stops everything. We don't
 have to know it will work, we will only know that after we finished.
 
-It is enough to believe that we invesitaged the situation sufficiently to make a
+It is enough to consider that we invesitaged the situation sufficiently to make a
 start. The plan will change anyway when we meet the circumstances and recognize
 what needs to be solved.
 
@@ -150,8 +171,10 @@ If we consider the worst possible outcome that is reasonable to expect and we
 prepare for it, that gives us enough resolution to start. Investigating the
 circumstances, we resolve to do it. Determining the tasks which need doing,
 putting in the effort to keep the momentum going, keeping the sails in the wind.
+#+end_text
 
-not what we think, what we do
+:TOPICS:
+- [ ] not what we think, what we do
 
 If we want a picture of ourselves, we 
 our actions
@@ -160,9 +183,17 @@ how the world behaves
 
 learn from actions
 reflect on actions
+:END:
 
+:TOPICS:
+- closing the door gently
+- [ ] quote reference
+:END:
+
+#+begin_text
 There are times when investigation tells us to stop. Things change while we are
 not looking, not waiting for us. Grateful for having been there, there is a
 subtle art in gently closing the door behind us when leaving a room, and moving
 on in silence.
+#+end_text
 
