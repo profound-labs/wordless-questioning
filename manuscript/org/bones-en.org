@@ -10,7 +10,7 @@
 - kindness and acceptance
 :END:
 
-#+begin_quote
+#+begin_text
 The bones are fascinating because they show the core, the fixed part of the body
 that determines what it is, what it can and cannot do.
 
@@ -21,14 +21,14 @@ meditation on bones open a way.
 
 No matter what we think of the surface, the bones give us a message from beyond
 our thinking, that there is no ideal state about that surface.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - standing posture
 - head balance
 :END:
 
-#+begin_quote
+#+begin_text
 Meditating in the standing posture, it is easy to feel the the bones of the
 body.
 
@@ -53,14 +53,14 @@ The head controls the shape of the spine to a great degree. Because of sitting
 on chairs, we fall into a habit of carrying the head in a manner pushed forward.
 This creates a tension in the back muscles. Experiment, what does it feel like,
 to pull the head back a bit. The muscles in the back relax.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - bones
 - body made of pieces
 :END:
 
-#+begin_quote
+#+begin_text
 Feel how the bones connect. There is this perception of an inner structure which
 supports the body from the inside. Rigid pieces, stacked on top of each other.
 There is a sensation in the legs, a rigid perception, which are the long leg
@@ -86,13 +86,13 @@ to reality.
 These social expectations create an anxiety about our appearance, we are
 concerned about what other people think about our body, and we create opinions
 about their bodies.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - hair and nails dropping on the ground
 :END:
 
-#+begin_quote
+#+begin_text
 We can watch how this anxiety is conditioned when parts of the body are
 separated. We can be concerned about our hair for example, but only when it is
 on our head. When it is cut off, we are not anxious about a pile of hair on the
@@ -108,13 +108,13 @@ this gives us confidence in accepting them with kindness.
 The body is a blessing. This meditation is not to develop aversion or negative
 emotions toward the body. Health is a blessing, it supports us in everything we
 do. The Buddha called health the greatest treasure.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - bodily awareness stops anger
 :END:
 
-#+begin_quote
+#+begin_text
 Breathing in, breathing out, attention is turned inwards, noticing 'there is a
 body'. The mind is not seeking anything, not going out somewhere. From the feet,
 to the legs, abdomen, chest, arms, the skull and the head, you can feel the skin
@@ -128,7 +128,7 @@ Gondolatokon keresztül nincs a haragból kiút, de ezt ilyenkor nem látjuk.
 Valahogy fontosnak érezzük, hogy mérgesek legyünk, pedig csak az idő telik el
 vele fájdalmasan. Erre vágyunk, hogy vége legyen és nyugodtan mehessenek a
 dolgok tovább.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - no stories
@@ -138,7 +138,7 @@ dolgok tovább.
 - resolution starts
 :END:
 
-#+begin_quote
+#+begin_text
 Megfigyeljük a test részeit, és látjuk, hogy nem hordoznak semmilyen sztorit.
 Így fellélegezhetünk, hogy nem vagyunk a sztorikhoz láncolva, azokat mi hozzuk
 létre.
@@ -175,5 +175,5 @@ vagy képesség kérdése, ezek helyhez és időhöz kötöttek. Az elhatározá
 irányuló flismerő figyelem nem egy adott körülményhez kötött. Az eredménye a
 helyes szemlélet, amiben látjuk a dolgok megfelelő helyét, és mit kell azokkal
 tenni -- vagy amikor nincs más teendő, csak megállni, figyelni és lélegezni.
-#+end_quote
+#+end_text
 

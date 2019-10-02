@@ -1,6 +1,6 @@
 #+TITLE: Cycles
 
-* Cycles (1072w)
+* Cycles
 
 :TOPICS:
 - more technique, what to do, how to do more
@@ -12,20 +12,29 @@
 - knowledge doesn't become yours
 :END:
 
-A meditációs utasítások lépésekben épülnek fel, de nem ezek a lépések a
-meditáció célja. Viszont kialakul bennünk az a benyomás, hogy lépésről lépésre
-kell valamit teljesítenünk.
+#+begin_text
+Meditation teaches understanding through the feelings and experiences in the
+present.
 
-A lépések az imitációs tanulás részei. Mint amikor kézbe veszünk egy új tárgyat,
-követjük az utasításokat és kipróbáljuk a használatát, megismerik annak
-lényegét. Ezután viszont a lépésekre már nincs szükségük a lényeg
-alkalmazásához.
+The instructions are given in steps, but these steps are not the purpose of
+meditation. The purpose is clear knowing of the present experience, restoring
+right perspective. We can develop an impression that we should always complete
+the same sequence of steps, and when the mind doesn't develop according to that
+sequence, we feel disappointed.
 
-A meditációt is így ismerjük meg. A 'miért'-je nem világos a gondolati
-megismerés számára, és hiába olvasunk válaszokat erre a kérdésre, a dolog nem
-válik tisztábbá, csak még több véleménnyel lesz tele a fejünk.
+Turn that attitude around and start with experience. If our experience is the
+base, the way it is, then what understanding does that give us? When painting a
+wall, we look at the wall first, choose the right paint for it, and /then/ follow
+the advice on the paint can. The wrong paint will just peel off, won't it? We
+look at the mind first, how we are feeling, what state we are in, and respond
+intelligently to that.
 
-A meditáció ezt az érzésen, tapasztaláson keresztüli megismerést tanítja.
+The steps are a method of learning through imitation, following an example we
+watch ourselves and see how things work. When we feel pain and suffering, and
+either we are able to resolve it or wait it out patiently, we will know that was
+not just imitation, and our confidence in the practice will grow. We have learnt
+something there, and we are not going to hold on to the details of the first
+tutorial.
 
 It would be great if our meditation would develop in a linear way. We imagine
 that we are going to sit down, perhaps a bit unfocused, and after an hour, /if
@@ -59,6 +68,7 @@ Some knowledge is necessary, but a little is enough. Remembering the teachings
 of the Budda is a treasure which doesn't run out. But this knowledge doesn't
 become ours, and we can't save it. Whatever we learn, every time we start again
 from the begnning, and trust the present knowing from there.
+#+end_text
 
 :TOPICS:
 - distinctions
@@ -66,6 +76,7 @@ from the begnning, and trust the present knowing from there.
 - knowing the mind
 :END:
 
+#+begin_text
 The mind would like to say that it is a good meditation, or a bad meditation. It
 wants to create a distinction and name it. This preference creates
 dissatisfaction, and we try to improve our experience. We decide how our
@@ -87,6 +98,7 @@ This is enough, knowing the mind this way we arrive at a sense of gratitude for
 being. Not a gratitude for anything in particular, just that there is
 experience, there is knowing, there is clarity, and the freedom which allows us
 to stop going towards more and more, or a different thing.
+#+end_text
 
 :TOPICS:
 - feelings with no edged
@@ -95,7 +107,7 @@ to stop going towards more and more, or a different thing.
 - knowing without naming
 :END:
 
-#+begin_quote
+#+begin_text
 In a balanced posture the feelings of the body are easy to observe. We turn
 attention inwards, in a curious manner, wanting to discover.
 
@@ -138,7 +150,7 @@ down on its own.
 
 The result will be a wholesome mind which understands. Not being compelled, not
 being forced, we recognize it by the coolness and comfort of being free.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - closing
@@ -146,3 +158,23 @@ being forced, we recognize it by the coolness and comfort of being free.
 - After teaching, the Buddha returns to concentration on the signless.
 - They continue to meditate.
 :END:
+
+#+begin_text
+The Buddha had given step-by-step instruction on how to develop mindfulness of
+breathing. First, it starts with simply noticing the breath, knowing the short
+and long breath. Then it guides us through contemplating the body, the feelings
+which arise, the present state of mind and the nature of phenomena, while
+staying grounded in the breathing.
+
+What is at the end of the instruction? Where does all this develop to? The last
+step is relinquishment. 'I shall breathe in, contemplating relinquishment. I
+shall breathe out, contemplating relinquishment.' After mindfully knowing
+impermanence, dispassion and cessation, the blessing is in letting go.
+
+The great teachers are our examples. They didn't meditate to achieve a special
+state and then do something else with their life. Meditation doesn't separate
+out, but integrates into their life. The Venerable Sariputta said he abides in
+the perception of emptiness, the Buddha said he abides in the signless
+concentration. They contine to meditate.
+#+end_text
+

@@ -1,5 +1,4 @@
 #+TITLE: Légzés
-#+OPTIONS: d:(not "TOPICS")
 
 * Légzés
 
@@ -17,7 +16,7 @@
 - restore right perspective
 :END:
 
-#+begin_quote
+#+begin_text
 'Hogy tudom megcsinálni?' Nem ez a feladatod. Kérdezd azt, 'Tudok rá figyelni?'
 
 Ismerni csak azután fogod, hogy a kezdeti bizalom engedett gyakorolni, és azt tudod majd
@@ -57,7 +56,7 @@ szenvedést újra és újra létrehozzuk. Panaszkodunk, hogy 'Miért van ez mind
 
 Közelebbről megnézve látjuk, hogy az egyik dolog a másiktól függ. Akkor szabadon
 abbahagyhatjuk. Így visszatérünk a csendes elégedettséghez.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - posture

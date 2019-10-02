@@ -9,7 +9,7 @@
 - present is interesting when you look
 :END:
 
-#+begin_quote
+#+begin_text
 Bodily awareness is a different form of cognition. It is not thinking, not
 seeking solutions, not trying to answer questions, just an awareness which knows.
 
@@ -30,7 +30,7 @@ The present moment is always interesting. When you feel that it is not
 interesting, try and inspect it closely -- as soon as we look, we start seeing
 things we don’t quite know. Seeing our own experience, we don’t quite know what
 is going on.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - ocean
@@ -38,7 +38,7 @@ is going on.
 - we create the world and become something
 :END:
 
-#+begin_quote
+#+begin_text
 This is like watching the ocean. Do you remember what happens in the mind when
 watching the ocean? Thinking cannot fix the ocean, so it gives up and stops.
 Thinking cannot freeze the waves, and say 'this wave is like this, that wave is
@@ -68,13 +68,13 @@ free to just watch.
 Not understanding our experience, we make decisions about it. We decide
 something is good, something is bad. At that point we create the world and we
 have to become something. This we can watch, that we are creating that.
-#+end_quote
+#+end_text
 
 - feelings don't have a clear edge
 - ocean stops the mind
 - can't judge the waves
 
-#+begin_quote
+#+begin_text
 It is not necessary to have a clear verbal theory which we produce. Feelings are
 ambiguous. They don't have a clear edge. Thinking is not always certain, not
 determined, and always changes.
@@ -94,7 +94,7 @@ which doesn't have fixed rigidity of judgement.
 
 Breathing in, breathing out, it moves in its own way. There isn't a lot of
 precise control that we have over it.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - contact
@@ -104,7 +104,7 @@ precise control that we have over it.
 - kindness
 :END:
 
-#+begin_quote
+#+begin_text
 When the senses make contact with the world, the feeling is born. When that
 contact ceases, the feeling ceases.
 
@@ -139,4 +139,4 @@ the body as nature, doesn't want to create a judgement, it is just like this.
 
 Like the waves of the ocean. If someone wants to create judgement of the waves,
 they are going to have a difficult time.
-#+end_quote
+#+end_text

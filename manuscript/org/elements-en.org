@@ -9,7 +9,7 @@
 - the frame of experience
 :END:
 
-#+begin_quote
+#+begin_text
 We experience the body sitting, and we tend to think ’I am sitting’, ’This is
 something which I am doing’. But the experience, what is it?
 
@@ -46,7 +46,7 @@ quality which is about what it is like to sit here. This is different from the
 material properties of the matter, and different from space. It is another
 fundamental of our experience. This creates the environment, the whole scenery
 which we call the world, or life. This is the frame in which it happens.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - creation and destruction of elements
@@ -54,7 +54,7 @@ which we call the world, or life. This is the frame in which it happens.
 - taking credit for it when not aware
 :END:
 
-#+begin_quote
+#+begin_text
 We see our expereiences to change. There is creation, some of them are
 happening to us, there is destruction, some of them are ceasing, some pressure
 appears, some pain dissapears. We become conscious of some experience, some idea
@@ -71,7 +71,7 @@ and consciousness, are not concerned with being something, being ’me’ or bei
 ’mine’. We know what these things are, but it is something we put onto the
 fundamentals. This is the birth and death which we create. Recognizing it is
 sufficient.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - standing up from the game
@@ -80,7 +80,7 @@ sufficient.
 - free to stand up and walk away
 :END:
 
-#+begin_quote
+#+begin_text
 It is like recognizing that there is a game. We didn’t know that there was a
 game, but once we understand, we can stop following the rules, the compulsive
 tendencies, ’you must do this, you must do that’, and there is a freedom from
@@ -114,7 +114,7 @@ when something dear changes. Usually we don't prepare, and we think the pain is
 just part of the package. Tragedy is sad by its nature, but we also think we
 should be in pain and suffer. That is the game we don't have to play, but we see
 very few examples of such excellence.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - acting on it consciously
@@ -122,7 +122,7 @@ very few examples of such excellence.
 - greater space, we are a small part
 :END:
 
-#+begin_quote
+#+begin_text
 Be conscious, be grateful for having the life that we have. We can give up the
 craving, give up the dissatisfaction. This way we know that the teaching is
 something we can use.
@@ -131,4 +131,4 @@ We are relieved to find ourselves in a wider space than before. Letting go is
 the freedom which the heart recognizes and wants to return to. To greater space
 where there is space for ’me’, space for ’mine’, but it is only a small part of
 the picture now.
-#+end_quote
+#+end_text

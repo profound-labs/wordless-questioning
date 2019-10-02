@@ -4,7 +4,7 @@
 
 - simplify down to the essence
 
-#+begin_quote
+#+begin_text
 Meditation techniques are useful, they let us learn by doing, but we learn the
 techniques not for knowing the techniques, but for knowing the mind. Too many
 techniques, or complicated steps and sequences however are confusing, and lead
@@ -28,14 +28,14 @@ elmét. Ez a megállás a csend, a válasz pedig nem szükséges.
 Hétköznapi helyzetben, egyszerűsítsd le, amíg mindig felismerhető. Teljesen
 fáradt vagy, semmi energiád, kavarog az agyad a napi jövés-menéstől, de a légzés
 akkor is elérhető, a csend ott is érezhető.
-#+end_quote
+#+end_text
 
 - bail out the boat
 - things are empty
 - bailing out the boat
 - not heavy with self
 
-#+begin_quote
+#+begin_text
 One of the teaching images of the Buddha is bailing out the boat. Imagine when
 a boat or ship is full of water, or full of goods it has to carry, then the
 boat moves slowly. It is burdened, heavy and slow, all the water and things are
@@ -49,12 +49,12 @@ is the weight.
 
 Emptiness is when the boat is empty. It moves swiftly, because it is light as a
 feather, not heavy with self, the story and drama of ’me’ and ’mine’.
-#+end_quote
+#+end_text
 
 - happy, here
 - afraid to open
 
-#+begin_quote
+#+begin_text
 Often just stopping to look is enough to notice that we are happy where we are.
 Stop and stay with it. A lot of us think we are never happy.
 
@@ -73,11 +73,11 @@ wholesome?
 Sometimes letting go means to let go of the fear to pull out all the stops and
 do your best. Not because it is useful, not because somebody expects it, but
 because you know it is the right thing to do, and you love doing what you do.
-#+end_quote
+#+end_text
 
 - map story
 
-#+begin_quote
+#+begin_text
 One time I was walking in the countryside, and I had sheets of paper maps with
 me. I had been walking for a few days, and I usually make notes on the map,
 track which paths I followed, where did I find a good camping spot, where did I
@@ -115,7 +115,7 @@ That day I learnt more than I volunteered for. I rolled it up in a towel and it
 dried eventually. It was almost dark by the time I found a place to camp but
 everything was well. Next day I did get to the town in time for alms-round, a
 man and two ladies offered me food for the day.
-#+end_quote
+#+end_text
 
 What lets the boat sail swiftly without obstruction?
 

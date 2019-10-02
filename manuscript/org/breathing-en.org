@@ -1,7 +1,10 @@
 #+TITLE: Breathing
-#+OPTIONS: d:(not "TOPICS")
 
-* Breathing (1307w)
+* Notes :noexport:
+
+generosity relaxes
+
+* Breathing
 
 :TOPICS:
 - opening
@@ -9,7 +12,7 @@
 - simple message: don't suffer
 :END:
 
-#+begin_quote
+#+begin_text
 I used to think that we are supposed to learn new things by observing the
 breathing. I sat down and struggled to understand how to do it, and kept
 thinking and changing how to breathe, expecting that eventually it will somehow
@@ -19,12 +22,14 @@ about the mind. It was rather painful and mostly fruitless.
 The best is when we have to learn something we didn't volunteer to learn. We
 don't learn new facts from meditation, because there are so few that we need,
 and we already know them. But we don't stop to stay with them, and unpack their
-significance for /what to do/ and /how to be/, and so they have no effect on us.
-Watching the breath stops us and opens the attention which can do that.
+significance for /what to do/, /in what manner to do it/, or in other words /how
+to be/. A list of facts, if not integrated, doesn't reach deep enough to deal
+with root causes in the heart and mind, and have no effect on us. Watching the
+breath stops us and opens the attention which can do that.
 
 The Buddha only has a simple message for us: wake up, stop holding on, you
 don't have to suffer. We keep unpacking that.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - attitude, turning inward
@@ -34,7 +39,7 @@ don't have to suffer. We keep unpacking that.
 - restore right perspective
 :END:
 
-#+begin_quote
+#+begin_text
 'How can I do it?' That's not the task for you. Rather ask, 'Can I pay attention to it?'
 
 You are only going to know it after the initial faith has allowed you to
@@ -72,18 +77,27 @@ We keep doing the same thing, and not see it.
 
 Looking closer, we see that one thing depends on another. Then we are free to stop doing it.
 We return to a quiet contentment that way.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - posture
+- away from everyday activities
+- aware of the space
 - sensation of the breath
-- [ ] away from everyday activities
+- Bud-dho
 :END:
 
-#+begin_quote
+#+begin_text
 Take the time to adjust the body and find a good sitting or standing posture.
 The important point is to be upright, in a stable but relaxed posture, with the
 head balanced and not lulling forward, and to allow the breathing to be open.
+
+Determine that you are putting down everyday activities for this period. 'This
+is not the right time, I will come back to that at its proper time.' Putting
+them down not because they are not important, but because if we don't rest, we
+can't do our work well. It can help to think the thought deliberately. This
+establishes a clear intention, and communicates to the unconscious processes in
+the mind, like clearing away clutter from a desk before starting work.
 
 Take a deep breath to test how the body moves. If you don’t feel anything which
 is obstructing and limiting, if the breath is easy and open, then that will do.
@@ -121,13 +135,19 @@ feel that you have to complete, or change something, it is always an extra,
 something which we create. We create this expectation that we have to change, we
 have to fix, we have to control. Recognize that compulsion and recognize that
 you can let it go, you don’t have to do that.
-#+end_quote
+
+If there is a lot of thinking, determine what to think, instead of letting the
+mind run in circles. For example, use the mantra BUD-DHO, which means 'the
+knowing'. On the in-breath, think BUD-, on the out-breath, -DHO. Thoughts can
+have a lot of momentum, and refuse to quiet down, but this puts down a guard
+rail and speed bumps on the road, to slow down and stay on track.
+#+end_text
 
 :TOPICS:
 - simple experience of the present
 :END:
 
-#+begin_quote
+#+begin_text
 Breathing in, staying with the simple experience of the moment, and this is
 enough.
 
@@ -140,7 +160,7 @@ nothing wrong with that. It is a happiness which is not connected to craving,
 not dependent on having to get or gain something. It is a happiness arising from
 seclusion of the senses, withdrawing to simplicity, and knowing the present
 moment. That is an alert, content, and satisfied state of mind.
-#+end_quote
+#+end_text
 
 :TOPICS:
 - closing
@@ -148,7 +168,7 @@ moment. That is an alert, content, and satisfied state of mind.
 - begin again, where you didn't expect to know
 :END:
 
-#+begin_quote
+#+begin_text
 When we have been sitting for a while, we start wanting to complicate it. Where
 does this come from, that we can't stay with something simple? Notice how belief
 in the simple changes, there is some point we start thinking about, the doubt
@@ -170,4 +190,4 @@ bends easily as it grows, the old tree is hard and dry when it dies.
 Begin again, where there is kindness to the beginner, where you didn't expect
 yourself to know. We don't know what is here until we watch and see. That seeing
 and watching is the fresh knowing. Allow yourself to be always at the beginning.
-#+end_quote
+#+end_text
