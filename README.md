@@ -1,3 +1,5 @@
-Doesn't Make Much Noise
+Meditation Without Haste
 
-/Reflections on Meditation/
+/A Meditation Guide/
+
+Or, /Attention Heuristics/.
