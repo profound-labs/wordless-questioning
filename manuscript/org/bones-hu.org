@@ -25,40 +25,53 @@ tovább.
 :END:
 
 #+begin_text
-Megfigyeljük a test részeit, és látjuk, hogy nem hordoznak semmilyen sztorit.
-Így fellélegezhetünk, hogy nem vagyunk a sztorikhoz láncolva, azokat mi hozzuk
-létre.
+Megfigyeljük a test részeit, és látjuk, hogy nem hordoznak magukkal semmilyen
+sztorit. Így fellélegezhetünk, hogy nem vagyunk a sztorikhoz láncolva, azokat mi
+hozzuk létre.
 
 Ehhez a figyelemhez mindig vissza tudunk térni, egy belégzés és kilégzés elég
 ahhoz, hogy emlékezzünk a keletekzésre és elmúlására, és a problémáink olyanná
 válnak, mint a sztorik egy régi újságban. Ráununk kibogozni a szálakat, mintha
 valaki más álmait kellene értelmeznünk. Ami a valóság, az mindig itt van a jelen
 tapasztalatunkban. Nem az válik fontossá, hogy mi a sztori, hanem az, hogy
-tudjunk arra figyelni, amikor itt vagyunk.
+a figyelmünket annak tudjuk szentelni, ahol most vagyunk.
 
 A testi tudatosság enged a kívánságokból és rávezet arra, hogy szerencsések
 vagyunk, hogy itt lehetünk.
 
-Hova akarunk jutni? Elkezdhetjük most. Ha nehéz dologról van szó, szinte biztos,
-hogy nem tudjuk mit kell tenni, de elképzelhetjük magunkat, hogy pár év múlva
-visszanézünk a mostra, és megköszönjük magunknak, hogy elkezdtük eloszlatni a
-ködöt.
+Hova akarunk jutni? Elkezdhetjük most. Ha valóban érdemes dologról van szó,
+szinte biztos, hogy nehéz is. Ha nehéz, szinte biztos, hogy nem tudjuk mit kell
+tenni. A bizonytalanság a terv része kell legyen.
 
-A jövőbeli önmagunk szemével visszanézünk a jelenre, és megkérdezzük, itt
-akarunk lenni? Meglepő módon a válasz gyakran nem a helyzetet boncolgatja, hanem
-hálás azért, hogy ilyen szerencsések vagyunk, hogy itt lehetünk ahol vagyunk.
-Van amit meg akarunk még tenni, de már azt is meg tudjuk köszönni, amit eddig
-megtapasztalhattunk.
+Elkezdeni viszont valószínűleg nem bonyolult. Megkérdezhetjük magunkat, hogy ha
+lenne időgépünk, visszamennénk pár évvel, hogy már akkor elkezdjük? Ha már pár
+évvel ezelőtt elkezdtük volna, örülnénk annak, hogy mostanra már legalább van
+némi ismeretünk a helyzetről. A mostban a jövőbeli önmagunknak tehetjük meg ezt
+a szívességet. Elkezdhetjük most, és elképzelhetjük, hogy pár év múlva
+visszanézünk, és megköszönjük magunknak, hogy elkezdtük eloszlatni a ködöt.
 
-We don't stop often enough to notice when we are happy and peaceful. When the
-mind is clear and calm, it is naturally grateful for what is here, it is able to
-say 'thank you' for the blessings we received in our life. The present is good,
-and whatever way it develops for the rest of our life, we are able say 'thank
-you'.
+Amikor nincs tisztán elhatározott szándékunk, csak úgy sodródunk, és /nem
+kifejezetten zavar/ minket, hogy itt vagyunk, de az elme szürke és élettelen,
+szinte próbál elbújni és láthatatlanná válni. Az eredmény, hogy valóban szürkévé
+és láthatatlanná válunk így. Semmi rossz nem történik, de nincs semmi világosság
+sem abban, hogy ott vagyunk.
 
-Az elhatározás, hogy figyelni fogunk, megteremti ennek a kellő feltételt. Nem erő
-vagy képesség kérdése, ezek helyhez és időhöz kötöttek. Az elhatározás, a befelé
-irányuló flismerő figyelem nem egy adott körülményhez kötött. Az eredménye a
-helyes szemlélet, amiben látjuk a dolgok megfelelő helyét, és mit kell azokkal
-tenni -- vagy amikor nincs más teendő, csak megállni, figyelni és lélegezni.
+Visszanézve a jelenre a jövőbeli önmagunk szemével, visszajönnénk, mert itt
+/akarunk/ lenni? Lehetünk cinikusak és gondolhatunk a legrosszabbra, de meglepő
+módon, a válasz gyakran nem a helyzetet kezdi el boncolgatni, hanem mint amikor
+új helyre utazunk, hálásak vagyunk, hogy ilyen szerencsések vagyunk, hogy itt
+lehetünk ahol vagyunk. Van amit még később meg kell tenni, de már azért is
+köszönetet tudunk mondani, amit eddig megtapasztalhattunk.
+
+Nem állunk meg elég gyakran, hogy észrevegyük mikor boldogok és nyugodtak
+vagyunk. Amikor az elme tiszta és csendes, természetes módon hálás azért ami itt
+van, és képes köszönetet mondani az áldásokért amit életünkben kaptunk. A jelen
+jó, és akárhogy is alakul az életünk hátralevő részében, meg tudjuk azt
+köszönni.
+
+Nem létrehozunk valamit, hanem tiszta szándékkal felismerjük azt ami itt van.
+Nem erő vagy képesség kérdése, ezek időhöz és körülményhez kötöttek. Az
+elhatározás, a befelé irányuló flismerő figyelem nem egy adott körülményhez
+kötött. Az eredménye a helyes szemlélet, amiben látjuk a dolgok megfelelő
+helyét, és mit kell azokkal tenni -- vagy csak megállni, figyelni és lélegezni.
 #+end_text
