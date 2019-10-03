@@ -1,0 +1,417 @@
+#+TITLE: Meditation Without Haste -- Notes
+
+---
+
+drowsiness
+
+---
+
+
+we wait, and when it has run its course the humble and greateful mind will appear out of nowhere
+humble mind, grateful mind, not tough, not old wood
+
+---
+
+we want achieve to arrive to the present in the end anyway, what if the goas was
+given to us? we could relax and work for benefit, not for compulsion.
+
+---
+
+dhamma, atha, niruti, patibhana
+
+---
+
+the monkey mind and horse heart
+monkey knowing it is a monkey, horse knowing it is a horse
+
+---
+
+pleasant or unpleasant is after contact and before clinging
+
+---
+
+structure:
+
+- introduction
+- description of suffering
+- description of experience
+- short heuristic
+- Dhamma reference
+- supporting anecdote
+
+---
+
+* [[file:index.org][Meditation Without Haste]]
+* Tasks
+
+b/w fractals
+
+dhamma book as a series of newsletters, like dailylit
+
+* Titles
+
+Meditation Without Haste
+
+Meditáció Sürgés Nélkül
+
+Secret title: Attention Heuristics
+
+Titkos cím: figyelem heurisztikák
+
+https://hu.wikipedia.org/wiki/Heurisztika
+
+Heurisztika gör. heureszisz (rátalálás) szóból származik. Az új igazságok módszeres fölfedezésének művészete
+
+https://pszichologuskereso.hu/blog/heurisztikak
+
+Aronson (2008) szerint a heurisztikák révén tudjuk értelmezni a minket körbe
+vevő információs halmazt. [...] A heurisztika alkalmazása csökkenti a
+gondolkodás igényét, a részletesebb megismerést. A heurisztikával áll szemben a
+módszeres gondolkodás.
+
+There aren't many precise descriptions, it reads like a quote collection or idea
+list. Attention heuristics.
+
+Or like dreams, loosely coherent pictures in an larger, more comprenensive frame.
+
+* Timing and Length
+
+Speaking:
+
+- avg. 150 wpm and 130 wpm in various places
+
+Reading: 
+
+- avg: 200 wpm
+- slow: 170 wpm
+
+* Guide
+
+- no terminology
+- no pali words
+- no lists
+- no spiritual buzz: awaken > recognize
+- use 'we', instead of catchier 'you'
+- remove superlatives
+- no my system syndrome
+- no not invented here syndrome
+- not a lot of specifics, everything changes after step one
+- anthropic: this is an average book, after thousands of years with many thousands of practicioners
+- no quote blocks, max short inline
+- notice referencing and building from essentials
+- no 'I'm sorry but it's though' voice
+- no Lovecraft style, trying to edit more adjectives into it
+- rewrite: not "we have to... we need to...", rather "it is"
+- simple conversation language, not written long-form fanciness
+- less opinion, more description
+- no acting the wise man phrases
+- rewrite: avoid starting the sentence with "so"
+
+identify key phrases
+
+like good sci-fi, like a physics book
+
+talking like after speaking about the book afer having read it
+
+banned useless phrases:
+
+- receive life as it is
+- the story doesn't end there
+- life is hard / sad / tragic
+
+* References
+** Tao Te King
+
+Mikor a szépet megismerik,
+felbukkan a rút is;
+mikor a jót megismerik,
+felbukkan a rossz is.
+Lét és nemlét szüli egymást,
+nehéz és könnyű megalkotja egymást,
+hosszú és rövid alakítja egymást,
+magas és mély kulcsolja egymást,
+sok hang összeolvasztja egymást,
+korábbi s későbbi követi egymást.
+Ezért a bölcs
+sürgés nélkül működik,
+szó nélkül tanít,
+nézi az áramlást és hagyja, nem erőlködik,
+alkot, de művét nem birtokolja,
+cselekszik, de nem ragaszkodik,
+beteljesült művét nem félti,
+s mert magának nem őrzi,
+el se veszíti.
+
+Ford. Weöres Sándor
+
+https://mek.oszk.hu/00100/00191/00191.htm
+
+** Köszönet az Életért
+
+Van-e szebb élet, mint a másik
+S nem mindegy-e, akárhogyan
+Verjük magunk az elmulásig?
+
+Úgy siratom azt, amit sírtam,
+Olyan nagy vétek a sirás:
+Esti vezeklés hajnal-pírban.
+
+Aki él, az mind, mind örüljön,
+Mert az Élet mindenkinek
+Kivételes, szent örömül jön.
+
+Én vétkeztem, százszor vétkeztem,
+De már jön a megjobbulás,
+Már az örömet látni kezdem.
+
+Már megragyog fénnyel az Élet,
+Mindennemű s mindenkié:
+Milyen nagy, áldott fényességek.
+
+Akárki helyén éltem volna,
+Életem éltem egyaránt,
+Ujjongva avagy panaszolva.
+
+És akármi is fog már jönni,
+Mielőtt végleg elmegyek,
+Meg fogom ezt szépen köszönni.
+
+Ady Endre
+
+https://mek.oszk.hu/00500/00588/html/vers0601.htm
+
+** orienting reflex
+** boat
+
+Dhp 369, https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.25.than.html
+
+Monk, bail out this boat.
+It will take you lightly when bailed.
+Having cut through passion, aversion,
+you go from there to Unbinding.
+
+Atthakavagga
+https://www.accesstoinsight.org/tipitaka/kn/snp/snp.4.01.than.html
+
+A man who is greedy
+	for fields, land, gold,
+	cattle, horses,
+	servants, employees,
+	women, relatives,
+	many sensual pleasures,
+is overpowered with weakness
+and trampled by trouble,
+for pain invades him
+as water, a cracked boat.
+
+So one, always mindful,
+should avoid sensual desires.
+	Letting them go,
+he'd cross over the flood
+like one who, having bailed out the boat,
+	has reached the far shore.
+
+* See Also
+** emails
+
+cinikusság
+[[mu4e:msgid:87bm3v77wn.fsf@gmail.com][Re: {printf_gambatte} Weöres Sándor - A Teljesség Felé]]
+
+egyszerűsítsd
+[[mu4e:msgid:878u2xyh3z.fsf@gmail.com][meditáció]]
+
+[[mu4e:msgid:87wp5i5osh.fsf@gmail.com][oolong]]
+
+[[mu4e:msgid:87y3py5tez.fsf@gmail.com][oolong]]
+
+[[mu4e:msgid:87wp346hhx.fsf@gmail.com][Re: Meditáció]]
+
+[[mu4e:msgid:87twayxyg8.fsf@gmail.com][meditation (safe for work)]]
+
+** other
+
+[[file:~/prods/articles/instrucao-basica/instrucao-basica.org][Instrução Básica]]
+
+Clarity and Calm for Busy People
+http://www.amaravati.org/dhamma-books/clarity-and-calm/
+
+Guided Meditation: Experiencing Whole Body
+http://www.amaravati.org/audio/day-1b-guided-meditation-experiencing-whole-body/
+
+Guided Meditation: Breathing Through Four Elements
+http://www.amaravati.org/audio/day-5b-gm-breathing-through-four-elements/
+
+https://www.youtube.com/watch?v=e5oDCy_0p5o | Weöres Sándor: Meztelenség, A teljesség felé - YouTube
+https://www.youtube.com/watch?v=_bNh8oZ5_SA | A mozdulatlan utazás (A teljesség felé) - YouTube
+https://www.youtube.com/watch?v=e5oDCy_0p5o | Weöres Sándor: Meztelenség, A teljesség felé - YouTube
+https://www.youtube.com/watch?v=wiqleF19Cj0 | Szögyal Rinpocse: Meditáció - YouTube
+https://www.youtube.com/watch?v=VmYenDz20qo | Sunrjú Szuzuki: Légzés - YouTube
+https://www.youtube.com/watch?v=y4Rd6EtyfL8 | Csuang-ce: Az aranylét szabályai - YouTube
+https://www.youtube.com/channel/UC0sZDQL9U83T3wrtRTMGUjA/videos | Itt vagyok - YouTube
+https://www.youtube.com/watch?v=l_2GBGRH9b4 | Mustó Péter SJ: Elszántan - YouTube
+https://www.youtube.com/watch?v=B_kToPBhDRg | Mustó Péter SJ: Engedd el! (tanácsok keresztény meditációhoz) - YouTube
+https://www.youtube.com/watch?v=wiqleF19Cj0&t=326s | Szögyal Rinpocse: Meditáció - YouTube
+https://soundcloud.com/ectilos/electrocat-toma-irodalmi-1 | electrocat-Toma-!rodalmi DubTechno-Weöres Sándor-A Teljesség Felé by electrocat - Tilos radio | Free Listening on SoundCloud
+https://www.youtube.com/watch?v=9ALm0s4qrTQ | Hagyaték - A teljesség felé - Weöres Sándor hagyatéka - YouTube
+
+* more
+
+- life happens in the body
+- lack, need, have to do
+- body and mind
+- the frame of everything we can ever become
+
+#+begin_quote
+53:30
+
+_Experiencing the body, this is where our life happens._ Thinking that somehow our
+life is somewhere else creates a sense of lack, sense of need. ’I have to go, I
+have to do.’ But it is always in the body. We are always with this form that we
+experience. Breathing in, breathing out, maintainsbeginnign the organism that is
+alive. Every experience that we have depends on the body. The body is sustained.
+
+The body and the mind are sustained together. There is form, we experience it
+and receive experience through it. Without that form, without this body, there
+would not be experience.
+
+That is all. _That is everything that we can be, that we can ever become, is
+going to be like that._ It is going to be experienced through the body.
+
+This body, which was once a baby, which grew up, it is now tall, standing up, it
+is going to grow old, and eventually break, and they burn it or put it in the
+ground. _That is the entire story._ Everything that we can ever become, or happen
+with us, will be _within that frame._
+
+This is the nature that doesn’t choose. It includes the beginning, it includes
+the end, includes the young and strong, the old and weak, the happy and easy,
+the difficult and hard. It includes it all, and it all happens through the body.
+_Form and experience goes together._
+#+end_quote
+
+- attention reveals
+- seeing gives information
+- steady base
+- active presence
+
+#+begin_quote
+1:05:45
+
+_The mindful, patient attention reveals what is here, what is the experience.
+This is the light which gives understanding, so we can see what happens._
+Attention sees arising and ceasing. It knows what happens, and understands
+conditioning, understands origin and cessation.
+
+It understands what to do, what not to do, because it sees. This seeing gives
+the information to know. There is energy and happiness in being able to do
+something. To see that things are the way they are. There is happiness in just
+that seeing. This settles down into tranquillity and becomes a steady, stable
+base. Eventually it will be difficult to shake it up and disturb it. At that
+point is when it is even with difficulties, even with excitement. Even with
+things going right, things going wrong.
+
+It starts from the attention which knows what happens, sees it in context, it is
+happy to receive, settles in the stillness, finds its base, and knows where the
+place of everything is. That way it is not disturbed.
+
+_This is an active presence. This is not a stillness that is not moving._ A
+stillnes which is not moving is present, but it doesn’t know. A stillness that
+doesn’t move, cannot learn, it cannot cultivate wisdom.
+
+The even attention which can stay with changing experience is where wisdom can
+learn what things happen, how things move, and see them in a perspective that
+knows that there is no other way.
+#+end_quote
+
+- being serious
+- pushing the practice
+- the body doesn't have a story
+- story not known, as a dream
+
+#+begin_quote
+1:09:55
+
+We are always back at this attention. We try hard, and become very serious,
+because we create a story that we are good or not good, become serious. ’I am
+going to practice hard!’ Isn’t that suffering? Practicing hard is a good
+motivation, but the idea that I am somebody who has to change into something
+else, that doesn’t have an end to it. _It never arrives, it is always tense,
+always not enough, always wants to be somebody out there in the future._
+
+We can see this how watching experience through the body, it doesn’t have a
+story. The body doesn’t tell you ’I am this, I am that.’ ’I am going to be this,
+I am going to be that.’ _The body doesn’t tell you that._
+
+With our habitual ways of thinking, our ways of seeking attention and desire, we
+create those stories.
+
+The body is just nature. It was born, it grows, it gets old, and it dies. This
+is what it knows. Seeing that perspective is where we find that really, taking
+it too seriously is a mistake.
+
+The lack of understanding creates this strong image of ’me doing something with
+something that is going to be mine, and that is what I am going to be.’
+
+This we can recognize and stop. The result is always letting go and relief.
+’Gosh, it’s over! Don’t have to keep doing that!’
+
+Effort is necessary. Right effort is always necessary. _But the story about what
+is me and mine, this story is not known by other people._ We create it and play
+it out. In the same way that we don’t know what story somebody else has about
+themselves. They create it.
+
+_In the end these are like stories which happened in a dream._ When we wake up, we
+barely remember what happened and why it was important. When our life is over
+nobody is going to continue our story for us, or know what exactly happened, and
+why that was important. We constructed that as though living in a dream.
+#+end_quote
+
+* Notes
+
+---
+
+When typing, you want to be the expert. You can't quite enter /the beginner's
+mind/ like when you are speaking to an audience. There, you have to keep moving
+and can't stop to think of something profound.
+
+A good compromise is to record and transcribe, always starting again at the
+beginning when speaking, but having refined it in cycles.
+
+---
+
+nibbana is what breaks bhava
+
+ends the thirst for existence
+
+coolness of fresh rain settling the dust, is the wholesome mind being aware and at ease
+
+---
+
+writing with no agenda
+
+Like a physics book. Nature doesn't tell you what to think, only shows you what it is.
+
+dream is sacrificing coherent structure for comprehensive content
+
+- describing experience
+  - meditation workshop
+  - putting it straight down, no going back to edit
+  - *content* is available as seeing as the present experience
+  - *structure* is retreived from memory, not available to thinking, only what is immediatedly available, integrated knowledge
+
+- composing
+  - editing text
+  - unpacking what is compressed
+  - clarifying what is nuanced
+  - *content* is retreived from memory, stop constructing opinions and arguments
+  - *structure* is available to thinking
+
+transcribing is the buffer transfer between the two modes.
+
+---
+
+- Not because of fame or praise. It will be probably a lot of trouble in fact.
+- Because I want to think and understand better. Listen if you wish.
+  - it benefits me. maybe it benefits others too.
+- love the Buddha, love the Dhamma, love the Sangha
+- serving by discourse
+
