@@ -2,7 +2,7 @@
 
 * Boat [0/7]
 
-:TOPICS:
+:NOTES:
 - simplify it down to the essence
 :END:
 
@@ -34,7 +34,7 @@ coming and going of the day, but the breath is still available, the silence can
 be still felt.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - bail out the boat
 - things are empty
 - bailing out the boat
@@ -57,7 +57,7 @@ Emptiness is when the boat is empty. It moves swiftly, because it is light as a
 feather, not heavy with self, the story and drama of ’me’ and ’mine’.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - happy, here
 - afraid to open
 :END:
@@ -83,7 +83,7 @@ do your best. Not because it is useful, not because somebody expects it, but
 because you know it is the right thing to do, and you love doing what you do.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - map story
 :END:
 
@@ -127,7 +127,7 @@ everything was well. Next day I did get to the town in time for alms-round, a
 man and two ladies offered me food for the day.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - sail swiftly
 :END:
 
@@ -145,7 +145,7 @@ will sink even before leaving the port. That can't help us, and can't help
 others either.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - [ ] Picking up a responsibility
 - [ ] self-respect
 - [ ] hospital care
@@ -153,7 +153,7 @@ others either.
 - [ ] We can't grow stronger if we don't carry our weight, and others can't grow stronger -- carry weight is self-respect
 :END:
 
-:TOPICS:
+:NOTES:
 - road to success
 :END:
 
@@ -173,7 +173,7 @@ circumstances, we resolve to do it. Determining the tasks which need doing,
 putting in the effort to keep the momentum going, keeping the sails in the wind.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - [ ] not what we think, what we do
 
 If we want a picture of ourselves, we 
@@ -185,7 +185,7 @@ learn from actions
 reflect on actions
 :END:
 
-:TOPICS:
+:NOTES:
 - closing the door gently
 - [ ] quote reference
 :END:

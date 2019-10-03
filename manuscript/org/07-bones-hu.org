@@ -2,7 +2,7 @@
 
 * Csontok
  
-:TOPICS:
+:NOTES:
 - bodily awareness stops anger
 :END:
 
@@ -16,7 +16,7 @@ fájdalmasan. Arra vágyunk, hogy vége legyen és nyugodtan mehessenek a dolgok
 tovább.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - no stories
 - stories in an old book
 - interpreting somebody else's dream

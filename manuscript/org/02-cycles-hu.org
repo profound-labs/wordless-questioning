@@ -2,7 +2,7 @@
 
 * Ciklusok
 
-:TOPICS:
+:NOTES:
 - more technique, what to do, how to do more
 - steps and techniques
 - not linear, cycles

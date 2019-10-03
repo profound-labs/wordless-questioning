@@ -1,5 +1,5 @@
-Meditation Without Haste
+Meditation Without the Hurry
 
-/A Meditation Guide/
+-- but not without the grit.
 
-Or, /Attention Heuristics/.
+/A Meditation Guide/, or, /Attention Heuristics/.

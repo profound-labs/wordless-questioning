@@ -2,7 +2,7 @@
 
 * Elements
 
-:TOPICS:
+:NOTES:
 - the elements don't have 'me' and 'mine'
 - superimposed
 - consciousness without the 'me'
@@ -48,7 +48,7 @@ fundamental of our experience. This creates the environment, the whole scenery
 which we call the world, or life. This is the frame in which it happens.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - creation and destruction of elements
 - we're not doing it, just recognizing it
 - taking credit for it when not aware
@@ -73,7 +73,7 @@ fundamentals. This is the birth and death which we create. Recognizing it is
 sufficient.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - standing up from the game
 - freedom from the rules of 'me' and 'mine'
 - fearlessness, not holding on to what we can lose
@@ -116,7 +116,7 @@ should be in pain and suffer. That is the game we don't have to play, but we see
 very few examples of such excellence.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - acting on it consciously
 - move freely, not driven by dissatisfaction
 - greater space, we are a small part

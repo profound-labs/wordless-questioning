@@ -2,7 +2,7 @@
 
 * Cycles
 
-:TOPICS:
+:NOTES:
 - more technique, what to do, how to do more
 - steps and techniques
 - not linear, cycles
@@ -70,7 +70,7 @@ become ours, and we can't save it. Whatever we learn, every time we start again
 from the begnning, and trust the present knowing from there.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - distinctions
 - consciousness stops naming
 - knowing the mind
@@ -100,7 +100,7 @@ experience, there is knowing, there is clarity, and the freedom which allows us
 to stop going towards more and more, or a different thing.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - feelings with no edged
 - stopping the naming process
 - symbols of thought are limited
@@ -152,7 +152,7 @@ The result will be a wholesome mind which understands. Not being compelled, not
 being forced, we recognize it by the coolness and comfort of being free.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - closing
 - After teaching, Sariputta abides in emptiness.
 - After teaching, the Buddha returns to concentration on the signless.

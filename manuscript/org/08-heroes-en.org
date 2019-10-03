@@ -12,6 +12,10 @@
 
 * Heroes [0/3]
 
+:NOTES:
+- thoughts
+:END:
+
 #+begin_text
 Thoughts don't have a good reputation in meditation handbooks. They are seen as
 obstructions, some kind of fault, something annoying and unwanted like flies. We
@@ -108,7 +112,7 @@ what has just flickered through your mind? as if thoughts were the measure.
 horrible thoughts sometimes. you're not that.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - [ ] the critic is dead, the fantasy is dead, not responding to the persent, just a product of past conditions
 - [ ] space b/w thoughts, you are still conscios. can you watch that space?
 :END:
@@ -127,7 +131,7 @@ the Buddha's teaching we can see how this reflects the effort of abandoning the
 unwholesome and developing the wholesome.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - not heroes of our story
 - there is a real story, but we didn't make it
 - the body doesn't have a story
@@ -156,7 +160,7 @@ something, that might be beautiful and interesting, but it is going to end. The
 personality is not what we trust.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - [ ] let go of the person is to stay with it, not rejecting it. like with a child
 :END:
 

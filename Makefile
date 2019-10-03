@@ -1,6 +1,6 @@
 all:
 	@echo "Make what?"
 
-chapters-to-docx:
-	./scripts/chapters_to_docx.sh
+chapters-to-proofing-docx:
+	./scripts/chapters_to_proofing_docx.sh
 

@@ -3,7 +3,7 @@
 * Notes :noexport:
 * Breathing
 
-:TOPICS:
+:NOTES:
 - opening
 - stop and open attention
 - simple message: don't suffer
@@ -28,7 +28,7 @@ The Buddha only has a simple message for us: wake up, stop holding on, you
 don't have to suffer. We keep unpacking that.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - attitude, turning inward
 - complete world of feeling
 - believe in causes, discover peace
@@ -77,7 +77,10 @@ Looking closer, we see that one thing depends on another. Then we are free to st
 We return to a quiet contentment that way.
 #+end_text
 
-:TOPICS:
+#+begin_export html
+#+end_export
+
+:NOTES:
 - posture
 - away from everyday activities
 - aware of the space
@@ -141,7 +144,7 @@ have a lot of momentum, and refuse to quiet down, but this puts down a guard
 rail and speed bumps on the road, to slow down and stay on track.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - simple experience of the present
 :END:
 
@@ -160,7 +163,7 @@ seclusion of the senses, withdrawing to simplicity, and knowing the present
 moment. That is an alert, content, and satisfied state of mind.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - generosity relaxes
 :END:
 
@@ -182,7 +185,7 @@ Recollecting the generosity of friends and relatives is also joyful, but even
 seeing a stranger help another stranger brings us to smile.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - closing
 - towards the end we want to complicate it
 - begin again, where you didn't expect to know

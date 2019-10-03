@@ -1,6 +1,6 @@
 #+TITLE: But How
 
-* But How
+* Notes :noexport:
 
 sit shorter more often than longer but rarely or never
 
@@ -32,3 +32,8 @@ techniques, briefly
 - BUD-DHO
 - space b/w thoughts
 - counting
+
+* But How
+
+(stub)
+

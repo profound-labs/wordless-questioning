@@ -6,7 +6,7 @@
 
 * Bones [0/2]
 
-:TOPICS:
+:NOTES:
 - the bones as the fixed parts
 - at the core
 - kindness and acceptance
@@ -25,7 +25,7 @@ No matter what we think of the surface, the bones give us a message from beyond
 our thinking, that there is no ideal state about that surface.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - standing posture
 - head balance
 :END:
@@ -57,7 +57,7 @@ This creates a tension in the back muscles. Experiment, what does it feel like,
 to pull the head back a bit. The muscles in the back relax.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - bones
 - body made of pieces
 :END:
@@ -90,7 +90,7 @@ concerned about what other people think about our body, and we create opinions
 about their bodies.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - hair and nails dropping on the ground
 :END:
 
@@ -112,7 +112,7 @@ emotions toward the body. Health is a blessing, it supports us in everything we
 do. The Buddha called health the greatest treasure.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - bodily awareness stops anger
 :END:
 
@@ -132,7 +132,7 @@ time passes painfully with it. We wish for it to be over finally, and let things
 continue smoothly.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - no stories
 - stories in an old book
 - interpreting somebody else's dream

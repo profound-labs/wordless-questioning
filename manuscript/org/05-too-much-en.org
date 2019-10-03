@@ -2,7 +2,7 @@
 
 * Too Much
 
-:TOPICS:
+:NOTES:
 - what is real will hurt
 - awareness break compulsions
 - meditation is medicine
@@ -22,7 +22,7 @@ We often find that what we have to learn is something we never noticed before.
 Something we have been doing for a long time, and only now we start to see it.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - meditation object shows the mind
 - not for fantasies
 - hindrances as according to plan
@@ -49,7 +49,7 @@ by our actions in the past, this is the result, and we are doing the best
 possible thing by becoming aware of them.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - awareness breaks compulsions
 - which recipe doubt
 :END:
@@ -69,7 +69,7 @@ do." We can recognize these thoughts, and know that we are in doubt. Stepping
 back and knowing the mind is experiencing doubt.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - forgiveness
 - trusting truth and virtue
 - endurance
@@ -108,7 +108,7 @@ there will be something to do, but often there won't be, because the problem was
 entirely in our excitement or upset.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - know what you believe
 - causes
 - be with it

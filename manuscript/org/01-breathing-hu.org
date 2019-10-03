@@ -2,13 +2,13 @@
 
 * Légzés
 
-:TOPICS:
+:NOTES:
 - opening
 - stop and open attention
 - simple message: don't suffer
 :END:
 
-:TOPICS:
+:NOTES:
 - attitude, turning inward
 - complete world of feeling
 - believe in causes, discover peace
@@ -58,17 +58,17 @@ Közelebbről megnézve látjuk, hogy az egyik dolog a másiktól függ. Akkor s
 abbahagyhatjuk. Így visszatérünk a csendes elégedettséghez.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - posture
 - sensation of the breath
 - [ ] away from everyday activities
 :END:
 
-:TOPICS:
+:NOTES:
 - simple experience of the present
 :END:
 
-:TOPICS:
+:NOTES:
 - closing
 - towards the end we want to complicate it
 - begin again, where you didn't expect to know

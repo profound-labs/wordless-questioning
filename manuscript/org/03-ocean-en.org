@@ -1,8 +1,9 @@
 #+TITLE: Ocean
 
+* Notes :noexport:
 * Ocean
 
-:TOPICS:
+:NOTES:
 - different form of cognition
 - ocean, wider space
 - grateful for solitude
@@ -32,7 +33,7 @@ things we don’t quite know. Seeing our own experience, we don’t quite know w
 is going on.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - ocean
 - no labels
 - we create the world and become something
@@ -70,9 +71,11 @@ something is good, something is bad. At that point we create the world and we
 have to become something. This we can watch, that we are creating that.
 #+end_text
 
+:NOTES:
 - feelings don't have a clear edge
 - ocean stops the mind
 - can't judge the waves
+:END:
 
 #+begin_text
 It is not necessary to have a clear verbal theory which we produce. Feelings are
@@ -96,7 +99,7 @@ Breathing in, breathing out, it moves in its own way. There isn't a lot of
 precise control that we have over it.
 #+end_text
 
-:TOPICS:
+:NOTES:
 - contact
 - feelings coming, going
 - no choice, already moving
