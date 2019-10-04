@@ -1,7 +1,7 @@
 #+TITLE: Meditation Without the Hurry -- Notes
 
-- water pond
 - elso fejezet magyarul
+- ebooks to share and annotate
 
 ---
 
@@ -207,6 +207,23 @@ Meg fogom ezt szépen köszönni.
 Ady Endre
 
 https://mek.oszk.hu/00500/00588/html/vers0601.htm
+
+** lake with cool water
+
+Your Majesty, it’s just as when a deep lake, without inlets from either north or
+south or east or west, is replenished by water from a spring below. Despite only
+light and irregular rains, cool water welling up from that spring will soak,
+drench and permeate the whole until not a patch of the lake is not suffused.
+
+(Broken Gong version)
+
+Just like a lake with spring-water welling up from within, having no inflow from
+the east, west, north, or south, and with the skies supplying abundant showers
+time and again,1 so that the cool fount of water welling up from within the lake
+would permeate and pervade, suffuse and fill it with cool waters, there being no
+part of the lake unpervaded by the cool waters; even so, the monk permeates…
+
+https://www.dhammatalks.org/suttas/DN/DN02.html
 
 ** orienting reflex
 ** boat
