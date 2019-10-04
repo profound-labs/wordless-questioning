@@ -17,7 +17,8 @@
 :END:
 
 #+begin_text
-'Hogy tudom megcsinálni?' Nem ez a feladatod. Kérdezd azt, 'Tudok rá figyelni?'
+'Hogy tudom megcsinálni?' Közelítsd meg másként, és inkább azt kérdezd, 'Tudok
+rá figyelni?'
 
 Ismerni csak azután fogod, hogy a kezdeti bizalom engedett gyakorolni, és azt tudod majd
 kifejezni ami már mögötted van. Ami jön, azt nem tudod ismerettel leírni, a
@@ -26,9 +27,7 @@ gondolat erre nem elegendő.
 A légzés érzete megállít. Visszakerülünk az elejére, ahol nem tudjuk mi lesz.
 Egy üres és tágas helyre kerülünk így, magunk vagyunk és van időnk itt megállni.
 
-Az üvegből folyó víz megáll, amikor az üveget egyenesen letesszük, és az üvegben
-a víz a súlyánál fogva a helyére kerül. A mozgás látszik rajta keresztül, de
-önmaga nem mozog.
+TODO: lake water
 
 A légzésre figyelve az érzékek befelé fordulnak. A szem látja a színeket, de a
 látás befelé irányul, nem akar kívül színeket és formákat keresni. A fül hallja
