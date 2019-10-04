@@ -7,7 +7,7 @@ combined_org_dest=./manuscript/combined-en.org
 combined_html_dest=./manuscript/combined-en.html
 combined_docx_dest=./manuscript/mwoh.docx
 
-reference_doc=./scripts/reference.docx
+reference_doc=./helpers/proofing-reference.docx
 
 table_opening="#+begin_export html\n<table><col width='68%'><col width='32%'><tbody>\n#+end_export"
 

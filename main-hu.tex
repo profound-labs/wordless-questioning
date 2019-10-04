@@ -1,0 +1,89 @@
+\documentclass[
+  final,
+  babelLanguage=hungarian,
+  desktopVersion,
+  %showtrims,
+  %overleaf,
+]{anecdote}
+
+%\graphicspath{{./assets/photos/300dpi/}}
+\graphicspath{{./assets/photos/92dpi/}}
+
+% Page size: 135 x 120 mm
+% Body text: 11 / 14 pt
+
+\usepackage{local}
+
+%% Details of the book
+%% ===================
+
+\title{Meditáció Sürgés Nélkül}
+\subtitle{-- de kitartóan.}
+\author{Gambhíró Bhikkhu}
+\publisher{Kiadó}% TODO
+\date{2019-10-04}
+\editionInfo{\textit{Első kiadás}, 2019}% TODO update edition info
+\ISBN{000-000-0000-00-0}% TODO update ISBN
+
+% === Metadata ===
+
+\hypersetup{
+  pdftitle={\thetitle},
+  pdfauthor={\theauthor},
+  pdfcopyright={Copyright (C) 2019, \thePublisher},
+  pdfsubject={},% TODO subject
+  pdfkeywords={},% TODO keywords
+  pdflicenseurl={https://creativecommons.org/licenses/by-nc-nd/4.0/},
+  pdfcontacturl={},
+  pdflang={hu},
+}
+
+%% === Load further packages ===
+
+%% === Hyphenation exceptions and corrections ===
+
+\hyphenation{London}
+
+\begin{document}
+
+\frontmatter
+
+\ifdesktopversion
+\desktopCover{\includegraphics[height=\paperheight]{./desktop-cover-hu.png}}
+\fi
+
+\input{./manuscript/tex/titlepage.tex}
+
+\input{./manuscript/tex/copyright.tex}
+
+%\input{./manuscript/tex/dedication.tex}
+
+\cleartorecto
+\tableofcontents*
+
+%\input{./manuscript/tex/foreword.tex}
+
+%\input{./manuscript/tex/preface.tex}
+
+% Page 1 is the first page of the first chapter.
+\mainmatter
+
+\input{./manuscript/tex/01-breathing-hu.tex}
+%\input{./manuscript/tex/x01-x01-but-how-en.tex}
+%\input{./manuscript/tex/02-cycles-en.tex}
+%\input{./manuscript/tex/03-ocean-en.tex}
+%\input{./manuscript/tex/04-elements-en.tex}
+%\input{./manuscript/tex/05-too-much-en.tex}
+%\input{./manuscript/tex/06-boat-en.tex}
+%\input{./manuscript/tex/07-bones-en.tex}
+%\input{./manuscript/tex/08-heroes-en.tex}
+
+\backmatter
+
+%\input{./manuscript/tex/references.tex}
+
+%\input{./manuscript/tex/copyright-details.tex}
+
+\emptyUntilEven
+
+\end{document}

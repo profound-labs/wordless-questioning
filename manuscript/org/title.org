@@ -3,7 +3,7 @@
 
 #+begin_export html
 <p>
-<em>&ndash; but not without the grit.</em>
+<em>&ndash; but with the grit.</em>
 </p>
 
 <h2>Contents</h2>
