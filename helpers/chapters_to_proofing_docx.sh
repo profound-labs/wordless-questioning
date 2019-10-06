@@ -7,7 +7,7 @@ org_title=./manuscript/org/title.org
 html_toc=./manuscript/html/toc.html
 combined_org_dest=./manuscript/combined-$lang.org
 combined_html_dest=./manuscript/combined-$lang.html
-combined_docx_dest=./mwoh-$lang.docx
+combined_docx_dest=./main-$lang.docx
 
 reference_doc=./helpers/proofing-reference.docx
 

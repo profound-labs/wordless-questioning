@@ -47,7 +47,7 @@ chapters-to-docx:
 	./helpers/chapters_to_docx.sh
 
 chapters-to-proofing-docx:
-	./scripts/chapters_to_proofing_docx.sh
+	./helpers/chapters_to_proofing_docx.sh
 
 stylus-watch:
 	stylus -w ./vendor/asciidoctor-epub3/assets/styles/*.styl -o ./vendor/asciidoctor-epub3/data/styles/
