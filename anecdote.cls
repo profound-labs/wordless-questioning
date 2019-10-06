@@ -163,13 +163,20 @@
 % Renderer = Basic
 % http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
 
+%\setmainfont[
+%  SmallCapsFont = Crimson-Roman.otf,
+%  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
+%  ItalicFont = GentiumPlus-I.ttf,
+%  BoldFont = GenBkBasB.ttf,
+%  BoldItalicFont = GenBkBasBI.ttf,
+%]{GentiumPlus-R.ttf}
+
 \setmainfont[
-  SmallCapsFont = Crimson-Roman.otf,
-  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
-  ItalicFont = GentiumPlus-I.ttf,
-  BoldFont = GenBkBasB.ttf,
-  BoldItalicFont = GenBkBasBI.ttf,
-]{GentiumPlus-R.ttf}
+  SmallCapsFeatures= { LetterSpace = 0.2 },
+  ItalicFont = Crimson-Italic.otf,
+  BoldFont = Crimson-Semibold.otf,
+  BoldItalicFont = Crimson-SemiboldItalic.otf,
+]{Crimson-Roman.otf}
 
 \newfontfamily\crimsonRomanFont[
   SmallCapsFeatures= { LetterSpace = 0.2 },
@@ -181,11 +188,11 @@
   Numbers = OldStyle,
 ]{Crimson-Roman.otf}
 
-\newfontfamily\gentiumFont[
-  ItalicFont = GentiumPlus-I.ttf,
-  BoldFont = GenBkBasB.ttf,
-  BoldItalicFont = GenBkBasBI.ttf,
-]{GentiumPlus-R.ttf}
+%\newfontfamily\gentiumFont[
+%  ItalicFont = GentiumPlus-I.ttf,
+%  BoldFont = GenBkBasB.ttf,
+%  BoldItalicFont = GenBkBasBI.ttf,
+%]{GentiumPlus-R.ttf}
 
 \newfontfamily\alegreyaSansFont[
   SmallCapsFont = AlegreyaSansSC-Regular.otf,
@@ -744,7 +751,7 @@ philo-sophical munindo amaravati thai-land}
   \par%
   {%
     \centering%
-    \gentiumFont%
+    \normalfont%
     \fontsize{20}{20}\selectfont%
     \color[gray]{0.7}%
     *\quad*\quad*%
@@ -1029,7 +1036,7 @@ philo-sophical munindo amaravati thai-land}
 {}
 
 \titlecontents{chapter}[\tocLeftWidth]
-{\addvspace{15pt}\fontsize{13}{13}\gentiumFont\selectfont}%
+{\addvspace{15pt}\fontsize{13}{13}\crimsonRomanFont\selectfont}%
 {\contentsmargin{0pt}}
 {\contentsmargin{0pt}%
 \itshape}
@@ -1663,7 +1670,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \newcommand\subsubsectionFmt[1]{%
-  \gentiumFont\normalsize\itshape\color[gray]{0.1}%
+  \normalfont\normalsize\itshape\color[gray]{0.1}%
   \memRTLraggedright%
   #1
 }

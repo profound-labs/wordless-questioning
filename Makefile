@@ -40,6 +40,9 @@ preview:
 chapters-to-asciidoc:
 	./helpers/chapters_to_asciidoc.sh
 
+chapters-to-tex:
+	./helpers/chapters_to_tex.sh
+
 chapters-to-docx:
 	./helpers/chapters_to_docx.sh
 

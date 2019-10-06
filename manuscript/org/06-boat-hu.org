@@ -1,6 +1,7 @@
 #+TITLE: Csónak
 
 * Csónak
+* Draft :noexport:
 
 :NOTES:
 - simplify it down to the essence

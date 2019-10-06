@@ -1,11 +1,13 @@
 #!/bin/bash
 
+lang=hu
+
 org_title=./manuscript/org/title.org
 
 html_toc=./manuscript/html/toc.html
-combined_org_dest=./manuscript/combined-en.org
-combined_html_dest=./manuscript/combined-en.html
-combined_docx_dest=./manuscript/mwoh.docx
+combined_org_dest=./manuscript/combined-$lang.org
+combined_html_dest=./manuscript/combined-$lang.html
+combined_docx_dest=./mwoh-$lang.docx
 
 reference_doc=./helpers/proofing-reference.docx
 
@@ -24,7 +26,7 @@ cat "$org_title" > "$combined_org_dest"
 
 # Concatenate org chapters to one file.
 
-for i in ./manuscript/org/[0-9][0-9]*-en.org; do
+for i in ./manuscript/org/[0-9][0-9]*-$lang.org; do
     cat "$i" |\
     # strip the org-title
     sed '/#+TITLE/d' |\

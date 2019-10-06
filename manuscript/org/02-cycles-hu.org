@@ -1,6 +1,7 @@
 #+TITLE: Ciklusok
 
 * Ciklusok
+* Draft :noexport:
 
 :NOTES:
 - more technique, what to do, how to do more
