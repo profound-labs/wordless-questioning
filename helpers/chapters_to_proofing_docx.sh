@@ -1,6 +1,6 @@
 #!/bin/bash
 
-lang=hu
+lang=en
 
 org_title=./manuscript/org/title.org
 

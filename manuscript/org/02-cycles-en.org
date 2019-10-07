@@ -7,7 +7,7 @@
 - steps and techniques
 - not linear, cycles
 - these cycles ignore our ideas about progress
-- not a meditation carreer
+- not a meditation career
 - the harder we push the more pain we are in
 - knowledge doesn't become yours
 :END:
@@ -65,9 +65,9 @@ we notice we have work to do so we deal with them, then the mind is again
 content and returns to stay with the stillness.
 
 Some knowledge is necessary, but a little is enough. Remembering the teachings
-of the Budda is a treasure which doesn't run out. But this knowledge doesn't
+of the Buddha is a treasure which doesn't run out. But this knowledge doesn't
 become ours, and we can't save it. Whatever we learn, every time we start again
-from the begnning, and trust the present knowing from there.
+from the beginning, and trust the present knowing from there.
 #+end_text
 
 :NOTES:
@@ -124,7 +124,7 @@ the fact that we know that there is this experience.
 Seeing it this way we can distinguish the naming process. The experience of the
 body is rather amorphous, it doesn’t have edges. Breathing in, the experience is
 everywhere at once. Breathing out, the experience is everywhere at once. The
-whole body is breathing and there is feeling and expereience, but there are no
+whole body is breathing and there is feeling and experience, but there are no
 clear names.
 
 The symbols constructed by the mind can only go so far. This is not our fault,
@@ -154,7 +154,7 @@ being forced, we recognize it by the coolness and comfort of being free.
 
 :NOTES:
 - closing
-- After teaching, Sariputta abides in emptiness.
+- After teaching, Sāriputta abides in emptiness.
 - After teaching, the Buddha returns to concentration on the signless.
 - They continue to meditate.
 :END:
@@ -175,6 +175,6 @@ The great teachers are our examples. They didn't meditate to achieve a special
 state and then do something else with their life. Meditation doesn't separate
 out, but integrates into their life. The Venerable Sariputta said he abides in
 the perception of emptiness, the Buddha said he abides in the signless
-concentration. They contine to meditate.
+concentration. They continue to meditate.
 #+end_text
 
