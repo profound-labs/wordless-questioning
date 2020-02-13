@@ -1,7 +1,0 @@
-#+TITLE: De Hogyan
-
-* De Hogyan
-* Draft :noexport:
-
-(stub)
-

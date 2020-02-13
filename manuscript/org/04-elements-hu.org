@@ -1,6 +1,0 @@
-#+TITLE: Elemi Részek
-
-* Notes :noexport:
-* Elemi Részek
-* Draft :noexport:
-
