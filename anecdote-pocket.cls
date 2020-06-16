@@ -20,7 +20,7 @@
 % ==============
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{anecdote}[2017/08/19 v0.11 A memoir-based documentclass with a contemporary style for books.]
+\ProvidesClass{anecdote-pocket}[2017/08/19 v0.11 A memoir-based documentclass with a contemporary style for books.]
 
 % ========================
 % Preliminary Declarations
@@ -255,7 +255,7 @@
 
 \newcommand{\smaller}{\@setfontsize\smaller{9}{11}}
 
-\newcommand{\copyrightsize}{\@setfontsize\copyrightsize{9}{11}}
+\newcommand{\copyrightsize}{\@setfontsize\copyrightsize{7}{9}}
 
 % foreign language wrappers
 
@@ -1695,10 +1695,16 @@ philo-sophical munindo amaravati thai-land}
 \def\BOOK@fontSizePt{}
 \def\BOOK@lineHeightPt{}
 
+% Wide Pocket
+% 
+% 135mm x 120mm page
+% P = 0.888
+% T = 88 / 95 = 0.926 ?
+
 % === normalsize ===
 
 \def\BOOK@fontSizePt{10.5}
-\def\BOOK@lineHeightPt{16}
+\def\BOOK@lineHeightPt{14}
 
 \renewcommand{\normalsize}{%
   \@setfontsize\normalsize\BOOK@fontSizePt\BOOK@lineHeightPt
@@ -1721,8 +1727,8 @@ philo-sophical munindo amaravati thai-land}
 
 % === setup page layout ===
 
-\setlength{\BOOK@paperHeight}{8in}
-\setlength{\BOOK@paperWidth}{5in}
+\setlength{\BOOK@paperHeight}{120mm}
+\setlength{\BOOK@paperWidth}{135mm}
 
 \ifshowtrims
   \stockaiv% use A4 paper size to show trims
@@ -1739,10 +1745,12 @@ philo-sophical munindo amaravati thai-land}
   \settrims{0pt}{0pt}
 \fi
 
-\settypeblocksize{27\baselineskip + \topskip}{95mm}{*}%
-\setlrmargins{*}{*}{1.125}% major 2nd
-\setulmargins{20mm}{*}{*}%
-\setheaderspaces{*}{8mm}{*}
+%\settypeblocksize{17\baselineskip + \topskip}{*}{1.155}% pi/e
+\settypeblocksize{16\baselineskip + \topskip}{*}{1.1}%
+%\setlrmargins{*}{*}{1.125}% major 2nd
+\setlrmargins{*}{*}{1.0}% major 2nd
+\setulmargins{17mm}{*}{*}%
+\setheaderspaces{*}{6mm}{*}
 
 %\setlength{\footskip}{30pt}
 

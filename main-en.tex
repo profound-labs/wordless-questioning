@@ -9,8 +9,11 @@
 %\graphicspath{{./assets/photos/300dpi/}}
 \graphicspath{{./assets/photos/92dpi/}}
 
-% Page size: 135 x 120 mm
-% Body text: 11 / 14 pt
+% Blurb page size: 5 x 8 inch (127 x 203.2 mm)
+% Body text: 10.5 / 16 pt
+
+% Pocket page size: 135 x 120 mm
+% Body text: 10.5 / 14 pt
 
 \usepackage{local}
 
@@ -49,33 +52,32 @@
 \frontmatter
 
 \ifdesktopversion
-\desktopCover{\includegraphics[height=\paperheight]{./desktop-cover-en.png}}
+%\desktopCover{\includegraphics[height=\paperheight]{./desktop-cover-pocket-en.png}}
+\desktopCover{\includegraphics[height=\paperheight]{./desktop-cover-en.jpg}}
 \fi
 
 \input{./manuscript/tex/titlepage.tex}
 
 \input{./manuscript/tex/copyright.tex}
 
-\input{./manuscript/tex/dedication-en.tex}
+%\input{./manuscript/tex/dedication-en.tex}
 
 \cleartorecto
 \tableofcontents*
 
-%\input{./manuscript/tex/foreword.tex}
-
-%\input{./manuscript/tex/preface.tex}
+\input{./manuscript/tex/00-introduction-en.tex}
 
 % Page 1 is the first page of the first chapter.
 \mainmatter
 
 \input{./manuscript/tex/01-breathing-en.tex}
 \input{./manuscript/tex/02-understanding-en.tex}
-\input{./manuscript/tex/03-cycles-en.tex}
-\input{./manuscript/tex/04-boat-en.tex}
-\input{./manuscript/tex/05-bones-en.tex}
-\input{./manuscript/tex/06-ocean-en.tex}
+%\input{./manuscript/tex/03-cycles-en.tex}
+%\input{./manuscript/tex/04-boat-en.tex}
+%\input{./manuscript/tex/05-bones-en.tex}
+%\input{./manuscript/tex/06-ocean-en.tex}
 
-\backmatter
+%\backmatter
 
 %\input{./manuscript/tex/references.tex}
 
