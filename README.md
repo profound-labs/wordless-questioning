@@ -1,5 +1,4 @@
 Meditation Without the Hurry
 
--- but not without the grit.
+/stopping for one breath, for one clear thought./
 
-/A Meditation Guide/, or, /Attention Heuristics/.
