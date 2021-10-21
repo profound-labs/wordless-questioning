@@ -1703,7 +1703,7 @@ philo-sophical munindo amaravati thai-land}
 
 % === normalsize ===
 
-\def\BOOK@fontSizePt{10.5}
+\def\BOOK@fontSizePt{10}
 \def\BOOK@lineHeightPt{14}
 
 \renewcommand{\normalsize}{%
@@ -1751,6 +1751,8 @@ philo-sophical munindo amaravati thai-land}
 \setlrmargins{*}{*}{1.0}% major 2nd
 \setulmargins{17mm}{*}{*}%
 \setheaderspaces{*}{6mm}{*}
+
+\newcommand{\keywords}[1]{\emph{#1}}
 
 %\setlength{\footskip}{30pt}
 

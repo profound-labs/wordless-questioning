@@ -16,6 +16,15 @@ four-times:
 document:
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex
 
+copy-convert:
+	bash -c 'cp ~/wiki/books/wordless-questioning/chapters/[0-9][0-9]-*-{en,hu}.org ~/prods/books/alpha/wordless-questioning-project/wordless-questioning_main/manuscript/org/'
+	./helpers/chapters_to_tex.sh
+
+en-update:
+	bash -c 'cp ~/wiki/books/wordless-questioning/chapters/[0-9][0-9]-*-en.org ~/prods/books/alpha/wordless-questioning-project/wordless-questioning_main/manuscript/org/'
+	./helpers/chapters_to_tex.sh
+	$(LATEX) $(LATEX_OPTS) $(FILE_EN).tex
+
 en:
 	$(LATEX) $(LATEX_OPTS) $(FILE_EN).tex
 

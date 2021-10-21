@@ -1697,8 +1697,8 @@ philo-sophical munindo amaravati thai-land}
 
 % === normalsize ===
 
-\def\BOOK@fontSizePt{10.5}
-\def\BOOK@lineHeightPt{16}
+\def\BOOK@fontSizePt{10}
+\def\BOOK@lineHeightPt{15}
 
 \renewcommand{\normalsize}{%
   \@setfontsize\normalsize\BOOK@fontSizePt\BOOK@lineHeightPt
@@ -1739,10 +1739,21 @@ philo-sophical munindo amaravati thai-land}
   \settrims{0pt}{0pt}
 \fi
 
-\settypeblocksize{27\baselineskip + \topskip}{95mm}{*}%
-\setlrmargins{*}{*}{1.125}% major 2nd
-\setulmargins{20mm}{*}{*}%
+\settypeblocksize{29\baselineskip + \topskip}{80mm}{*}%
+\setmarginnotes{5mm}{20mm}{0pt}
+\setlrmargins{18mm}{*}{*}
+\setulmargins{20mm}{*}{*}
 \setheaderspaces{*}{8mm}{*}
+
+\sideparmargin{outer}
+\setlength{\sideparvshift}{\baselineskip}
+
+% use hyphenation-enabled ragged column, depends on ragged2e package
+%\renewcommand*{\sideparform}{\ifmemtortm\RaggedRight\else\RaggedLeft\fi}
+
+\renewcommand{\sideparfont}{\fontsize{8}{10}\selectfont\normalfont}
+
+\newcommand{\keywords}[1]{\vspace*{-\baselineskip}\sidepar{#1}}
 
 %\setlength{\footskip}{30pt}
 

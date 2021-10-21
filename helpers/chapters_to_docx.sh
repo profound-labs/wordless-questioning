@@ -2,7 +2,7 @@
 
 org_options='#+OPTIONS: toc:nil author:nil d:nil ^:{}'
 
-for i in ./manuscript/org/[0][0-2]*.org; do
+for i in ./manuscript/org/[0-9][0-9]*.org; do
     name=$(basename "$i" .org)
     dest=./manuscript/docx/"$name".docx
 

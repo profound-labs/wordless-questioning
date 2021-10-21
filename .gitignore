@@ -10,6 +10,7 @@ manuscript/docx/
 
 # Emacs temp files
 auto/
+.auctex-auto/
 *~
 \#*\#
 *.elc
