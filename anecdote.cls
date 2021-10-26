@@ -687,16 +687,17 @@ philo-sophical munindo amaravati thai-land}
 \newcommand\photoFullBleedPlaceholder[1]{%
   \AddToShipoutPictureFG*{%
     \put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
-      \color[gray]{0.8}%
-      \rule{\paperwidth + 6mm}{\paperheight + 6mm}%
-    }%
-  }%
-  \AddToShipoutPictureFG*{%
-    \put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
       \begin{minipage}[b][\paperheight + 6mm][c]{\paperwidth + 6mm}%
-        \HUGE\centering
-        \color{white}%
-        #1%
+        \null\vfill
+        \centering
+
+        \includegraphics[width=0.5\paperwidth]{mandala.pdf}
+
+        \bigskip
+
+        #1
+
+        \vfill\null
       \end{minipage}%
     }%
   }%
@@ -822,6 +823,15 @@ philo-sophical munindo amaravati thai-land}
 }
 
 % === Renewing package macros ===
+
+% NOTE: We need a \mainmatter which doesn't add blank pages, otherwise pre-part page has a double blank page before it.
+%\renewcommand*{\@smemmain}{%
+%  \@mainmattertrue
+%  \setcounter{secnumdepth}{\value{maxsecnumdepth}}
+%  \ifartopt\relax
+%  \else
+%    \@memmain@floats
+%  \fi}
 
 \addtodef{\mainmatter}{}{%
   \addtocontents{toc}{\addvspace{15pt}}%
@@ -1739,7 +1749,7 @@ philo-sophical munindo amaravati thai-land}
   \settrims{0pt}{0pt}
 \fi
 
-\settypeblocksize{29\baselineskip + \topskip}{80mm}{*}%
+\settypeblocksize{157mm}{80mm}{*}%
 \setmarginnotes{5mm}{20mm}{0pt}
 \setlrmargins{18mm}{*}{*}
 \setulmargins{20mm}{*}{*}
