@@ -825,13 +825,13 @@ philo-sophical munindo amaravati thai-land}
 % === Renewing package macros ===
 
 % NOTE: We need a \mainmatter which doesn't add blank pages, otherwise pre-part page has a double blank page before it.
-%\renewcommand*{\@smemmain}{%
-%  \@mainmattertrue
-%  \setcounter{secnumdepth}{\value{maxsecnumdepth}}
-%  \ifartopt\relax
-%  \else
-%    \@memmain@floats
-%  \fi}
+\renewcommand*{\@smemmain}{%
+  \@mainmattertrue
+  \setcounter{secnumdepth}{\value{maxsecnumdepth}}
+  \ifartopt\relax
+  \else
+    \@memmain@floats
+  \fi}
 
 \addtodef{\mainmatter}{}{%
   \addtocontents{toc}{\addvspace{15pt}}%
@@ -1791,7 +1791,7 @@ philo-sophical munindo amaravati thai-land}
 % in your local.sty
 \setlength{\footnotemargin}{2em}
 
-\renewcommand{\footnotelayout}{\hangpara{\footnotemargin}{1}}
+\renewcommand{\footnotelayout}{\hangpara{\footnotemargin}{1}\raggedright}
 
 % Asterisks for the first three footnotes, then numbers produced by the
 % 'symbol*' option.
