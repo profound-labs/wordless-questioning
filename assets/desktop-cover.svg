@@ -2,7 +2,7 @@
 <svg
    inkscape:export-ydpi="300.01077"
    inkscape:export-xdpi="300.01077"
-   inkscape:export-filename="/home/yume/prods/books/alpha/wordless-questioning-project/wordless-questioning_main/desktop-cover-en.png"
+   inkscape:export-filename="/home/yume/prods/books/alpha/wordless-questioning-project/wordless-questioning_main/desktop-cover-hu.png"
    sodipodi:docname="desktop-cover.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    id="svg909"
@@ -29,17 +29,17 @@
      inkscape:window-height="1043"
      inkscape:window-width="1920"
      inkscape:guide-bbox="true"
-     showguides="false"
+     showguides="true"
      inkscape:snap-center="true"
      inkscape:snap-page="true"
      inkscape:snap-bbox="true"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g1398"
      inkscape:document-units="mm"
-     inkscape:cy="424.28572"
-     inkscape:cx="125"
-     inkscape:zoom="0.7"
+     inkscape:cy="324.25897"
+     inkscape:cx="126.26907"
+     inkscape:zoom="0.98994949"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1117,7 +1117,7 @@
        r="59.438362" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="text - en"
      id="layer2"
      inkscape:groupmode="layer"
@@ -1126,52 +1126,68 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05556px;line-height:8.46667px;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-0.132292px;word-spacing:0.529167px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="31.870888"
-       y="76.46106"
+       y="71.169395"
        id="text1488"><tspan
          sodipodi:role="line"
          id="tspan4788"
          x="31.870888"
-         y="76.46106">wordless questioning</tspan></text>
+         y="71.169395">wordless questioning</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:5.82084px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="63.505291"
-       y="86.677498"
+       y="83.121498"
        id="text1492"><tspan
          sodipodi:role="line"
          id="tspan4936"
          x="63.505291"
-         y="86.677498">an introduction to Buddhist meditation and reflection</tspan></text>
+         y="83.121498">an introduction to Buddhist meditation and reflection</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:5.82084px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="63.466484"
+       y="92.337814"
+       id="text1364"><tspan
+         sodipodi:role="line"
+         id="tspan1384"
+         x="63.466484"
+         y="92.337814">Gambhīro Bhikkhu</tspan></text>
   </g>
   <g
-     style="display:none"
-     inkscape:groupmode="layer"
-     id="g1590"
+     style="display:inline"
      inkscape:label="text - hu"
+     id="g1398"
+     inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;line-height:8.46667px;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-0.132292px;word-spacing:0.529167px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="42.28286"
-       y="56.729042"
-       id="text1584"><tspan
-         y="56.729042"
-         x="42.28286"
-         id="tspan1592"
-         sodipodi:role="line">meditáció sürgés nélkül</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05556px;line-height:8.46667px;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-0.132292px;word-spacing:0.529167px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="38.181187"
+       y="72.453506"
+       id="text1388"><tspan
+         sodipodi:role="line"
+         id="tspan1418"
+         x="38.181187"
+         y="72.453506">szótlan vizsgálat</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:5.82084px;font-family:Alegreya;-inkscape-font-specification:'Alegreya Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="67.596077"
-       y="66.034973"
-       id="text1588"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:5.82084px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="63.505291"
+       y="83.103859"
+       id="text1392"><tspan
          sodipodi:role="line"
-         id="tspan536"
-         x="67.596077"
-         y="66.034973">megállni egy lélegzetre,</tspan><tspan
+         id="tspan1438"
+         x="63.505291"
+         y="83.103859">bevezető a buddhista meditációba és szemléletbe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:5.82084px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="63.503525"
+       y="92.337814"
+       id="text1396"><tspan
          sodipodi:role="line"
-         id="tspan538"
-         x="67.596077"
-         y="71.855812">egy tiszta gondolatra.</tspan></text>
+         id="tspan1458"
+         x="63.503525"
+         y="92.337814">Bhikkhu Gambhíró</tspan></text>
   </g>
 </svg>

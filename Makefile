@@ -25,6 +25,11 @@ en-update:
 	./helpers/chapters_to_tex.sh
 	$(LATEX) $(LATEX_OPTS) $(FILE_EN).tex
 
+hu-update:
+	bash -c 'cp ~/wiki/books/wordless-questioning/chapters/[0-9][0-9]-*-hu.org ~/prods/books/alpha/wordless-questioning-project/wordless-questioning_main/manuscript/org/'
+	./helpers/chapters_to_tex.sh
+	$(LATEX) $(LATEX_OPTS) $(FILE_HU).tex
+
 en:
 	$(LATEX) $(LATEX_OPTS) $(FILE_EN).tex
 
