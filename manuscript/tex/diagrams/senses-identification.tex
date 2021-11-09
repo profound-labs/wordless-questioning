@@ -1,0 +1,65 @@
+\documentclass{article}
+\usepackage{dia-page}
+\usepackage{dia-style}
+\geometry{paperwidth=125mm, paperheight=113mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+
+\begin{document}
+
+\centering
+
+\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
+  \node (feeling) [tight box]
+  {\parbox{35mm}{\centering \emph{Vedanā}: Feeling as\\ a direction of movement}};
+
+  \node (grasping) [below right=15mm and 5mm of feeling.south, tight box]
+  {\parbox{30mm}{\centering Grasping experience\\ as identity}};
+
+  \node (personal) [right=3mm of grasping.east]
+  {\parbox{17mm}{\diaTiny\raggedright Personal narrative,\\ me and mine}};
+
+  \node (not-grasping) [below left=15mm and 5mm of feeling.south, tight box]
+  {\parbox{30mm}{\centering Experience not\\ grasped as identity}};
+
+  \node (reflection) [left=3mm of not-grasping.west]
+  {\parbox{17mm}{\diaTiny\raggedleft Reflecting on its nature to arise and cease}};
+
+  \draw [smallish arrow, bend left=25] (feeling) to node[anchor=west, xshift=5mm, midway] {
+    \parbox{21mm}{\diaTiny\raggedright Conditioned reaction\\ without mindfulness}
+  } (grasping);
+  \draw [smallish arrow, bend right=25] (feeling) to node[anchor=east, xshift=-5mm, midway] {
+    \parbox{21mm}{\diaTiny\raggedleft Awareness of impermanence, unsatisfactoriness, not-self}
+  } (not-grasping);
+
+  \node (stopping) [below=15mm of not-grasping.south, tight ring]
+  {\parbox{18mm}{\centering Stopping\\ compulsive\\ conditioning}};
+
+  \node (noble) [left=3mm of stopping.west]
+  {\parbox{23mm}{\diaTiny\raggedleft Seeing the way it is\\
+      \vspace*{1em}
+      There is \emph{dukkha}.
+      There are conditions for its origin and cessation.
+      The path can be developed.
+    }};
+
+  \node (reinforcing) [below=15mm of grasping.south, tight ring]
+  {\parbox{18mm}{\centering Reinforcing\\ compulsive\\ conditioning}};
+
+  \node (confusion) [right=3mm of reinforcing.east]
+  {\parbox{20mm}{\diaTiny\raggedright Confusion and anxiety\\
+      \vspace*{1em}
+      Who am I?\\ What am I?\\ What should I do?}};
+
+  \node (cessation) [below=15mm of stopping.south, tight box]
+  {\parbox{30mm}{\centering Cessation\\ of Suffering\\ (\emph{dukkha-nirodha})}};
+
+  \node (creation) [below=15mm of reinforcing.south, tight box]
+  {\parbox{30mm}{\centering Creation\\ of Suffering\\ (\emph{dukkha-samudaya})}};
+
+  \draw [smallish arrow] (grasping) to (reinforcing);
+  \draw [smallish arrow] (not-grasping) to (stopping);
+
+  \draw [smallish arrow] (stopping) to (cessation);
+  \draw [smallish arrow] (reinforcing) to (creation);
+\end{tikzpicture}%
+
+\end{document}

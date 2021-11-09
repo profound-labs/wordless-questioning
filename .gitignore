@@ -8,6 +8,8 @@ main-en.docx
 manuscript/org/
 manuscript/docx/
 
+manuscript/tex/diagrams/dia.pdf
+
 # Emacs temp files
 auto/
 .auctex-auto/

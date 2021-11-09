@@ -1,0 +1,64 @@
+\ProvidesPackage{dia-page}
+
+\usepackage{lipsum}
+
+\RequirePackage{xcolor}
+\RequirePackage{graphicx}
+
+\RequirePackage{longtable}
+\RequirePackage{booktabs}
+\RequirePackage{nicematrix}
+\RequirePackage{enumitem}
+
+\RequirePackage{tikz}
+\usetikzlibrary{positioning}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{shapes.misc}
+\usetikzlibrary{decorations.text}
+\usetikzlibrary{decorations.pathreplacing}
+\usetikzlibrary{shapes.symbols}
+\usetikzlibrary{calc}
+\usetikzlibrary{tikzmark}
+
+\RequirePackage{amsmath}
+\RequirePackage{mathtools}
+\RequirePackage{mathabx}
+
+% Use with: \begin{tabular}{L{30mm}R{30mm}}
+
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
+\definecolor{textbody}{gray}{0.05}% 95% is good for contrast, on yellowish paper it is not harsh.
+
+\RequirePackage{fontspec}
+\defaultfontfeatures{ Ligatures={TeX}, Path = {../../../assets/fonts/}, }
+
+\setmainfont[
+  SmallCapsFeatures= { LetterSpace = 0.2 },
+  ItalicFont = Crimson-Italic.otf,
+  BoldFont = Crimson-Semibold.otf,
+  BoldItalicFont = Crimson-SemiboldItalic.otf,
+]{Crimson-Roman.otf}
+
+\RequirePackage[final,babel=true]{microtype}
+
+\def\BOOK@fontSizePt{10}
+\def\BOOK@lineHeightPt{15}
+
+\renewcommand{\normalsize}{%
+  \@setfontsize\normalsize\BOOK@fontSizePt\BOOK@lineHeightPt
+  \abovedisplayskip 11\p@ \@plus3\p@ \@minus6\p@
+  \abovedisplayshortskip \z@ \@plus3\p@
+  \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+  \belowdisplayskip \abovedisplayskip
+  \color{textbody}
+  \let\@listi\@listI}
+\normalsize
+
+\setlength{\parindent}{0pt}
+
+\RequirePackage{geometry}
+
+\pagestyle{empty}
+
