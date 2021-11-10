@@ -1,34 +1,46 @@
 \documentclass{article}
 \usepackage{dia-page}
 \usepackage{dia-style}
-\geometry{paperwidth=125mm, paperheight=113mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+\geometry{paperwidth=125mm, paperheight=133mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
 
 \begin{document}
 
 \centering
 
 \begin{tikzpicture}[font=\diaSmall, node distance=2mm]
-  \node (feeling) [tight box]
-  {\parbox{35mm}{\centering \emph{Vedanā}: Feeling as\\ a direction of movement}};
+  \node (feeling) [tight ring]
+  {\parbox{20mm}{\centering \emph{Vedanā}: Feeling\\ as a direction\\ of movement}};
 
-  \node (grasping) [below right=15mm and 5mm of feeling.south, tight box]
+  \node (direction) [above right=0mm and 6mm of feeling.east]
+  {\parbox{30mm}{\diaTiny\raggedright
+      Towards the pleasant\\
+      Away from the unpleasant\\
+      Unaware of the neutral
+    }};
+
+  \node (awareness) [below left=2mm and 3mm of feeling.south]
+  {\parbox{37mm}{\centering Awareness of impermanence, unsatisfactoriness, not-self}};
+
+  \node (reaction) [below right=2mm and 3mm of feeling.south]
+  {\parbox{37mm}{\centering Conditioned reaction\\ without mindfulness}};
+
+  \draw [line, bend left=25] (feeling) to (reaction.north);
+  \draw [line, bend right=25] (feeling) to (awareness.north);
+
+  \node (not-grasping) [below=10mm of awareness.south, tight box]
+  {\parbox{30mm}{\centering Experience not\\ grasped as identity}};
+
+  \node (grasping) [below=10mm of reaction.south, tight box]
   {\parbox{30mm}{\centering Grasping experience\\ as identity}};
+
+  \draw [smallish arrow] (awareness) to (not-grasping);
+  \draw [smallish arrow] (reaction) to (grasping);
 
   \node (personal) [right=3mm of grasping.east]
   {\parbox{17mm}{\diaTiny\raggedright Personal narrative,\\ me and mine}};
 
-  \node (not-grasping) [below left=15mm and 5mm of feeling.south, tight box]
-  {\parbox{30mm}{\centering Experience not\\ grasped as identity}};
-
   \node (reflection) [left=3mm of not-grasping.west]
   {\parbox{17mm}{\diaTiny\raggedleft Reflecting on its nature to arise and cease}};
-
-  \draw [smallish arrow, bend left=25] (feeling) to node[anchor=west, xshift=5mm, midway] {
-    \parbox{21mm}{\diaTiny\raggedright Conditioned reaction\\ without mindfulness}
-  } (grasping);
-  \draw [smallish arrow, bend right=25] (feeling) to node[anchor=east, xshift=-5mm, midway] {
-    \parbox{21mm}{\diaTiny\raggedleft Awareness of impermanence, unsatisfactoriness, not-self}
-  } (not-grasping);
 
   \node (stopping) [below=15mm of not-grasping.south, tight ring]
   {\parbox{18mm}{\centering Stopping\\ compulsive\\ conditioning}};
