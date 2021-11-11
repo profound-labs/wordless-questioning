@@ -35,11 +35,8 @@
 \defaultfontfeatures{ Ligatures={TeX}, Path = {../../../assets/fonts/}, }
 
 \setmainfont[
-  SmallCapsFeatures= { LetterSpace = 0.2 },
-  ItalicFont = Crimson-Italic.otf,
-  BoldFont = Crimson-Semibold.otf,
-  BoldItalicFont = Crimson-SemiboldItalic.otf,
-]{Crimson-Roman.otf}
+  ItalicFont = overpass-italic.otf,
+]{overpass-regular.otf}
 
 \RequirePackage[final,babel=true]{microtype}
 
@@ -55,6 +52,177 @@
   \color{textbody}
   \let\@listi\@listI}
 \normalsize
+
+\newcommand{\diaLarge}{\@setfontsize  \diaLarge  {16}{16}}
+\newcommand{\diaNormal}{\@setfontsize \diaNormal {10.5}{15}}
+\newcommand{\diaSmall}{\@setfontsize  \diaSmall  {8}{12}}% 12/8 = 1.5
+\newcommand{\diaTiny}{\@setfontsize   \diaTiny   {7}{10}}% 10/7 = 1.42
+\newcommand{\diaPici}{\@setfontsize   \diaPici   {6}{8}}
+
+\newlength{\twA}
+\newlength{\twB}
+
+% #1 - minipage width
+\newcommand{\td}[2][\twA]{%
+  \begin{minipage}[t]{#1}\raggedright
+    #2%
+    % \strut
+  \end{minipage}%
+}
+
+\tikzset{wide pill/.style={
+    rounded rectangle,
+    inner sep = 3mm,
+    line width = 0.4pt,
+    fill=white,
+    draw,
+  }
+}
+
+\tikzset{very tight pill/.style={
+    rounded rectangle,
+    inner sep = 1mm,
+    line width = 0.4pt,
+    fill=white,
+    draw,
+  }
+}
+
+\tikzset{wide box/.style={
+    rectangle,
+    rounded corners = 3mm,
+    inner sep = 3mm,
+    line width = 0.4pt,
+    fill=white,
+    draw,
+  }
+}
+
+\tikzset{tight box/.style={
+    rectangle,
+    rounded corners = 1.5mm,
+    inner sep = 2mm,
+    line width = 0.4pt,
+    fill=white,
+    draw,
+  }
+}
+
+\tikzset{very tight box/.style={
+    rectangle,
+    inner sep = 1mm,
+    line width = 0.4pt,
+    fill=white,
+    draw,
+  }
+}
+
+\tikzset{ring/.style={
+    circle,
+    inner sep = 2mm,
+    line width = 0.4pt,
+    fill=white,
+    draw,
+  }
+}
+
+\tikzset{tight ring/.style={
+    circle,
+    inner sep = 1mm,
+    line width = 0.4pt,
+    fill=white,
+    draw,
+  }
+}
+
+\tikzset{long spiky/.style={
+    starburst,
+    starburst points = 17,
+    starburst point height = 4mm,
+    inner ysep = 0.8mm,
+    inner xsep = -5pt,
+    line width = 0.4pt,
+    fill=white,
+    draw,
+  }
+}
+
+\tikzset{short spiky/.style={
+    long spiky,
+    starburst point height = 3mm,
+    inner ysep = 0.8mm,
+    inner xsep = 1mm,
+    fill=white,
+    draw,
+  }
+}
+
+\tikzset{arrow/.style={
+    -{Stealth[length=2.5mm]},
+    shorten <=2pt,
+    shorten >=2pt,
+  }
+}
+
+\tikzset{line/.style={
+    shorten <=2pt,
+    shorten >=2pt,
+  }
+}
+
+\tikzset{smallish arrow/.style={
+    -{Stealth[length=2.0mm]},
+    shorten <=2pt,
+    shorten >=2pt,
+  }
+}
+
+\tikzset{small arrow/.style={
+    -{Stealth[length=1.5mm]},
+    shorten <=2pt,
+    shorten >=2pt,
+  }
+}
+
+\tikzset{no shorten/.style={
+    shorten <=0pt,
+    shorten >=0pt,
+  }
+}
+
+\tikzset{thin/.style={line width=0.4pt}}
+
+\newenvironment{tableItemize}%
+{\begin{itemize}[
+  itemindent=0pt,
+  leftmargin=7pt,
+  rightmargin=0pt,
+  itemsep=4pt,
+  topsep=0pt,
+  parsep=0pt,
+  partopsep=0pt,
+  ]%
+}{\end{itemize}}
+
+\newenvironment{tableEnumerate}%
+{\begin{enumerate}[
+  itemindent=0pt,
+  leftmargin=10pt,
+  rightmargin=0pt,
+  itemsep=4pt,
+  topsep=0pt,
+  parsep=0pt,
+  partopsep=0pt,
+  ]%
+}{\end{enumerate}}
+
+\newcommand\numberbullet[2][black!70]{%
+  \raisebox{-2.5pt}{\tikz{\node[
+      circle, fill=#1, line width=0pt, minimum width=0.5em, inner sep=2pt]
+      {\alegreyaSansMediumFont\fontsize{8}{8}\selectfont\color{white} #2};
+    }%
+  }%
+}
 
 \setlength{\parindent}{0pt}
 

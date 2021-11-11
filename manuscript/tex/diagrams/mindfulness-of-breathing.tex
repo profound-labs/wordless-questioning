@@ -1,0 +1,34 @@
+\documentclass{article}
+\usepackage{dia-page}
+\geometry{paperwidth=125mm, paperheight=150mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+
+\begin{document}
+
+\centering
+
+\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
+
+  \node (breath) [tight ring]
+  {\parbox{15mm}{\centering Watching the breath}};
+
+  \node (reflection-note) [below=10mm of breath]
+  {\parbox{50mm}{\centering Wise Reflection, Clear Comprehension}};
+
+  \draw [smallish arrow] (breath) to (reflection-note);
+
+  \node (reflection-wrap) [
+    below=2mm of reflection-note,
+    rectangle,
+    minimum width=50mm,
+    minimum height=50mm,
+    line width = 0.4pt,
+    fill=white,
+    draw,
+  ] {};
+
+  \node (cognition) [below=5mm of reflection-wrap.north]
+  {\parbox{50mm}{\centering Cognition becomes familiar with:}};
+
+\end{tikzpicture}%
+
+\end{document}

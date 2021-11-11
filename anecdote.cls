@@ -1778,6 +1778,26 @@ philo-sophical munindo amaravati thai-land}
 \settypeoutlayoutunit{mm}
 \typeoutlayout
 
+\newcommand\normalpagelayout{%
+  \makeatletter%
+  \settypeblocksize{157mm}{80mm}{*}%
+  \setlrmargins{18mm}{*}{*}%
+  \checkandfixthelayout%
+  \ch@ngetext%
+  \makeatother%
+}
+
+\newcommand\figurepagelayout{%
+  \makeatletter%
+  \settypeblocksize{157mm}{115mm}{*}%
+  \setlrmargins{10mm}{*}{*}%
+  \checkandfixthelayout%
+  \ch@ngetext%
+  \makeatother%
+}
+
+
+
 % Math sizes for superscript sizes
 \DeclareMathSizes{12.5}{12.5}{7}{7}
 
