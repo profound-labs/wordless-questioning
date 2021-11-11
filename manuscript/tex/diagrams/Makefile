@@ -6,7 +6,7 @@ all: dia
 dia:
 	lualatex -interaction=nonstopmode -halt-on-error dia.tex
 
-all-diagrams: senses-identification.pdf
+all-diagrams: feeling-identification.pdf mindfulness-of-breathing.pdf
 
 %.pdf: %.tex
 	$(LATEX) $(LATEX_OPTS) $<

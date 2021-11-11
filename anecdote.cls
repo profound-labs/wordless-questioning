@@ -1749,11 +1749,13 @@ philo-sophical munindo amaravati thai-land}
   \settrims{0pt}{0pt}
 \fi
 
-\settypeblocksize{157mm}{80mm}{*}%
+\settypeblocksize{157mm}{80mm}{*}
 \setmarginnotes{5mm}{20mm}{0pt}
 \setlrmargins{18mm}{*}{*}
 \setulmargins{20mm}{*}{*}
 \setheaderspaces{*}{8mm}{*}
+
+\setlength{\footskip}{27pt}
 
 \sideparmargin{outer}
 \setlength{\sideparvshift}{\baselineskip}
@@ -1764,8 +1766,6 @@ philo-sophical munindo amaravati thai-land}
 \renewcommand{\sideparfont}{\fontsize{8}{10}\selectfont\normalfont}
 
 \newcommand{\keywords}[1]{\vspace*{-\baselineskip}\sidepar{#1}}
-
-%\setlength{\footskip}{30pt}
 
 % Fixes these warnings:
 %
@@ -1779,21 +1779,29 @@ philo-sophical munindo amaravati thai-land}
 \typeoutlayout
 
 \newcommand\normalpagelayout{%
-  \makeatletter%
-  \settypeblocksize{157mm}{80mm}{*}%
-  \setlrmargins{18mm}{*}{*}%
-  \checkandfixthelayout%
-  \ch@ngetext%
-  \makeatother%
+  \makeatletter
+  \settypeblocksize{157mm}{80mm}{*}
+  \setmarginnotes{5mm}{20mm}{0pt}
+  \setlrmargins{18mm}{*}{*}
+  \setulmargins{20mm}{*}{*}
+  \setheaderspaces{*}{8mm}{*}
+  \setlength{\footskip}{27pt}
+  \checkandfixthelayout
+  \ch@ngetext
+  \makeatother
 }
 
 \newcommand\figurepagelayout{%
-  \makeatletter%
-  \settypeblocksize{157mm}{115mm}{*}%
-  \setlrmargins{10mm}{*}{*}%
-  \checkandfixthelayout%
-  \ch@ngetext%
-  \makeatother%
+  \makeatletter
+  \settypeblocksize{175mm}{115mm}{*}
+  \setmarginnotes{0pt}{0pt}{0pt}
+  \setlrmargins{10mm}{*}{*}
+  \setulmargins{20mm}{*}{*}
+  \setheaderspaces{*}{8mm}{*}
+  \setlength{\footskip}{0pt}
+  \checkandfixthelayout
+  \ch@ngetext
+  \makeatother
 }
 
 

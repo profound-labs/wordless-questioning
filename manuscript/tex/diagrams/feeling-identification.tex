@@ -1,0 +1,91 @@
+\documentclass{article}
+\usepackage{dia-page}
+\geometry{paperwidth=125mm, paperheight=150mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+
+\begin{document}
+
+\centering
+
+\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
+  \node (feeling) [tight ring]
+  {\parbox{20mm}{\centering \emph{Vedanā}: Feeling\\ as a direction\\ of movement}};
+
+  \node (direction) [above right=0mm and 6mm of feeling.east]
+  {\parbox{30mm}{\diaTiny\raggedright
+      Towards the pleasant\\
+      Away from the unpleasant\\
+      Unaware of the neutral
+    }};
+
+  \node (awareness) [below left=2mm and 2mm of feeling.south]
+  {\parbox{40mm}{\centering Awareness of impermanence, unsatisfactoriness, not-self}};
+
+  \node (reaction) [below right=2mm and 2mm of feeling.south]
+  {\parbox{40mm}{\centering Conditioned reaction\\ without mindfulness}};
+
+  \draw [line, bend left=25] (feeling) to (reaction.north);
+  \draw [line, bend right=25] (feeling) to (awareness.north);
+
+  \node (not-grasping) [below=10mm of awareness.south, tight box]
+  {\parbox{28mm}{\centering Experience not\\ grasped as identity}};
+
+  \node (grasping) [below=10mm of reaction.south, tight box]
+  {\parbox{28mm}{\centering Grasping experience\\ as identity}};
+
+  \draw [smallish arrow] (awareness) to (not-grasping);
+  \draw [smallish arrow] (reaction) to (grasping);
+
+  \node (personal) [right=3mm of grasping.east]
+  {\parbox{17mm}{\diaTiny\raggedright Personal narrative,\\ me and mine}};
+
+  \node (reflection) [left=3mm of not-grasping.west]
+  {\parbox{17mm}{\diaTiny\raggedleft Reflecting on its nature to arise and cease}};
+
+  \node (stopping) [below=15mm of not-grasping.south, tight ring]
+  {\parbox{17mm}{\centering Stopping\\ compulsive\\ conditioning}};
+
+  \node (noble) [left=3mm of stopping.west]
+  {\parbox{24mm}{\diaTiny\raggedleft Seeing the way it is\\
+      \vspace*{1em}
+      There is \emph{dukkha}.
+      There are conditions for its origin and cessation.
+      The path can be developed.
+    }};
+
+  \node (reinforcing) [below=15mm of grasping.south, tight ring]
+  {\parbox{17mm}{\centering Reinforcing\\ compulsive\\ conditioning}};
+
+  \node (confusion) [right=3mm of reinforcing.east]
+  {\parbox{21mm}{\diaTiny\raggedright Confusion and anxiety\\
+      \vspace*{1em}
+      Who am I?\\ What am I?\\ What should I do?}};
+
+  \node (training) [below=8mm of stopping.south]
+  {\parbox{40mm}{\diaTiny\centering Perceiving happinness in developing the Path.
+      Training in higher virtue, higher mind, higher wisdom
+      (\emph{adhisīla, adhicitta, adhipaññā}).
+    }};
+
+  \node (harmful) [below=8mm of reinforcing.south]
+  {\parbox{40mm}{\diaTiny\centering Perceiving happinness in pleasure and becoming.
+      Harmful influences of the mind increase:
+      sensual craving, hatred, ignorance (the three \emph{āsavas}).
+    }};
+
+  \node (cessation) [below=10mm of training.south, tight box]
+  {\parbox{28mm}{\centering Cessation\\ of Suffering\\ (\emph{dukkha-nirodha})}};
+
+  \node (creation) [below=10mm of harmful.south, tight box]
+  {\parbox{28mm}{\centering Creation\\ of Suffering\\ (\emph{dukkha-samudaya})}};
+
+  \draw [smallish arrow] (grasping) to (reinforcing);
+  \draw [smallish arrow] (not-grasping) to (stopping);
+
+  \draw [line] (stopping) to (training);
+  \draw [smallish arrow] (training) to (cessation);
+
+  \draw [line] (reinforcing) to (harmful);
+  \draw [smallish arrow] (harmful) to (creation);
+\end{tikzpicture}%
+
+\end{document}

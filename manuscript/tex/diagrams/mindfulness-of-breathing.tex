@@ -1,6 +1,6 @@
 \documentclass{article}
 \usepackage{dia-page}
-\geometry{paperwidth=125mm, paperheight=150mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+\geometry{paperwidth=125mm, paperheight=175mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
 
 \begin{document}
 
@@ -12,15 +12,18 @@
   {\parbox{15mm}{\centering Watching the breath}};
 
   \node (reflection-note) [below=10mm of breath]
-  {\parbox{50mm}{\centering Wise Reflection, Clear Comprehension}};
+  {\parbox{50mm}{\centering
+      Wise Reflection, Clear Comprehension\\
+      \emph{yoniso-manasikāra, sati-sampajañña}
+    }};
 
   \draw [smallish arrow] (breath) to (reflection-note);
 
   \node (reflection-wrap) [
     below=2mm of reflection-note,
     rectangle,
-    minimum width=50mm,
-    minimum height=50mm,
+    minimum width=100mm,
+    minimum height=90mm,
     line width = 0.4pt,
     fill=white,
     draw,
@@ -28,6 +31,43 @@
 
   \node (cognition) [below=5mm of reflection-wrap.north]
   {\parbox{50mm}{\centering Cognition becomes familiar with:}};
+
+  \node (foundations) [below=3mm of cognition.south, anchor=north east, xshift=-2mm, tight box]
+  {\parbox{30mm}{\centering Four Foundations of Mindfulness}};
+
+  \node (foundations-list) [right=3mm of foundations.north east, anchor=north west, yshift=2pt]
+  {\parbox{25mm}{\diaTiny\raggedright body, feelings\\ mental states,\\ nature of experience}};
+
+  \node (training) [below=20mm of cognition]
+  {\parbox{50mm}{\centering Training and cultivating\\ the mental qualities of:}};
+
+  \node (factors) [below=3mm of training.south, anchor=north east, xshift=-2mm, tight box]
+  {\parbox{30mm}{\centering Seven Factors of Awakening}};
+
+  \node (factors-list) [right=3mm of factors.north east, anchor=north west, yshift=2pt]
+  {\parbox{40mm}{\diaTiny\raggedright
+      mindfulness, investigation, energy,\\
+      rapture, tranquillity, concentration,\\
+      equanimity}};
+
+  \node (developing) [below=20mm of training]
+  {\parbox{50mm}{\centering Developing Right View and\\ abandoning compulsive tendencies:}};
+
+  \node (understanding) [below=3mm of developing.south, anchor=north east, xshift=-2mm, tight box]
+  {\parbox{30mm}{\centering Understanding the nature of experience}};
+
+  \node (understanding-list) [right=3mm of understanding.north east, anchor=north west, yshift=2pt]
+  {\parbox{25mm}{\diaTiny\raggedright
+      impermanent\\ unsatisfactory\\ not-self}};
+
+  \node (knowledge) [below=5mm of reflection-wrap.south]
+  {\parbox{50mm}{\centering Knowledge and Liberation\\ \emph{vijjā-vimutti}}};
+
+  \node (clarity) [below=7mm of knowledge, tight ring]
+  {\parbox{15mm}{\centering Clarity\\ Calm\\ Insight}};
+
+  \draw [line] (reflection-wrap) to (knowledge);
+  \draw [smallish arrow] (knowledge) to (clarity);
 
 \end{tikzpicture}%
 
