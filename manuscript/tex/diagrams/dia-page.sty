@@ -17,6 +17,7 @@
 \usetikzlibrary{decorations.text}
 \usetikzlibrary{decorations.pathreplacing}
 \usetikzlibrary{shapes.symbols}
+\usetikzlibrary {shapes.geometric}
 \usetikzlibrary{calc}
 \usetikzlibrary{tikzmark}
 
@@ -57,6 +58,7 @@
 \newcommand{\diaNormal}{\@setfontsize \diaNormal {10.5}{15}}
 \newcommand{\diaSmall}{\@setfontsize  \diaSmall  {8}{12}}% 12/8 = 1.5
 \newcommand{\diaTiny}{\@setfontsize   \diaTiny   {7}{10}}% 10/7 = 1.42
+\newcommand{\diaNarrow}{\@setfontsize \diaNarrow {6.5}{9}}
 \newcommand{\diaPici}{\@setfontsize   \diaPici   {6}{8}}
 
 \newlength{\twA}
@@ -165,6 +167,13 @@
 }
 
 \tikzset{line/.style={
+    shorten <=2pt,
+    shorten >=2pt,
+  }
+}
+
+\tikzset{dashed line/.style={
+    dashed,
     shorten <=2pt,
     shorten >=2pt,
   }

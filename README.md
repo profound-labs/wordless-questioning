@@ -1,4 +1,10 @@
-Meditation Without the Hurry
+# Wordless Questioning
 
-/stopping for one breath, for one clear thought./
+/an introduction to Buddhist meditation and reflection/
+
+In English and Hungarian.
+
+**Szótlan Vizsgálat**
+
+/bevezető a buddhista meditációba és szemléletbe/
 

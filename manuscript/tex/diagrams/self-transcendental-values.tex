@@ -1,0 +1,190 @@
+\documentclass{article}
+\usepackage{dia-page}
+\geometry{paperwidth=125mm, paperheight=151mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+
+\begin{document}
+
+\centering
+
+\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
+  \node (center-rect) [
+    rectangle,
+    minimum width=\linewidth-20mm,
+    minimum height=0pt,
+    inner sep=0pt,
+    line width=0pt,
+  ] {};
+
+  \node (line-a) [left=9mm of center-rect.north] {};
+  \node (line-b) [left=0pt of center-rect.west] {};
+
+  \draw [dashed line] (line-a) to (line-b);
+
+  \node [above=0mm of line-b, anchor=south west] {Internally focused};
+
+  \node [above=10mm of line-b, anchor=south west]
+  {\parbox{33mm}{\raggedright\diaNarrow
+      Liberation from forms of attachment.
+      Problems are solved by inner reflection.
+      Understanding timeless conditions which one has no control over.
+    }};
+
+  \node [below=0mm of line-b, anchor=north west] {Externally focused};
+
+  \node [below=10mm of line-b, anchor=north west]
+  {\parbox{33mm}{\raggedright\diaNarrow
+      Obtaining and safeguarding.
+      Problems are solved by external factors.
+      Application of skilful means, making wholesome choices, to the extent one has control.
+    }};
+
+  \node (tu0) [
+    isosceles triangle,
+    shape border rotate=270,
+    above=2mm of center-rect,
+    anchor=apex,
+    minimum width=6cm,
+    % isosceles triangle stretches,
+    % minimum width=5cm,
+    % minimum height=7cm,
+    line width=0.4pt,
+    draw,
+  ] {};
+
+  \foreach \idx/\h in {tu1/4.8, tu2/3.6, tu3/2.4, tu4/1.2}{
+    \node (\idx) [
+      isosceles triangle,
+      shape border rotate=270,
+      above=2mm of center-rect,
+      anchor=apex,
+      minimum width=\h cm,
+    ] {};
+    \draw (\idx.left corner) to (\idx.right corner);
+  }
+
+  \node (tb0) [
+    isosceles triangle,
+    shape border rotate=90,
+    below=2mm of center-rect,
+    anchor=apex,
+    % isosceles triangle stretches,
+    minimum width=6cm,
+    line width=0.4pt,
+    draw,
+  ] {};
+
+  \foreach \idx/\h in {tb1/4.8, tb2/3.6, tb3/2.4, tb4/1.2}{
+    \node (\idx) [
+      isosceles triangle,
+      shape border rotate=90,
+      below=2mm of center-rect,
+      anchor=apex,
+      minimum width=\h cm,
+    ] {};
+    \draw (\idx.left corner) to (\idx.right corner);
+  }
+
+  \node [below=7mm of tu0.north, anchor=mid] {Freedom from Becoming};
+
+  \node [below right=7mm and 20mm of tu0.north, anchor=west, fill=white]
+  {\parbox{35mm}{\raggedright\diaNarrow
+        letting go of conceiving `I am',
+        facing mortality,
+        refuge in the deathless
+    }};
+
+  \node [below=7mm of tu1.north, anchor=mid] {Uncertainty};
+
+  \node [below right=7mm and 20mm of tu1.north, anchor=west, fill=white]
+  {\parbox{35mm}{\raggedright\diaNarrow
+        letting go of safety in possessions,
+        morality above oneself,
+        openness to the unknown
+    }};
+
+  \node [below=7mm of tu2.north, anchor=mid] {Universality};
+
+  \node [below right=7mm and 20mm of tu2.north, anchor=west]
+  {\parbox{35mm}{\raggedright\diaNarrow
+      letting go of cultural identity,
+      not `we' and `them',
+      giving up greed and hatred,
+      self-acceptance
+    }};
+
+  \node [below=7mm of tu3.north, anchor=mid] {Humbleness};
+
+  \node [below right=7mm and 20mm of tu3.north, anchor=west]
+  {\parbox{35mm}{\raggedright\diaNarrow
+      letting go of social recognition,
+      accepting multiple opinions,
+      trust in Dhamma practice
+    }};
+
+  \node [below=5mm of tu4.north, anchor=mid, fill=white] {Self-transcendence};
+
+  \node [below right=4mm and 20mm of tu4.north, anchor=west]
+  {\parbox{38mm}{\raggedright\diaNarrow
+      letting go of personal achievements,
+      recognizing impermanence,
+      not seeking perfection
+    }};
+
+  \node [above=5mm of tb4.south, anchor=mid, fill=white] {Self-actualization};
+
+  \node [above right=4mm and 20mm of tb4.south, anchor=west]
+  {\parbox{35mm}{\raggedright\diaNarrow
+      morality, creativity,\\ mastering skills, fulfilment of personal potential
+    }};
+
+  \node [above=7mm of tb3.south, anchor=mid] {Esteem};
+
+  \node [above right=7mm and 20mm of tb3.south, anchor=west]
+  {\parbox{35mm}{\raggedright\diaNarrow
+      social recognition,\\ being respected,\\ confidence
+    }};
+
+  \node [above=7mm of tb2.south, anchor=mid] {Love and Belonging};
+
+  \node [above right=7mm and 20mm of tb2.south, anchor=west]
+  {\parbox{35mm}{\raggedright\diaNarrow
+      family, friendships,\\ affiliation with a\\ trusted group
+    }};
+
+  \node [above=7mm of tb1.south, anchor=mid] {Safety};
+
+  \node [above right=7mm and 20mm of tb1.south, anchor=west, fill=white]
+  {\parbox{35mm}{\raggedright\diaNarrow
+      physical safety, order,\\ livelihood, health
+    }};
+
+  \node [above=7mm of tb0.south, anchor=mid] {Survival Needs};
+
+  \node [above right=7mm and 20mm of tb0.south, anchor=west, fill=white]
+  {\parbox{35mm}{\raggedright\diaNarrow
+      food, clothing,\\ shelter, medicine
+    }};
+
+  \node (process) [
+    circle,
+    left=0pt of center-rect.north,
+    xshift=0.75cm,
+    minimum width=1.5cm,
+    % Not drawing because this shape is for positioning the arrow.
+    % color=red,
+    % draw,
+  ] {};
+
+  \draw (process) node [xshift=-1pt] {
+    \tikz [x=0.75cm,y=0.75cm,smallish arrow] \draw (0,0) arc (10:350:1 and -1);
+  };
+
+  \node [tight box, right=12mm of center-rect.north] {\parbox{38mm}{\raggedright\diaNarrow
+      Practicing clear comprehension,
+      applying the right effort in a given situation
+      for the ending of \emph{dukkha}.
+    }};
+
+\end{tikzpicture}%
+
+\end{document}

@@ -278,11 +278,14 @@
 \RequirePackage{hyperxmp}
 \RequirePackage{hyperref}
 
+% https://tex.stackexchange.com/questions/32076/incorrect-toc-index-cross-references-when-resetting-memoir-class-counters
+% hypertexnames=true
+
 \hypersetup{
   unicode=true,
   bookmarksopen=true,
   bookmarksopenlevel=3,
-  hypertexnames=false,
+  hypertexnames=true,
   linktocpage=true,
   plainpages=false,
   breaklinks
@@ -320,6 +323,11 @@
 
 \ifthenelse{\equal{\BOOK@babelLanguage}{british}}{
   \renewcommand\britishhyphenmins{{3}{3}}
+  % If using babel, captions names have to be renamed like this
+  \addto\captionsbritish{
+    \renewcommand{\contentsname}{Contents}
+    \renewcommand{\bibname}{References}
+  }
 }{}
 \ifthenelse{\equal{\BOOK@babelLanguage}{italian}}{
   \renewcommand\italianhyphenmins{{3}{3}}
@@ -329,7 +337,6 @@
 }{}
 \ifthenelse{\equal{\BOOK@babelLanguage}{portuguese}}{
   \renewcommand\portuguesehyphenmins{{3}{3}}
-  % If using babel, captions names have to be renamed like this
   \addto\captionsportuguese{
     \renewcommand{\contentsname}{Índice}
     \renewcommand{\bibname}{Referências}
@@ -824,7 +831,10 @@ philo-sophical munindo amaravati thai-land}
 
 % === Renewing package macros ===
 
-% NOTE: We need a \mainmatter which doesn't add blank pages, otherwise pre-part page has a double blank page before it.
+% NOTE: Uncomment below if you need a \mainmatter which doesn't add blank pages.
+% Useful to insert a picture before the first chapter, which otherwise would
+% have a double blank page before it.
+
 \renewcommand*{\@smemmain}{%
   \@mainmattertrue
   \setcounter{secnumdepth}{\value{maxsecnumdepth}}
@@ -832,6 +842,26 @@ philo-sophical munindo amaravati thai-land}
   \else
     \@memmain@floats
   \fi}
+
+\ifthenelse{\equal{\BOOK@babelLanguage}{hungarian}}{
+  % Turning off acute shorhand for hungarian. Turning off all shorhands with the
+  % shorhands=off package option causes unknown command error for the opening
+  % double quote (double acute).
+  %
+  % The hungarian babel option loads the acute (backtick) as a shorthand, and
+  % interferes with opening single quotes. On certain letters such as `T `t `N
+  % `n, the quote mark disappears. It could also be a ligature problem in the
+  % Crimson Roman font.
+  %
+  % The shorhands are only activated after \begin{document}, turning it off in
+  % the preamble has no effect.
+  %
+  % Hungarian typesetting often uses lower quote marks for opening the quote.
+  % Turning it off produces upper quote marks, as in English typesetting.
+  \addtodef{\frontmatter}{}{%
+    \shorthandoff{`}
+  }
+}{}
 
 \addtodef{\mainmatter}{}{%
   \addtocontents{toc}{\addvspace{15pt}}%
@@ -876,18 +906,6 @@ philo-sophical munindo amaravati thai-land}
 \renewcommand*{\notenumintext}[1]{\textsuperscript{\thinspace [#1]}}
 \renewcommand{\prenoteinnotes}{\par\noindent\hangindent=17pt}
 \renewcommand{\postnoteinnotes}{\par\vspace*{0.5\baselineskip}}
-
-% If using babel, captions names have to be renamed like this
-
-\addto\captionsportuguese{
-  \renewcommand{\contentsname}{Índice}
-  \renewcommand{\bibname}{Referências}
-}
-
-\addto\captionsbritish{
-  \renewcommand{\contentsname}{Contents}
-  \renewcommand{\bibname}{References}
-}
 
 % === Page styles ===
 
@@ -1778,6 +1796,8 @@ philo-sophical munindo amaravati thai-land}
 \settypeoutlayoutunit{mm}
 \typeoutlayout
 
+% NOTE: Uncomment below and adapt if you need some pages with different margins.
+
 \newcommand\normalpagelayout{%
   \makeatletter
   \settypeblocksize{157mm}{80mm}{*}
@@ -1818,6 +1838,8 @@ philo-sophical munindo amaravati thai-land}
 % NOTE if you have a quote margin, the \footnotemargin can be set equal to that
 % in your local.sty
 \setlength{\footnotemargin}{2em}
+
+% NOTE: add \raggedright to \footnotelayout if you need to disable justified footnote paragraphs.
 
 \renewcommand{\footnotelayout}{\hangpara{\footnotemargin}{1}\raggedright}
 
