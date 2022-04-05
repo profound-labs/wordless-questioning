@@ -2,7 +2,7 @@
 <svg
    inkscape:export-ydpi="300.01077"
    inkscape:export-xdpi="300.01077"
-   inkscape:export-filename="/home/yume/prods/books/alpha/wordless-questioning-project/wordless-questioning_main/desktop-cover-hu.png"
+   inkscape:export-filename="/home/yume/prods/books/alpha/wordless-questioning-project/wordless-questioning_main/desktop-cover-en.png"
    sodipodi:docname="desktop-cover.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    id="svg909"
@@ -12,13 +12,81 @@
    width="5in"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs903" />
+     id="defs903">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2044">
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0"
+         id="stop2973" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop2975" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2044"
+       id="radialGradient3445"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.0677516,0,0,3.0677516,-131.3022,-418.98707)"
+       cx="63.5"
+       cy="162.81989"
+       fx="63.5"
+       fy="162.81989"
+       r="40.3801" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4221">
+      <rect
+         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke-width:1.41111;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.9"
+         id="rect4223"
+         width="127"
+         height="203.2"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5952">
+      <rect
+         style="opacity:1;fill:#00ffff;fill-opacity:0.444703;stroke-width:1.41111;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.9"
+         id="rect5954"
+         width="127"
+         height="24.967422"
+         x="0"
+         y="178.23257" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6059">
+      <rect
+         style="opacity:1;fill:#00ffff;fill-opacity:0.444703;stroke-width:1.41111;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.9"
+         id="rect6061"
+         width="127"
+         height="14.934731"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6474">
+      <circle
+         cx="63.5"
+         cy="80.503891"
+         r="44.46196"
+         style="fill:#00ffff;fill-opacity:0.902399;stroke:#ffffff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+         id="circle6476" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-to-guides="true"
@@ -29,17 +97,17 @@
      inkscape:window-height="1043"
      inkscape:window-width="1920"
      inkscape:guide-bbox="true"
-     showguides="true"
+     showguides="false"
      inkscape:snap-center="true"
      inkscape:snap-page="true"
      inkscape:snap-bbox="true"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="g1398"
+     inkscape:current-layer="layer5"
      inkscape:document-units="mm"
-     inkscape:cy="324.25897"
-     inkscape:cx="126.26907"
-     inkscape:zoom="0.98994949"
+     inkscape:cy="394.99999"
+     inkscape:cx="292.49999"
+     inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -48,7 +116,8 @@
      id="base"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-global="true">
     <sodipodi:guide
        id="guide1474"
        orientation="1,0"
@@ -87,10 +156,10 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="circles"
-     style="display:inline;opacity:0.623678"
+     style="display:none;opacity:0.703036"
      sodipodi:insensitive="true">
     <g
-       transform="translate(-4.0000009,20.433329)"
+       transform="translate(-4.0000009,25.724996)"
        id="g1425">
       <g
          id="g1231">
@@ -1086,6 +1155,1067 @@
     </g>
   </g>
   <g
+     inkscape:groupmode="layer"
+     id="g5387"
+     inkscape:label="circles copy"
+     style="display:inline;opacity:1"
+     sodipodi:insensitive="true">
+    <g
+       transform="translate(-4.0000009,25.724996)"
+       id="g5385">
+      <g
+         id="g5383">
+        <g
+           id="g5381">
+          <g
+             id="g5189">
+            <g
+               id="g5093">
+              <g
+                 id="g5045">
+                <g
+                   id="g5021">
+                  <g
+                     id="g5009">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5001"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5003"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5005"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5007"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                  <g
+                     transform="rotate(45,67.5,60.000001)"
+                     id="g5019">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5011"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5013"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5015"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5017"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                </g>
+                <g
+                   id="g5043"
+                   transform="rotate(22.5,67.5,60.000001)">
+                  <g
+                     id="g5031">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5023"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5025"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5027"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5029"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                  <g
+                     id="g5041"
+                     transform="rotate(45,67.5,60.000001)">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5033"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5035"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5037"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5039"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                </g>
+              </g>
+              <g
+                 transform="rotate(11.25,67.5,60.000001)"
+                 id="g5091">
+                <g
+                   id="g5067">
+                  <g
+                     id="g5055">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5047"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5049"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5051"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5053"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                  <g
+                     id="g5065"
+                     transform="rotate(45,67.5,60.000001)">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5057"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5059"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5061"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5063"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                </g>
+                <g
+                   transform="rotate(22.5,67.5,60.000001)"
+                   id="g5089">
+                  <g
+                     id="g5077">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5069"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5071"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5073"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5075"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                  <g
+                     transform="rotate(45,67.5,60.000001)"
+                     id="g5087">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5079"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5081"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5083"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5085"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g
+               id="g5187"
+               transform="rotate(5.625,67.5,60.000001)">
+              <g
+                 id="g5139">
+                <g
+                   id="g5115">
+                  <g
+                     id="g5103">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5095"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5097"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5099"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5101"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                  <g
+                     id="g5113"
+                     transform="rotate(45,67.5,60.000001)">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5105"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5107"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5109"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5111"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                </g>
+                <g
+                   transform="rotate(22.5,67.5,60.000001)"
+                   id="g5137">
+                  <g
+                     id="g5125">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5117"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5119"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5121"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5123"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                  <g
+                     transform="rotate(45,67.5,60.000001)"
+                     id="g5135">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5127"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5129"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5131"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5133"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g5185"
+                 transform="rotate(11.25,67.5,60.000001)">
+                <g
+                   id="g5161">
+                  <g
+                     id="g5149">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5141"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5143"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5145"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5147"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                  <g
+                     transform="rotate(45,67.5,60.000001)"
+                     id="g5159">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5151"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5153"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5155"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5157"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                </g>
+                <g
+                   id="g5183"
+                   transform="rotate(22.5,67.5,60.000001)">
+                  <g
+                     id="g5171">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5163"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5165"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5167"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5169"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                  <g
+                     id="g5181"
+                     transform="rotate(45,67.5,60.000001)">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5173"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5175"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5177"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5179"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             transform="rotate(2.8125,67.5,60.000001)"
+             id="g5379">
+            <g
+               id="g5283">
+              <g
+                 id="g5235">
+                <g
+                   id="g5211">
+                  <g
+                     id="g5199">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5191"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5193"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5195"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5197"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                  <g
+                     id="g5209"
+                     transform="rotate(45,67.5,60.000001)">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5201"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5203"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5205"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5207"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                </g>
+                <g
+                   transform="rotate(22.5,67.5,60.000001)"
+                   id="g5233">
+                  <g
+                     id="g5221">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5213"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5215"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5217"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5219"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                  <g
+                     transform="rotate(45,67.5,60.000001)"
+                     id="g5231">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5223"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5225"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5227"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5229"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g5281"
+                 transform="rotate(11.25,67.5,60.000001)">
+                <g
+                   id="g5257">
+                  <g
+                     id="g5245">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5237"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5239"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5241"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5243"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                  <g
+                     transform="rotate(45,67.5,60.000001)"
+                     id="g5255">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5247"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5249"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5251"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5253"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                </g>
+                <g
+                   id="g5279"
+                   transform="rotate(22.5,67.5,60.000001)">
+                  <g
+                     id="g5267">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5259"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5261"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5263"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5265"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                  <g
+                     id="g5277"
+                     transform="rotate(45,67.5,60.000001)">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5269"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5271"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5273"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5275"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g
+               transform="rotate(5.625,67.5,60.000001)"
+               id="g5377">
+              <g
+                 id="g5329">
+                <g
+                   id="g5305">
+                  <g
+                     id="g5293">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5285"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5287"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5289"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5291"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                  <g
+                     transform="rotate(45,67.5,60.000001)"
+                     id="g5303">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5295"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5297"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5299"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5301"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                </g>
+                <g
+                   id="g5327"
+                   transform="rotate(22.5,67.5,60.000001)">
+                  <g
+                     id="g5315">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5307"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5309"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5311"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5313"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                  <g
+                     id="g5325"
+                     transform="rotate(45,67.5,60.000001)">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5317"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5319"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5321"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5323"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                </g>
+              </g>
+              <g
+                 transform="rotate(11.25,67.5,60.000001)"
+                 id="g5375">
+                <g
+                   id="g5351">
+                  <g
+                     id="g5339">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5331"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5333"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5335"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5337"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                  <g
+                     id="g5349"
+                     transform="rotate(45,67.5,60.000001)">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5341"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5343"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5345"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5347"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                </g>
+                <g
+                   transform="rotate(22.5,67.5,60.000001)"
+                   id="g5373">
+                  <g
+                     id="g5361">
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5353"
+                       cx="67.5"
+                       cy="-9.9999981"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="130"
+                       cx="67.5"
+                       id="circle5355"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5357"
+                       cx="-2.499999"
+                       cy="60.000004"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="137.5"
+                       id="circle5359"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                  </g>
+                  <g
+                     transform="rotate(45,67.5,60.000001)"
+                     id="g5371">
+                    <circle
+                       r="70"
+                       cy="-9.9999981"
+                       cx="67.5"
+                       id="circle5363"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5365"
+                       cx="67.5"
+                       cy="130"
+                       r="70" />
+                    <circle
+                       r="70"
+                       cy="60.000004"
+                       cx="-2.499999"
+                       id="circle5367"
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1" />
+                    <circle
+                       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+                       id="circle5369"
+                       cx="137.5"
+                       cy="60.000004"
+                       r="70" />
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="circles fade 1"
+     style="display:inline;opacity:0.836467"
+     sodipodi:insensitive="true">
+    <circle
+       style="opacity:1;mix-blend-mode:normal;fill:url(#radialGradient3445);fill-opacity:1;stroke-width:4.9388;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.9"
+       id="path1482"
+       cx="63.5"
+       cy="80.503883"
+       r="141.32771"
+       clip-path="url(#clipPath4221)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="sierp bg"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;fill-opacity:0.995191;stroke-width:1.41111;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.9"
+       id="rect1275"
+       width="127"
+       height="17.895073"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#000000;fill-opacity:0.995191;stroke-width:1.41111;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.9"
+       id="rect1555"
+       width="126.99999"
+       height="27.885696"
+       x="0"
+       y="175.31432" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="sierp"
+     style="display:inline;opacity:0.8"
+     sodipodi:insensitive="true">
+    <image
+       width="258.42456"
+       height="48.454609"
+       preserveAspectRatio="none"
+       xlink:href="s3.png"
+       id="image5502"
+       x="-73.304337"
+       y="162.68279"
+       clip-path="url(#clipPath5952)" />
+    <image
+       width="258.42456"
+       height="48.454609"
+       preserveAspectRatio="none"
+       xlink:href="s3.png"
+       id="image5956"
+       x="-34.942303"
+       y="-24.227304"
+       clip-path="url(#clipPath6059)" />
+  </g>
+  <g
      inkscape:label="center white"
      inkscape:groupmode="layer"
      id="g863"
@@ -1095,29 +2225,40 @@
        style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.372688;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
        id="circle859"
        cx="63.5"
-       cy="80.503891"
+       cy="85.795555"
        r="57.052341" />
+    <image
+       width="1006.4938"
+       height="188.71762"
+       preserveAspectRatio="none"
+       xlink:href="s3.png"
+       id="image6063"
+       x="-362.17761"
+       y="-34.06609"
+       clip-path="url(#clipPath6474)"
+       style="display:inline;opacity:1"
+       transform="translate(0,5.2916663)" />
     <circle
        cx="63.5"
-       cy="80.503891"
+       cy="85.795555"
        r="44.46196"
-       style="fill:#0082eb;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
+       style="fill:#0082eb;fill-opacity:0.93;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
        id="circle861" />
     <circle
        style="fill:none;fill-opacity:1;stroke:#e4e4e4;stroke-width:0.348327;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
        id="circle14384"
        cx="63.5"
-       cy="80.503891"
+       cy="85.795555"
        r="53.323212" />
     <circle
        style="fill:none;fill-opacity:1;stroke:#5a5a5a;stroke-width:0.388274;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:22.8;stroke-opacity:1"
        id="circle15808"
        cx="63.5"
-       cy="80.503891"
+       cy="85.795555"
        r="59.438362" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="text - en"
      id="layer2"
      inkscape:groupmode="layer"
@@ -1126,35 +2267,35 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05556px;line-height:8.46667px;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-0.132292px;word-spacing:0.529167px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="31.870888"
-       y="71.169395"
+       y="76.46106"
        id="text1488"><tspan
          sodipodi:role="line"
          id="tspan4788"
          x="31.870888"
-         y="71.169395">wordless questioning</tspan></text>
+         y="76.46106">wordless questioning</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:5.82084px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="63.505291"
-       y="83.121498"
+       y="88.413162"
        id="text1492"><tspan
          sodipodi:role="line"
          id="tspan4936"
          x="63.505291"
-         y="83.121498">an introduction to Buddhist meditation and reflection</tspan></text>
+         y="88.413162">an introduction to Buddhist meditation and reflection</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:5.82084px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="63.466484"
-       y="92.337814"
+       y="97.629478"
        id="text1364"><tspan
          sodipodi:role="line"
          id="tspan1384"
          x="63.466484"
-         y="92.337814">Gambhīro Bhikkhu</tspan></text>
+         y="97.629478">Gambhīro Bhikkhu</tspan></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="text - hu"
      id="g1398"
      inkscape:groupmode="layer"
@@ -1163,31 +2304,31 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05556px;line-height:8.46667px;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-0.132292px;word-spacing:0.529167px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="38.181187"
-       y="72.453506"
+       y="76.422249"
        id="text1388"><tspan
          sodipodi:role="line"
          id="tspan1418"
          x="38.181187"
-         y="72.453506">szótlan vizsgálat</tspan></text>
+         y="76.422249">szótlan vizsgálat</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:5.82084px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="63.505291"
-       y="83.103859"
+       y="88.395523"
        id="text1392"><tspan
          sodipodi:role="line"
          id="tspan1438"
          x="63.505291"
-         y="83.103859">bevezető a buddhista meditációba és szemléletbe</tspan></text>
+         y="88.395523">bevezető a buddhista meditációba és szemléletbe</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:5.82084px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="63.503525"
-       y="92.337814"
+       y="97.629478"
        id="text1396"><tspan
          sodipodi:role="line"
          id="tspan1458"
          x="63.503525"
-         y="92.337814">Bhikkhu Gambhíró</tspan></text>
+         y="97.629478">Bhikkhu Gambhíró</tspan></text>
   </g>
 </svg>
