@@ -321,6 +321,8 @@
 % memoir's more allowing penalties
 \midsloppy
 
+\newcommand\listillustrationsname{List of Illustrations}
+
 \ifthenelse{\equal{\BOOK@babelLanguage}{british}}{
   \renewcommand\britishhyphenmins{{3}{3}}
   % If using babel, captions names have to be renamed like this
@@ -334,6 +336,10 @@
 }{}
 \ifthenelse{\equal{\BOOK@babelLanguage}{hungarian}}{
   \renewcommand\hungarianhyphenmins{{3}{3}}
+  \addto\captionshungarian{
+    \renewcommand*{\listillustrationsname}{Illusztrációk Jegyzéke}
+    \renewcommand*{\listfigurename}{Ábrák Jegyzéke}
+  }
 }{}
 \ifthenelse{\equal{\BOOK@babelLanguage}{portuguese}}{
   \renewcommand\portuguesehyphenmins{{3}{3}}
@@ -398,6 +404,14 @@ philo-sophical munindo amaravati thai-land}
 % accented characters at the end of words.
 
 % === Custom commands and environments ===
+
+\newlistof{listofillustrations}{loi}{\listillustrationsname}
+\newlistentry{illustration}{loi}{0}
+
+\newcommand{\illustration}[1]{%
+  \refstepcounter{illustration}%
+  \addcontentsline{loi}{illustration}{\protect\chapternumberline{\theillustration} #1}%
+}
 
 \newcommand\dividerRule{%
 {\centering\bigskip
@@ -875,6 +889,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \addtodef{\backmatter}{}{%
+  \addtocontents{toc}{\addvspace{15pt}}%
   \bookmarksetup{startatroot}%
 }
 
@@ -1640,6 +1655,26 @@ philo-sophical munindo amaravati thai-land}
   \setlength{\beforechapskip}{-2.2\baselineskip}
 }
 
+\makechapterstyle{oneline-backmatter}{
+  \chapterstyle{oneline}
+  \setlength{\beforechapskip}{0pt}
+  \renewcommand\chaptitlefont{\chapterTitleFont\fontsize{12}{12}\selectfont}
+  \renewcommand*\printchaptertitle[1]{%
+    % The figures list puts the page numbers in the margin, so create a wide box
+    % for the title.
+    \begin{minipage}{\linewidth + 22pt}%
+      \centering%
+      \chaptitlefont\color{chaptertitle}%
+      ##1%
+      \par%
+      %\vspace*{0pt}%
+      \rule{\linewidth}{0.3pt}%
+      \par%
+    \end{minipage}%
+  }
+  \setlength{\afterchapskip}{20pt}
+}
+
 % Commands to assign the chapter styles to book parts. Use \renewcommand
 % to adjust.
 
@@ -1649,7 +1684,7 @@ philo-sophical munindo amaravati thai-land}
 \newcommand\frontmatterChapterStyle{\chapterstyle{oneline}}
 \newcommand\mainmatterChapterStyle{\chapterstyle{oneline}}
 \newcommand\appendixChapterStyle{\chapterstyle{oneline}}
-\newcommand\backmatterChapterStyle{\chapterstyle{oneline}}
+\newcommand\backmatterChapterStyle{\chapterstyle{oneline-backmatter}}
 
 % append them to the macros
 \addtodef{\frontmatter}{}{\frontmatterChapterStyle}

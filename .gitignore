@@ -34,6 +34,7 @@ tags
 *.aux
 *.log
 *.toc
+*.loi
 *.lof
 *.fls
 *.fdb_latexmk

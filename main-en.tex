@@ -71,7 +71,11 @@
 
 \cleartoverso
 \thispagestyle{empty}\mbox{}
-\photoFullBleedPlaceholder{TODO: Illustration of sitting posture.}
+\photoFullBleedPlaceholder{%
+  TODO: Illustration of sitting posture.%
+  \illustration{Sitting Meditation Posture}%
+  \label{illus-sitting-meditation}%
+}
 \clearpage
 
 \input{./manuscript/tex/01-breathing-en.tex}
@@ -87,13 +91,13 @@
 
 \backmatter
 
-\chapter{List of Illustrations}
+\addcontentsline{toc}{chapter}{\protect\chapternumberline{\thechapter} \protect\emph{List of Illustrations and Figures}}
 
-% TODO list of illustrations
+\listofillustrations*
 
-\chapter{List of Figures}
+\vspace*{2\baselineskip}
 
-% TODO list of figures
+\listoffigures*
 
 %\input{./manuscript/tex/copyright-details.tex}
 

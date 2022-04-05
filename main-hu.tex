@@ -71,7 +71,11 @@
 
 \cleartoverso
 \thispagestyle{empty}\mbox{}
-\photoFullBleedPlaceholder{TODO: Illustration of sitting posture.}
+\photoFullBleedPlaceholder{%
+  TODO: Illustration of sitting posture.%
+  \illustration{Ülő Meditáció Tesstartás}%
+  \label{illus-sitting-meditation}%
+}
 \clearpage
 
 \input{./manuscript/tex/01-breathing-hu.tex}
@@ -87,11 +91,13 @@
 
 \backmatter
 
-% TODO list of illustrations
+\addcontentsline{toc}{chapter}{\protect\chapternumberline{\thechapter} \protect\emph{Ábrák és Illusztrációk Jegyzéke}}
 
-\chapter{Ábrák Listája}
+\listofillustrations*
 
-% TODO list of figures
+\vspace*{2\baselineskip}
+
+\listoffigures*
 
 %\input{./manuscript/tex/copyright-details.tex}
 
