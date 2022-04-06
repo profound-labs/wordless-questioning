@@ -1,0 +1,95 @@
+\documentclass{article}
+\usepackage{dia-page}
+\geometry{paperwidth=125mm, paperheight=160mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+
+\begin{document}
+
+\centering
+
+\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
+  \node (feeling) [tight ring]
+  {\parbox{25mm}{\centering \emph{Vedanā}: Érzet,\\ mint az elmozdulás\\ iránya}};
+
+  \node (direction) [above right=0mm and 6mm of feeling.east]
+  {\parbox{30mm}{\diaTiny\raggedright
+      A kellemes felé\\
+      A kellemetlentől el\\
+      A semlegest nem látva
+    }};
+
+  \node (awareness) [below left=2mm and 0mm of feeling.south]
+  {\parbox{40mm}{\centering Éberen az állandótlanságra, elégtelenségre, éntelenségre}};
+
+  \node (reaction) [below right=2mm and 0mm of feeling.south]
+  {\parbox{40mm}{\centering Kondicionált reakció\\ éberség nélkül}};
+
+  \draw [line, bend left=25] (feeling) to (reaction.north);
+  \draw [line, bend right=25] (feeling) to (awareness.north);
+
+  \node (not-grasping) [below=10mm of awareness.south, tight box]
+  {\parbox{28mm}{\centering A tapasztalatot\\ nem ragadja meg mint én-t}};
+
+  \node (grasping) [below=10mm of reaction.south, tight box]
+  {\parbox{28mm}{\centering Megragadja a tapasztalatot\\ mint én-t}};
+
+  \draw [smallish arrow] (awareness) to (not-grasping);
+  \draw [smallish arrow] (reaction) to (grasping);
+
+  \node (personal) [right=3mm of grasping.east]
+  {\parbox{17mm}{\diaTiny\raggedright Személyes narratíva,\\ én és enyém}};
+
+  \node (reflection) [left=3mm of not-grasping.west]
+  {\parbox{17mm}{\diaTiny\raggedleft Vizsgálja a természetét, a keletkezését és elmúlását}};
+
+  \node (stopping) [below=15mm of not-grasping.south, tight ring]
+  {\parbox{19mm}{\centering Megállítja\\ a kényszeres\\ kondicionálást}};
+
+  \node (noble) [left=3mm of stopping.west]
+  {\parbox{24mm}{\diaTiny\raggedleft
+      Úgy látja a dolgokat, ahogy vannak\\
+      \vspace*{1em}
+      Van \emph{dukkha}.
+      Keletkezése és elmúlása feltételekből ered.
+      Az utat lehet fejleszteni.
+    }};
+
+  \node (reinforcing) [below=15mm of grasping.south, tight ring]
+  {\parbox{19mm}{\centering Megerősíti\\ a kényszeres\\ kondicionálást}};
+
+  \node (confusion) [right=3mm of reinforcing.east]
+  {\parbox{21mm}{\diaTiny\raggedright
+      Zavar és feszültség\\
+      \vspace*{1em}
+      Ki vagyok?\\ Mi vagyok?\\ Mit kell tennem?}};
+
+  \node (training) [below=8mm of stopping.south]
+  {\parbox{43mm}{\diaTiny\centering
+      A boldogságot az Út fejlesztésében látja.
+      Képzi magát az emelt erényben, emelt elmében, emelt bölcsességben
+      (\emph{adhisīla, adhicitta, adhipaññā}).
+    }};
+
+  \node (harmful) [below=8mm of reinforcing.south]
+  {\parbox{40mm}{\diaTiny\centering
+      A boldogságot az élvezetben és birtoklásban látja.
+      Az elme káros befolyásai növekednek:
+      érzéki vágy, gyűlölet, tudatlanság (a~három \emph{āsava}).
+    }};
+
+  \node (cessation) [below=10mm of training.south, tight box]
+  {\parbox{28mm}{\centering A Szenvedés\\ Megszűnése\\ (\emph{dukkha-nirodha})}};
+
+  \node (creation) [below=7.5mm of harmful.south, tight box]
+  {\parbox{28mm}{\centering A Szenvedés\\ Eredete\\ (\emph{dukkha-samudaya})}};
+
+  \draw [smallish arrow] (grasping) to (reinforcing);
+  \draw [smallish arrow] (not-grasping) to (stopping);
+
+  \draw [line] (stopping) to (training);
+  \draw [smallish arrow] (training) to (cessation);
+
+  \draw [line] (reinforcing) to (harmful);
+  \draw [smallish arrow] (harmful) to (creation);
+\end{tikzpicture}%
+
+\end{document}
