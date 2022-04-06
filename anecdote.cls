@@ -984,7 +984,7 @@ philo-sophical munindo amaravati thai-land}
   \hspace*{25pt}%
   \headerFont%
   \parbox[b]{15pt}{\raggedright \pageNumSize \color[gray]{0.2}\thepage}%
-  \headerSize \color[gray]{0.4}\textls*{\MakeUppercase{\thetitle}}%
+  \headerSize \color[gray]{0.4}\textls*{\MakeUppercase{\leftmark}}%
 }{}{}
 \makeevenfoot{topcorner}{}{}{}
 \makeoddhead{topcorner}{}{}{%
@@ -1668,8 +1668,8 @@ philo-sophical munindo amaravati thai-land}
       ##1%
       \par%
       %\vspace*{0pt}%
-      \rule{\linewidth}{0.3pt}%
-      \par%
+      %\rule{\linewidth}{0.3pt}%
+      %\par%
     \end{minipage}%
   }
   \setlength{\afterchapskip}{20pt}
@@ -1859,7 +1859,18 @@ philo-sophical munindo amaravati thai-land}
   \makeatother
 }
 
-
+\newcommand\widepagelayout{%
+  \makeatletter
+  \settypeblocksize{157mm}{90mm}{*}
+  \setmarginnotes{0pt}{0pt}{0pt}
+  \setlrmargins{18mm}{*}{*}
+  \setulmargins{20mm}{*}{*}
+  \setheaderspaces{*}{8mm}{*}
+  \setlength{\footskip}{27pt}
+  \checkandfixthelayout
+  \ch@ngetext
+  \makeatother
+}
 
 % Math sizes for superscript sizes
 \DeclareMathSizes{12.5}{12.5}{7}{7}
