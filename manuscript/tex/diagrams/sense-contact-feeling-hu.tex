@@ -1,0 +1,101 @@
+\documentclass{article}
+\usepackage{dia-page}
+\geometry{paperwidth=125mm, paperheight=153mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+
+\begin{document}
+
+\centering
+
+\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
+  \node (attention) [tight diamond]
+  {\parbox{20mm}{\centering Figyelem}};
+
+  \node (joining) [above=10mm of attention.north] {};
+
+  \node (senses) [tight box, minimum height=2\baselineskip, above left=10mm and 5mm of attention.north]
+  {\parbox{30mm}{\centering Hat Érzék Alap}};
+
+  \node [below=2mm of senses.south]
+  {\parbox{30mm}{\diaTiny\centering
+      szem, fül, orr,\\ nyelv, test, elme
+    }};
+
+  \node (objects) [tight box, minimum height=2\baselineskip, above right=10mm and 5mm of attention.north]
+  {\parbox{30mm}{\centering Érzék Tárgyak}};
+
+  \node [below=2mm of objects.south]
+  {\parbox{35mm}{\diaTiny\centering
+      formák, hangok, szagok, ízek,\\ tapinthatók, mentális tárgyak
+    }};
+
+  \node (contact) [tight ring, below=10mm of attention.south]
+  {\parbox{13mm}{\centering Érzék-Kapcsolat}};
+
+  \node [right=5mm of contact.east]
+  {\parbox{20mm}{\diaTiny\raggedright
+      állandótlan\\ elégtelen\\ éntelen
+    }};
+
+  \node (feeling) [tight box, below=10mm of contact.south]
+  {\parbox{35mm}{\centering Érzet, mint az\\ elmozdulás iránya (\emph{vedanā})}};
+
+  \node (unpleasant) [tight box, below=10mm of feeling.south]
+  {\begin{minipage}{28mm}
+      \centering\setlength{\parskip}{5pt}
+      Kellemetlennek érzett
+
+      {\diaTiny eltávolodás,\\ visszataszítás\par}
+    \end{minipage}};
+
+  \node (pleasant) [tight box, left=5mm of unpleasant.west]
+  {\begin{minipage}{26mm}
+      \centering\setlength{\parskip}{5pt}
+      Kellemesnek érzett
+
+      {\diaTiny közeledés,\\ vonzódás\par}
+    \end{minipage}};
+
+  \node (neutral) [tight box, right=5mm of unpleasant.east]
+  {\begin{minipage}{26mm}
+      \centering\setlength{\parskip}{5pt}
+      Semlegesnek érzett
+
+      {\diaTiny nem észlelt,\\ tompa és szürke\par}
+    \end{minipage}};
+
+  \node [below left=3mm and 18.5mm of unpleasant.south, anchor=north]
+  {\parbox{30mm}{\centering\diaTiny
+      Nem érti az\\ érzék-kapcsolatot
+    }};
+
+  \node [below right=3mm and 18.5mm of unpleasant.south, anchor=north]
+  {\parbox{30mm}{\centering\diaTiny
+      Mögöttes hajlamokon\\ keresztül reagál
+    }};
+
+  \node (craving) [tight ring, below=13mm of pleasant.south]
+  {\parbox{16mm}{\centering Érzéki Vágy}};
+
+  \node (hatred) [tight ring, below=13mm of unpleasant.south]
+  {\parbox{16mm}{\centering Gyűlölet}};
+
+  \node (ignorance) [tight ring, below=13mm of neutral.south]
+  {\parbox{16mm}{\centering Tudatlanság}};
+
+  \draw [smallish arrow] (senses.east) -- (joining.mid) -- (attention.north);
+  \draw [smallish arrow] (objects.west) -- (joining.mid) -- (attention.north);
+
+  \draw [smallish arrow] (attention) to (contact);
+  \draw [smallish arrow] (contact) to (feeling);
+
+  \draw [smallish arrow, bend right=44] (feeling.west) to (pleasant.north);
+  \draw [smallish arrow] (feeling) to (unpleasant);
+  \draw [smallish arrow, bend left=44] (feeling.east) to (neutral.north);
+
+  \draw [smallish arrow] (pleasant) to (craving);
+  \draw [smallish arrow] (unpleasant) to (hatred);
+  \draw [smallish arrow] (neutral) to (ignorance);
+
+\end{tikzpicture}%
+
+\end{document}
