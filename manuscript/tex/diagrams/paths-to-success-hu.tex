@@ -1,0 +1,110 @@
+\documentclass{article}
+\usepackage{dia-page}
+\geometry{paperwidth=125mm, paperheight=165mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+
+\begin{document}
+
+\centering
+
+\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
+  \node (associations) [tight ring]
+  {\parbox{20mm}{\centering
+      Támogató viszonyok
+    }};
+
+  \node [below=5mm of associations.south]
+  {\parbox{30mm}{\centering\diaTiny
+      Kedvező környezet,\\
+      stabil alap a feladat elvégzéséhez
+    }};
+
+  \node (relations) [tight ring, left=15mm of associations]
+  {\parbox{20mm}{\centering
+      Morális megfontolások
+    }};
+
+  \node [below=5mm of relations.south]
+  {\parbox{30mm}{\centering\diaTiny
+      Feladatok és kapcsolatok:\\
+      Hogyan kezdjem?\\
+      Mik az akadályok?\\
+      Kivel dolgozzak?
+    }};
+
+  \node (concentration) [tight ring, right=15mm of associations]
+  {\parbox{20mm}{\centering
+      Összpontosítás és Bölcsesség
+    }};
+
+  \node [below=5mm of concentration.south]
+  {\parbox{30mm}{\centering\diaTiny
+      A feladatra irányuló folytonos figyelem és vizsgálódás fejlesztése
+    }};
+
+  \draw [smallish arrow] (relations) to (associations);
+  \draw [smallish arrow] (associations) to (concentration);
+
+
+  \node (iddhipada) [below=28mm of associations.south, anchor=north]
+  {\begin{minipage}{\linewidth}
+      \centering\setlength{\parskip}{5pt}
+      A Siker Négy Útja (\emph{iddhipāda})
+
+      {\diaTiny Az elme tényezői, amik fejlesztik az összpontosítást\\
+        és a cél elérése felé vezetnek\par}
+    \end{minipage}};
+
+  \node (chanda) [tight box, below right=7mm and 10mm of iddhipada.south west]
+  {\parbox{25mm}{\centering
+      Törekvés, Lelkesedés\\ (\emph{chanda})
+    }};
+
+  \node [right=7mm of chanda.north east, anchor=north west]
+  {\parbox{65mm}{\raggedright\diaTiny
+      Erős érdeklődés, elhivatott szeretet az ember munkája és annak célja irányában.
+      Vágyni a cél teljesítésére, és megteremteni annak jó hatásait.
+      Boldogság, öröm, elégedettség a cél elérésében.
+    }};
+
+  \node (viriya) [tight box, below=7mm of chanda]
+  {\parbox{25mm}{\centering
+      Energikus Erőfeszítés\\ (\emph{viriya})
+    }};
+
+  \node [right=7mm of viriya.north east, anchor=north west]
+  {\parbox{65mm}{\raggedright\diaTiny
+      Bátorság, erőfeszítés, kitartás,
+      nem engedni, hogy az akadályok és nehézségek
+      eltántorítsák vagy megfélemlítsék az embert.
+      Az elme összhangban és stabilan dolgozik a cél megvalósításán.
+    }};
+
+  \node (citta) [tight box, below=7mm of viriya]
+  {\parbox{25mm}{\centering
+      Összpontosított Figyelem\\ (\emph{citta})
+    }};
+
+  \node [right=7mm of citta.north east, anchor=north west]
+  {\parbox{65mm}{\raggedright\diaTiny
+      Az elme elmerül a tevékenységben és összpontosít annak tárgyára;
+      nem engedi el a figyelem tárgyát, és nem válik szétszórttá.
+      Az ember lehet, hogy megfeledkezik a környezetéről és nem veszi észre az idő múlását.
+    }};
+
+  \node (vimamsa) [tight box, below=7mm of citta]
+  {\parbox{25mm}{\centering
+      Vizsgálat\\ (\emph{vimamsā})
+    }};
+
+  \node [right=7mm of vimamsa.north east, anchor=north west]
+  {\parbox{65mm}{\raggedright\diaTiny
+      Analízis és vizsgálat, ami az elmét összefogja, és követi a jelen feladat haladását.
+      Kérdéseket feltenni a kiváltó tényezőkről és tervet formálni.
+      Érvelni és elmélkedni; vizsgálni a saját tetteinkben fellelhető hibákat;
+      kísérletezni és keresni annak módját, hogy javítsuk önmagunkat.
+      Itt a bölcsesség képessége irányítja az összpontosítást.
+    }};
+
+\end{tikzpicture}%
+
+\end{document}

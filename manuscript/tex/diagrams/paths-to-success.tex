@@ -1,0 +1,110 @@
+\documentclass{article}
+\usepackage{dia-page}
+\geometry{paperwidth=125mm, paperheight=165mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+
+\begin{document}
+
+\centering
+
+\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
+  \node (associations) [tight ring]
+  {\parbox{20mm}{\centering
+      Supportive associations
+    }};
+
+  \node [below=5mm of associations.south]
+  {\parbox{30mm}{\centering\diaTiny
+      Favourable environment,
+      stable foundation for working on the task
+    }};
+
+  \node (relations) [tight ring, left=15mm of associations]
+  {\parbox{20mm}{\centering
+      Moral considerations
+    }};
+
+  \node [below=5mm of relations.south]
+  {\parbox{30mm}{\centering\diaTiny
+      Tasks and relations:\\
+      How to begin?
+      What are the obstacles?
+      Whom should I work with?
+    }};
+
+  \node (concentration) [tight ring, right=15mm of associations]
+  {\parbox{20mm}{\centering
+      Concentration and Wisdom
+    }};
+
+  \node [below=5mm of concentration.south]
+  {\parbox{30mm}{\centering\diaTiny
+      Intent on the task,
+      developing focus and investigation
+    }};
+
+  \draw [smallish arrow] (relations) to (associations);
+  \draw [smallish arrow] (associations) to (concentration);
+
+
+  \node (iddhipada) [below=28mm of associations.south, anchor=north]
+  {\begin{minipage}{\linewidth}
+      \centering\setlength{\parskip}{5pt}
+      Four Paths to Success (\emph{iddhipāda})
+
+      {\diaTiny Qualities of mind which develop concentration and\\
+      lead toward accomplishing the goal\par}
+    \end{minipage}};
+
+  \node (chanda) [tight box, below right=7mm and 10mm of iddhipada.south west]
+  {\parbox{25mm}{\centering
+      Aspiration, Enthusiasm\\ (\emph{chanda})
+    }};
+
+  \node [right=7mm of chanda.north east, anchor=north west]
+  {\parbox{65mm}{\raggedright\diaTiny
+      A keen interest in the objective of such activity, a love for one's work and
+      its goal. A desire to complete and manifest the goodness of the goal.
+      Happiness, delight, joy, satisfaction when reaching the goal.
+    }};
+
+  \node (viriya) [tight box, below=10mm of chanda]
+  {\parbox{25mm}{\centering
+      Energetic Effort\\ (\emph{viriya})
+    }};
+
+  \node [right=7mm of viriya.north east, anchor=north west]
+  {\parbox{65mm}{\raggedright\diaTiny
+      Courage, effort, perseverance, not getting discouraged or intimated by
+      obstacles and difficulties. The mind is unified and stable, intent upon the
+      goal.
+    }};
+
+  \node (citta) [tight box, below=10mm of viriya]
+  {\parbox{25mm}{\centering
+      Focused Attention\\ (\emph{citta})
+    }};
+
+  \node [right=7mm of citta.north east, anchor=north west]
+  {\parbox{65mm}{\raggedright\diaTiny
+      The mind is absorbed in and focused on an object or an activity; it does not
+      release the object of attention or become distracted. One may not be aware of
+      one's surroundings and loses track of time.
+    }};
+
+  \node (vimamsa) [tight box, below=10mm of citta]
+  {\parbox{25mm}{\centering
+      Investigation\\ (\emph{vimamsā})
+    }};
+
+  \node [right=7mm of vimamsa.north east, anchor=north west]
+  {\parbox{65mm}{\raggedright\diaTiny
+      Analysis and examination which composes the mind to keep track of the matter
+      at hand. Asking questions about causes and formulating a plan of action.
+      Reasoning and reflection; an examination of defects of one's actions;
+      experimenting and searching for ways to improve oneself. Here, the faculty of
+      wisdom guides concentration.
+    }};
+
+\end{tikzpicture}%
+
+\end{document}
