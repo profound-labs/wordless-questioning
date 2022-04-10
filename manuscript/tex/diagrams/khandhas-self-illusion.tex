@@ -1,0 +1,23 @@
+\documentclass{article}
+\usepackage{dia-page}
+\geometry{paperwidth=125mm, paperheight=80mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+
+\begin{document}
+
+\centering
+
+\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
+  \node (p) [regular polygon, regular polygon sides=5, draw]
+  {\includegraphics[width=40mm]{kanizsa-triangle-rubins-vase.jpg}};
+
+  \node [above left=2mm and 2mm of p.side 1, font=\diaSmall] {Form};
+  \node [left=2mm of p.side 2, font=\diaSmall] {\parbox{20mm}{\centering Sense\\ consciousness}};
+  \node [below=2mm of p.side 3, font=\diaSmall] {Mental formations};
+  \node [right=2mm of p.side 4, font=\diaSmall] {Perception};
+  \node [above right=2mm of p.side 5, font=\diaSmall] {Feeling};
+
+  \node [above=21mm of p.center, font=\diaSmall] {Self?};
+
+\end{tikzpicture}%
+
+\end{document}
