@@ -1,0 +1,110 @@
+\documentclass{article}
+\usepackage{dia-page}
+\geometry{paperwidth=125mm, paperheight=145mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+
+% Experience, Becoming, and the Deathless
+
+\begin{document}
+
+\centering
+
+\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
+
+  \node (conceiving)
+  {\parbox{100mm}{\diaTiny\centering
+      `Én ez vagyok' egy vélekedés (\emph{maññita}).\\
+      ``A vélekedés kór, a vélekedés fekély, a vélekedés tövis.'' (MN 140)}};
+
+  % === Grasping side
+
+  \node (grasping) [tight box, below left=5mm and 3mm of conceiving.south]
+  {\parbox{45mm}{\centering khandhákat és érzék-tapasztalatot\\ megragadja mint ami egy személy}};
+
+  \node (person) [below=5mm of grasping]
+  {\parbox{45mm}{\diaTiny\raggedright
+      Személyes nézetből, az életet létesülésként tapasztalja.
+      A születés, öregség és halál a személyre vonatkozik.\\[1em]
+      A halál gondolata feszültséget, kétségbeesést,
+      veszteség félelmét, jelentésbeli kétséget okoz.\\[1em]
+      Az elme reagál, elterelve figyelmét a pozitív vagy negatív létesüléssel.
+    }};
+
+  \node (bhava) [tight box, below left=10mm and 3mm of person.south]
+  {\parbox{18mm}{\centering pozitív\\ létesülés\\ (\emph{bhava})}};
+
+  \node (vibhava) [tight box, below right=10mm and 3mm of person.south]
+  {\parbox{18mm}{\centering negatív\\ létesülés\\ (\emph{vibhava})}};
+
+  \node (bhava-notes) [below=5mm of bhava]
+  {\parbox{28mm}{\diaTiny\raggedright
+      Ha meg tudnám szerezni\ldots{}\\
+      Mikor leszek olyan\ldots{}\\
+      Ez ezt jelenti.\\
+      Én ez vagyok.
+    }};
+
+  \node (vibhava-notes) [below=5mm of vibhava]
+  {\parbox{30mm}{\diaTiny\raggedright
+      Ha meg tudnék\\ szabadulni tőle\ldots{}\\
+      Mikor nem leszek olyan\ldots{}\\
+      Mi az értelme?\\
+      Ki vagyok én?
+    }};
+
+  \node (becoming) [tight box, below=55mm of person]
+  {\parbox{35mm}{\centering mindkettő megerősíti, hogy `én vagyok',\\ és a létesülés folytatódik}};
+
+  \draw [line] (grasping) to (person);
+  \draw [smallish arrow] (person) to (bhava);
+  \draw [smallish arrow] (person) to (vibhava);
+  \draw [line] (bhava) to (bhava-notes);
+  \draw [line] (vibhava) to (vibhava-notes);
+  \draw [smallish arrow] (bhava-notes) to (becoming);
+  \draw [smallish arrow] (vibhava-notes) to (becoming);
+
+  %\draw [line] (stopping) to (training);
+
+  % === Non-Grasping side
+
+  \node (non-grasping) [tight box, below right=5mm and 3mm of conceiving.south]
+  {\parbox{45mm}{\centering khandhákat és érzék-tapasztalatot\\ úgy látja, ahogy valóban van}};
+
+  \node (deathless) [below=5mm of non-grasping]
+  {\parbox{45mm}{\diaTiny\raggedright
+      Megragadás nélkül, nem gyárt személyes nézeteket:
+      eltávolítva azt, amire a halál vonatkozik,
+      a tapasztalat születés nélküli, öregség nélküli, haláltalan.\\[1em]
+      ``Aki minden vélekedést elvetett, őt nevezik megbékélt bölcsnek. /
+      Felismerte a haláltalant, azt testileg tapasztalva éli életét.''
+    }};
+
+  \node (awareness) [tight box, below=5mm of deathless]
+  {\parbox{32mm}{\centering a tudatosság megállítja a kényszeres reakciókat}};
+
+  \node (training) [below=5mm of awareness]
+  {\parbox{42mm}{\diaTiny\centering Képzi magát az emelt erényben,\\ emelt elmében, emelt bölcsességben}};
+
+  \node (transcendent) [tight box, below=5mm of training]
+  {\parbox{32mm}{\centering ön-meghaladó értékek}};
+
+  \node (transcendent-notes) [below=5mm of transcendent]
+  {\parbox{46mm}{\diaTiny\raggedright
+      Nem kényszerül arra, hogy az életet személyes nézőpontból lássa.
+      A személy szokásos koncepcióját
+      magára veheti vagy leteheti ragaszkodás nélkül,
+      ahogy a mindennapi helyzetek megkívánják.
+    }};
+
+  \node (non-becoming) [tight box, below=5mm of transcendent-notes]
+  {\parbox{32mm}{\centering nincs további létesülés}};
+
+  \draw [line] (non-grasping) to (deathless);
+  \draw [smallish arrow] (deathless) to (awareness);
+  \draw [line] (awareness) to (training);
+  \draw [smallish arrow] (training) to (transcendent);
+  \draw [line] (transcendent) to (transcendent-notes);
+  \draw [smallish arrow] (transcendent-notes) to (non-becoming);
+
+\end{tikzpicture}%
+
+\end{document}
