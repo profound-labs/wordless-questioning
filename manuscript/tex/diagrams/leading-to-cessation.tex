@@ -1,0 +1,86 @@
+\documentclass{article}
+\usepackage{dia-page}
+\geometry{paperwidth=120mm, paperheight=180mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+
+\begin{document}
+
+\centering
+
+\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
+  \node (realm) [tight ring]
+  {\parbox{20mm}{\centering Existence in a sense realm}};
+
+  \node (wise) [tight box, below=23mm of realm]
+  {\parbox{38mm}{\centering thorough, wise reflection\\ \emph{yoniso manasikāra}}};
+
+  \node (restraint) [tight box, below=23mm of wise]
+  {\parbox{38mm}{\centering sense restraint, morality\\ and virtue direct life-goals and actions}};
+
+  \node (control) [below left=7mm and 4mm of restraint.south, anchor=north east]
+  {\parbox{38mm}{\centering\diaTiny Taking control of one's mental life, awareness maintains equanimity}};
+
+  \node (taints) [tight box, below=23mm of restraint]
+  {\parbox{38mm}{\centering mental taints (\emph{āsavas}) decrease}};
+
+  \node (cessation) [tight ring, below=23mm of taints]
+  {\parbox{20mm}{\centering Leading to cessation of suffering}};
+
+  \node (group) [rectangle, left=6mm of wise, minimum width=64mm, minimum height=15mm, draw] {};
+
+  \node (fetters) [tight box, below right=2mm and 2mm of group.north west, minimum height=2\baselineskip]
+  {\parbox{22mm}{\centering Seeing abandons the Fetters}};
+
+  \node (hindrances) [tight box, below left=2mm and 2mm of group.north east, anchor=north east, minimum height=2\baselineskip]
+  {\parbox{28mm}{\centering Right Effort abandons the Hindrances}};
+
+  \node [above left=15mm and 3mm of fetters.north west, anchor=south west]
+  {\parbox{70mm}{\raggedright\diaTiny\setlength{\parskip}{5pt}
+      Three mental taints (\emph{āsavas}):\\
+      \emph{kāmāsava:} sensual craving\\
+      \emph{bhavāsava:} craving for states of existence\\
+      \emph{avijjāsava:} ignorance of true nature of sense experience
+    }};
+
+  \node (thinking) [below=18mm of group]
+  {\parbox{40mm}{\centering\diaTiny
+      Thinking:\\
+      There is suffering.\\
+      There is an origin, cessation,\\
+      and a path to its cessation.
+    }};
+
+  \node (noble) [tight ring, below=17.9mm of thinking]
+  {\parbox{20mm}{\centering Seeing\\ the Four Noble Truths}};
+
+  \node (reinforces) [below left=7mm and -5mm of noble]
+  {\parbox{24mm}{\centering\diaTiny
+      letting go of
+      attachment and
+      identification
+    }};
+
+  \node (seeing) [below=20mm of noble]
+  {\parbox{45mm}{\centering\diaTiny
+      Seeing sense experience\\
+      as a process:\\
+      impermanent, unsatisfactory, not-self
+    }};
+
+  \draw [smallish arrow] (realm) to (wise);
+  \draw [smallish arrow] (wise) to (restraint);
+  \draw [smallish arrow] (restraint) to (taints);
+  \draw [smallish arrow] (taints) to (cessation);
+
+  \draw [smallish arrow] (taints) to (seeing);
+  \draw [smallish arrow] (seeing) to (noble);
+  \draw [smallish arrow] (noble) to (taints);
+
+  \draw [line] (group) to (thinking);
+  \draw [smallish arrow] (thinking) to (noble);
+
+  \draw [smallish arrow, bend left=40] (group.north) to (wise.north);
+  \draw [smallish arrow, bend left=40] (wise.south) to (group.south);
+
+\end{tikzpicture}%
+
+\end{document}

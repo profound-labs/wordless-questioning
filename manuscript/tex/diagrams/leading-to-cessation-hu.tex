@@ -1,0 +1,84 @@
+\documentclass{article}
+\usepackage{dia-page}
+\geometry{paperwidth=120mm, paperheight=180mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+
+\begin{document}
+
+\centering
+
+\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
+  \node (realm) [tight ring]
+  {\parbox{20mm}{\centering Létezés az érzékek világában}};
+
+  \node (wise) [tight box, below=22mm of realm]
+  {\parbox{38mm}{\centering alapos, bölcs vizsgálódás\\ \emph{yoniso manasikāra}}};
+
+  \node (restraint) [tight box, below=22mm of wise]
+  {\parbox{38mm}{\centering érzéki visszafogottság,\\ moralitás és erény irányítják az életcélokat és tetteket}};
+
+  \node (control) [below left=5mm and 4mm of restraint.south, anchor=north east]
+  {\parbox{38mm}{\centering\diaTiny
+      Irányítást nyer a mentális élet felett,
+      a tudatosság fenntartja a kiegyensúlyozottságot}};
+
+  \node (taints) [tight box, below=23mm of restraint]
+  {\parbox{38mm}{\centering kényszeres hajlamok (\emph{āsava}) gyengülnek}};
+
+  \node (cessation) [tight ring, below=21mm of taints]
+  {\parbox{20mm}{\centering A szenvedés megszűnéséhez vezet}};
+
+  \node (group) [rectangle, left=3mm of wise, minimum width=67mm, minimum height=15mm, draw] {};
+
+  \node (fetters) [tight box, below right=2mm and 2mm of group.north west, minimum height=2\baselineskip]
+  {\parbox{22mm}{\centering Belátás elhagyja a Béklyókat}};
+
+  \node (hindrances) [tight box, below left=2mm and 2mm of group.north east, anchor=north east, minimum height=2\baselineskip]
+  {\parbox{31mm}{\centering Helyes Erőfeszítés elhagyja az Akadályokat}};
+
+  \node [above left=15mm and 3mm of fetters.north west, anchor=south west]
+  {\parbox{72mm}{\raggedright\diaTiny\setlength{\parskip}{5pt}
+      Három kényszeres hajlam (\emph{āsava}):\\
+      \emph{kāmāsava:} vágy az érzéki örömökre\\
+      \emph{bhavāsava:} vágy a létezés állapotaira\\
+      \emph{avijjāsava:} tudatlanság az érzéki tapasztalat valódi természetére
+    }};
+
+  \node (thinking) [below=18mm of group]
+  {\parbox{40mm}{\centering\diaTiny
+      Így gondolkodik:\\
+      Van szenvedés. Ennek van okozati eredete,
+      megszűnése, és a megszűnéséhez vezető út.
+    }};
+
+  \node (noble) [tight ring, below=17.9mm of thinking]
+  {\parbox{20mm}{\centering Látja\\ a Négy Nemes Igazságot}};
+
+  \node (reinforces) [below left=7mm and -5mm of noble]
+  {\parbox{24mm}{\centering\diaTiny
+      elengedi a ragaszkodást és személyes azonosulást
+    }};
+
+  \node (seeing) [below=20mm of noble]
+  {\parbox{35mm}{\centering\diaTiny
+      Az érzéki tapasztalatot folyamatként látja:\\
+      állandótlan, elégtelen, éntelen
+    }};
+
+  \draw [smallish arrow] (realm) to (wise);
+  \draw [smallish arrow] (wise) to (restraint);
+  \draw [smallish arrow] (restraint) to (taints);
+  \draw [smallish arrow] (taints) to (cessation);
+
+  \draw [smallish arrow] (taints) to (seeing);
+  \draw [smallish arrow] (seeing) to (noble);
+  \draw [smallish arrow] (noble) to (taints);
+
+  \draw [line] (group) to (thinking);
+  \draw [smallish arrow] (thinking) to (noble);
+
+  \draw [smallish arrow, bend left=40] (group.north) to (wise.north);
+  \draw [smallish arrow, bend left=40] (wise.south) to (group.south);
+
+\end{tikzpicture}%
+
+\end{document}

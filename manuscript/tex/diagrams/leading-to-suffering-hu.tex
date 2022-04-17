@@ -1,0 +1,102 @@
+\documentclass{article}
+\usepackage{dia-page}
+\geometry{paperwidth=120mm, paperheight=180mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+
+\begin{document}
+
+\centering
+
+\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
+  \node (realm) [tight ring]
+  {\parbox{20mm}{\centering Létezés az érzékek világában}};
+
+  \node (unwise) [tight box, below=22mm of realm]
+  {\parbox{38mm}{\centering felületes, balga vizsgálódás\\ \emph{a-yoniso manasikāra}}};
+
+  \node (reactions) [tight box, below=22mm of unwise]
+  {\parbox{38mm}{\centering a mohóság, gyűlölet és zavar reakciói irányítják az életcélokat és tetteket}};
+
+  \node (lack) [below left=5mm and 4mm of reactions.south, anchor=north east]
+  {\parbox{38mm}{\centering\diaTiny
+      Hiányos irányítás a mentális élet felett,
+      a szomjas vágy táplálja a félelmet és feszültséget}};
+
+  \node (taints) [tight box, below=23mm of reactions]
+  {\parbox{38mm}{\centering kényszeres hajlamok (\emph{āsava}) erősödnek}};
+
+  \node (suffering) [tight ring, below=21mm of taints]
+  {\parbox{20mm}{\centering Szenvedéshez, bánathoz és elkeseredéshez vezet}};
+
+  \node (group) [rectangle, left=10mm of unwise, minimum width=60mm, minimum height=15mm, draw] {};
+
+  \node (fetters) [tight box, below right=2mm and 2mm of group.north west, minimum height=2\baselineskip]
+  {\parbox{20mm}{\centering Tíz Béklyó}};
+
+  \node (hindrances) [tight box, below left=2mm and 2mm of group.north east, anchor=north east, minimum height=2\baselineskip]
+  {\parbox{25mm}{\centering Öt Akadály}};
+
+  \node [above left=10mm and 3mm of fetters.north west, anchor=south west]
+  {\parbox{26mm}{\raggedright\diaTiny\setlength{\parskip}{5pt}
+      Béklyók kötik a születés-és-halálhoz,\\
+      az első három tartja fenn a helytelen megértést
+
+      (1)~személyes nézet,\\
+      (2)~kétség,\\
+      (3)~fogadalmak és rituálék megragadása
+    }};
+
+  \node [above left=10mm and 0mm of hindrances.north west, anchor=south west]
+  {\parbox{26mm}{\raggedright\diaTiny\setlength{\parskip}{5pt}
+      Akadályok megállítják a Helyes Erőfeszítést és Bölcs Vizsgálódást
+
+      (1)~érzéki vágy,\\
+      (2)~rosszindulat,\\
+      (3)~tunyaság,\\
+      (4)~nyugtalanság,\\
+      (5)~kétség
+    }};
+
+  \node (thinking) [below=18mm of group]
+  {\parbox{40mm}{\centering\diaTiny
+      Így gondolkodik:\\
+      Ki vagyok?
+      Én valaki vagyok, akinek valamit tennie kell.
+      Ez a nekem megfelelő dolog?
+      Ezt így kell tenni, csak ez a helyes módja.
+    }};
+
+  \node (noble) [tight ring, below=13.5mm of thinking]
+  {\parbox{20mm}{\centering Nem látja\\ a Négy Nemes Igazságot}};
+
+  \node (reinforces) [below left=7mm and -5mm of noble]
+  {\parbox{25mm}{\centering\diaTiny
+      támogatja\\ a személyes nézetet,\\
+      a ragaszkodást a születés-és-halálhoz
+    }};
+
+  \node (greed) [below=20mm of noble]
+  {\parbox{30mm}{\centering\diaTiny
+      mohóság: én ezt szeretem\\
+      gyűlölet: én ezt utálom\\
+      zavar: én ez vagyok,\\
+      ez az enyém
+    }};
+
+  \draw [smallish arrow] (realm) to (unwise);
+  \draw [smallish arrow] (unwise) to (reactions);
+  \draw [smallish arrow] (reactions) to (taints);
+  \draw [smallish arrow] (taints) to (suffering);
+
+  \draw [smallish arrow] (taints) to (greed);
+  \draw [smallish arrow] (greed) to (noble);
+  \draw [smallish arrow] (noble) to (taints);
+
+  \draw [line] (group) to (thinking);
+  \draw [smallish arrow] (thinking) to (noble);
+
+  \draw [smallish arrow, bend left=40] (group.north) to (unwise.north);
+  \draw [smallish arrow, bend left=40] (unwise.south) to (group.south);
+
+\end{tikzpicture}%
+
+\end{document}
