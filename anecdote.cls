@@ -667,6 +667,16 @@ philo-sophical munindo amaravati thai-land}
 \relax}%
 {\endlist}
 
+\newcommand\contentFullBleed[1]{%
+  \AddToShipoutPictureFG*{%
+    \put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
+      \begin{minipage}[b][\paperheight][c]{\paperwidth + 6mm}%
+        #1%
+      \end{minipage}%
+    }%
+  }%
+}
+
 \newcommand\photoFullBleed[1]{%
   \AddToShipoutPictureFG*{%
     \put(\LenToUnit{-3mm},\LenToUnit{-3mm}){%
