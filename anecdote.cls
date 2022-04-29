@@ -859,13 +859,13 @@ philo-sophical munindo amaravati thai-land}
 % Useful to insert a picture before the first chapter, which otherwise would
 % have a double blank page before it.
 
-\renewcommand*{\@smemmain}{%
-  \@mainmattertrue
-  \setcounter{secnumdepth}{\value{maxsecnumdepth}}
-  \ifartopt\relax
-  \else
-    \@memmain@floats
-  \fi}
+%\renewcommand*{\@smemmain}{%
+%  \@mainmattertrue
+%  \setcounter{secnumdepth}{\value{maxsecnumdepth}}
+%  \ifartopt\relax
+%  \else
+%    \@memmain@floats
+%  \fi}
 
 \ifthenelse{\equal{\BOOK@babelLanguage}{hungarian}}{
   % Turning off acute shorhand for hungarian. Turning off all shorhands with the
@@ -977,20 +977,22 @@ philo-sophical munindo amaravati thai-land}
 \makepagestyle{bottomcenter}
 \makeevenhead{bottomcenter}{}{}{}
 \makeevenfoot{bottomcenter}{}{%
-  \footerFont\footerSize%
-  \color{footer}%
-  \thepage%
+  \footerFont
+  \pageNumSize \color[gray]{0.2}\thepage
 }{}
 \makeoddhead{bottomcenter}{}{}{}
 \makeoddfoot{bottomcenter}{}{%
-  \footerFont\footerSize%
-  \color{footer}%
-  \thepage%
+  \footerFont
+  \pageNumSize \color[gray]{0.2}\thepage
 }{}
+
+\newlength\cornerSpaceOffset
+\setlength{\cornerSpaceOffset}{0pt}
 
 \makepagestyle{topcorner}
 \makeevenhead{topcorner}{%
   \raggedright%
+  \hspace*{\cornerSpaceOffset}%
   \hspace*{25pt}%
   \headerFont%
   \parbox[b]{15pt}{\raggedright \pageNumSize \color[gray]{0.2}\thepage}%
@@ -1002,6 +1004,7 @@ philo-sophical munindo amaravati thai-land}
   \headerFont%
   \headerSize \color[gray]{0.4}\textls*{\MakeUppercase{\thetitle}}%
   \parbox[b]{15pt}{\raggedleft \pageNumSize \color[gray]{0.2}\thepage}%
+  \hspace*{\cornerSpaceOffset}%
   \hspace*{25pt}%
 }
 \makeoddfoot{topcorner}{}{}{}
@@ -1014,7 +1017,7 @@ philo-sophical munindo amaravati thai-land}
 % alias the pagestyles into semantic names, "where it is used"
 
 \aliaspagestyle{normalpage}{topcorner}
-\aliaspagestyle{chapter}{empty}
+\aliaspagestyle{chapter}{bottomcenter}
 \aliaspagestyle{book}{empty}
 \aliaspagestyle{part}{empty}
 \aliaspagestyle{afterpart}{empty}
@@ -1818,7 +1821,7 @@ philo-sophical munindo amaravati thai-land}
 \setulmargins{20mm}{*}{*}
 \setheaderspaces{*}{8mm}{*}
 
-\setlength{\footskip}{27pt}
+\setlength{\footskip}{40pt}
 
 \sideparmargin{outer}
 \setlength{\sideparvshift}{\baselineskip}
@@ -1845,6 +1848,7 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand\normalpagelayout{%
   \makeatletter
+  \setlength{\cornerSpaceOffset}{0pt}
   \settypeblocksize{157mm}{80mm}{*}
   \setmarginnotes{5mm}{20mm}{0pt}
   \setlrmargins{18mm}{*}{*}
@@ -1858,6 +1862,7 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand\figurepagelayout{%
   \makeatletter
+  \setlength{\cornerSpaceOffset}{10mm}
   \settypeblocksize{175mm}{115mm}{*}
   \setmarginnotes{0pt}{0pt}{0pt}
   \setlrmargins{10mm}{*}{*}
