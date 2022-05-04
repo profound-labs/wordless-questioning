@@ -1,34 +1,45 @@
 \documentclass{article}
 \usepackage{dia-page}
-\geometry{paperwidth=125mm, paperheight=110mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
+\geometry{paperwidth=105mm, paperheight=180mm, vmargin=1pt, hmargin=1pt, nohead, nofoot}
 
 \begin{document}
-
+\diaSmall
 \centering
 
-\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
-  \node (p) [regular polygon, regular polygon sides=6, draw]
-  {\parbox{70mm}{\centering \includegraphics[width=60mm]{illusion-cube.jpg}}};
+\includegraphics[width=60mm]{illusion-cube-rotated.jpg}
 
-  \node [below=3mm of p.side 1, font=\diaSmall]
+\vspace*{30pt}
+
+Do you see a cube on the diagram above and below?\\
+Is there a cube drawn there?
+
+\vspace*{30pt}
+
+\begin{tikzpicture}[font=\diaSmall, node distance=2mm]
+
+  \node {\parbox{70mm}{\centering \includegraphics[width=60mm]{illusion-cube.jpg}}};
+
+  \node (c) [circle, minimum width=75mm] {};
+
+  \draw (0*360/6+90: 4cm) node
   {\parbox{30mm}{\centering Eyes\\ seeing forms}};
 
-  \node [below right=0mm and 1mm of p.side 2, font=\diaSmall]
+  \draw (1*360/6+90: 4cm) node
   {\parbox{20mm}{\centering Mind\\ cognizing mental objects}};
 
-  \node [above right=0mm and 1mm of p.side 3, font=\diaSmall]
+  \draw (2*360/6+90: 4cm) node
   {\parbox{15mm}{\centering Body\\ touching\\ tactiles}};
 
-  \node [above=3mm of p.side 4, font=\diaSmall]
+  \draw (3*360/6+90: 4cm) node
   {\parbox{30mm}{\centering Tongue\\ tasting tastes}};
 
-  \node [above left=0mm and 1mm of p.side 5, font=\diaSmall]
+  \draw (4*360/6+90: 4cm) node
   {\parbox{20mm}{\centering Nose\\ smelling\\ scents}};
 
-  \node [below left=0mm and 1mm of p.side 6, font=\diaSmall]
+  \draw (5*360/6+90: 4cm) node
   {\parbox{20mm}{\centering Ears\\ hearing\\ sounds}};
 
-  \node [above=25mm of p.center, font=\diaSmall] {Self?};
+  \node [above right=23mm and 0mm of c.center, font=\diaSmall] {Self?};
 
 \end{tikzpicture}%
 
