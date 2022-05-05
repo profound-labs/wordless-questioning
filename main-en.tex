@@ -1,7 +1,8 @@
 \documentclass[
   final,
   babelLanguage=british,
-  desktopVersion,
+  %desktopVersion,
+  printOnDemand,
   %showtrims,
   %overleaf,
 ]{anecdote}
@@ -57,7 +58,12 @@
 \input{./manuscript/tex/copyright-en.tex}
 
 \cleartorecto
+\aliaspagestyle{chapter}{empty}
+
 \tableofcontents*
+
+\clearpage
+\aliaspagestyle{chapter}{bottomcenter}
 
 \openany
 \input{./manuscript/tex/00-introduction-en.tex}

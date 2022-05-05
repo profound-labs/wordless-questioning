@@ -32,6 +32,9 @@
 \newif\ifoverleaf
 \overleaffalse
 
+\newif\ifprintondemand
+\printondemandfalse
+
 % =======
 % Options
 % =======
@@ -45,6 +48,7 @@
   babelLanguage/.store in=\BOOK@babelLanguage,
   desktopVersion/.code=\desktopversiontrue,
   overleaf/.code=\overleaftrue,
+  printOnDemand/.code=\printondemandtrue,
 }
 
 % Pass all unknown options to memoir
@@ -1809,10 +1813,19 @@ philo-sophical munindo amaravati thai-land}
   \quarkmarks
   \settrims{0.5\stockheight - 0.5\paperheight}{0.5\stockwidth - 0.5\paperwidth}
   \settrimmedsize{\BOOK@paperHeight}{\BOOK@paperWidth}{*}
-\else\relax
-  \setstocksize{\BOOK@paperHeight}{\BOOK@paperWidth}
-  \settrimmedsize{\stockheight}{\stockwidth}{*}
-  \settrims{0pt}{0pt}
+\else
+  \ifprintondemand
+    \stockheight=8.25in% 594pt
+    \stockwidth=5.125in% 369pt
+    \setlength{\paperheight}{\BOOK@paperHeight}
+    \setlength{\paperwidth}{\BOOK@paperWidth}
+    \settrims{0.5\stockheight - 0.5\paperheight}{0.5\stockwidth - 0.5\paperwidth}
+    \settrimmedsize{\BOOK@paperHeight}{\BOOK@paperWidth}{*}
+  \else\relax
+    \setstocksize{\BOOK@paperHeight}{\BOOK@paperWidth}
+    \settrimmedsize{\stockheight}{\stockwidth}{*}
+    \settrims{0pt}{0pt}
+  \fi
 \fi
 
 \settypeblocksize{157mm}{80mm}{*}

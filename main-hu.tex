@@ -1,7 +1,8 @@
 \documentclass[
   final,
   babelLanguage=hungarian,
-  desktopVersion,
+  %desktopVersion,
+  printOnDemand,
   %showtrims,
   %overleaf,
 ]{anecdote}
@@ -57,7 +58,12 @@
 \input{./manuscript/tex/copyright-hu.tex}
 
 \cleartorecto
+\aliaspagestyle{chapter}{empty}
+
 \tableofcontents*
+
+\clearpage
+\aliaspagestyle{chapter}{bottomcenter}
 
 \openany
 \input{./manuscript/tex/00-introduction-hu.tex}
