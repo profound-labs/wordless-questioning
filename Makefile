@@ -39,14 +39,20 @@ hu:
 html:
 	asciidoctor -D output stillness-flowing.adoc
 
-epub:
-	./helpers/generate_epub.sh $(FILE)
+epub-en:
+	./helpers/generate_epub.sh $(FILE_EN)
+
+epub-hu:
+	./helpers/generate_epub.sh $(FILE_HU)
 
 epub-validate:
 	EPUBCHECK=~/bin/epubcheck asciidoctor-epub3 -D output -a ebook-validate main.adoc
 
-mobi:
-	./helpers/generate_mobi.sh $(FILE)
+mobi-en:
+	./helpers/generate_mobi.sh $(FILE_EN)
+
+mobi-hu:
+	./helpers/generate_mobi.sh $(FILE_HU)
 
 preview:
 	latexmk -pvc $(FILE).tex

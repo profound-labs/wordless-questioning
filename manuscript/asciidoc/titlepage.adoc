@@ -1,0 +1,22 @@
+[#titlepage]
+= {booktitle}
+
+[#titlepage-description]
+== {description} 
+
+[role=titlepage-author]
+{author}
+
+image::{pubs-logo}[role=titlepage-pubs-logo]
+
+[role=titlepage-publisher]
+{publisher-name}
+
+[role=titlepage-publisher-website]
+link:https://sumedharama.pt/[sumedharama.pt]
+
+[role=titlepage-publisher-website]
+link:https://forestsangha.org/[forestsangha.org]
+
+[role=titlepage-publisher-website]
+link:https://a-buddha-ujja.hu/[a-buddha-ujja.hu]

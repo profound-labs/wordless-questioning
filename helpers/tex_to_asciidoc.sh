@@ -40,12 +40,14 @@ OUT_FILE="$OUT_DIR/$name.adoc"
     #cat -s | tee "$OUT_FILE.tex" |\
     # take attributes out of the comment hints
     perl -0777 -pe "s/% (<attr [^>]+>)\n/\n\1\n/gs" | \
-    pandoc -f latex -t asciidoc+smart --atx-headers | \
+    pandoc -f latex -t asciidoc --atx-headers | \
     # move chapter id, title and subtitle to the top of the file
     perl -0777 -pe "s/^(.+?\n)(\[\[[^\n]+\]\]\n= [^\n]+\n)(\n*_[^_]+?_\n)?/\2\n\3\n\1/s" | \
     # brackets at the beginning of a line is the attribute markup,
     # so insert a zero-width space to "escape" it in the text
     perl -0777 -pe "s/\n(\[[[:alnum:]][^]]+?\])/\n&#8203;\$1/gs" | \
+    # fix heading levels, shift up
+    sed -e 's/^== /= /; s/^=== /== /; s/^==== /=== /;' | \
     # shorten too long quote markers
     sed 's/^_____*$/____/' | \
     # quote with role
@@ -58,6 +60,8 @@ OUT_FILE="$OUT_DIR/$name.adoc"
     sed 's/<\* \* \*>/image::quotebreak.png[]/g' | \
     # section breaks
     sed 's/<\* \* \* \* \*>/image::sectionbreak.png[]/g' | \
+    # figure image sources
+    sed 's/^image::\.\/manuscript\/tex\/diagrams\/\(.*\)\.pdf/image::diagrams\/\1.jpg/' | \
     # convert latex quotes
     sed -e "s/\`\`\([[:alnum:][:punct:]]\)/“\1/g; s/\([[:alnum:][:punct:]]\)''/\1”/g;" | \
     sed -e   "s/\`\([[:alnum:][:punct:]]\)/‘\1/g; s/\([[:alnum:][:punct:]]\)'/\1’/g;" | \

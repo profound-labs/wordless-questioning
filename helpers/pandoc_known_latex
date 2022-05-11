@@ -9,7 +9,7 @@
 \\section\**[{]
 \\subsection\**[{]
 \\emph[{]
-\\ldots[{][}]
+\\ldots
 \\item\s
 \\item[[]
 \\item[{]
@@ -32,3 +32,8 @@
 \\thispagestyle
 \\cleartorecto
 \\cleartoverso
+\\[{]
+\\[}]
+\\href
+\\#
+\\textasciitilde

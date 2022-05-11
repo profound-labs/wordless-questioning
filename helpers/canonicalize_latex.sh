@@ -21,6 +21,10 @@ perl -0777 -pe "s/\\\\begin\{openingVerse\}(.*?)\\\\end\{openingVerse\}/\\\\begi
 perl -0777 -pe "s/\\\\begin\{packeditemize\}(.*?)\\\\end\{packeditemize\}/\\\\begin{itemize}\n\1\\\\end{itemize}/gs" | \
 # glossarydescription
 sed -e 's/\\begin{glossarydescription}/\\begin{description}/; s/\\end{glossarydescription}/\\end{description}/;' | \
+# figure
+sed -e 's/\\begin{figure}[[]h[]]//; s/\\end{figure}//;' | \
+# minipage
+sed -e 's/\\begin{minipage}{[^}]\+}//; s/\\end{minipage}//;' | \
 # chapter title and subtitle
 perl -0777 -pe "s/\\\\chapterTitle\{(.*?)\}(.*?)\\\\theChapterTitle/\2\1/gs" | \
 perl -0777 -pe "s/\\\\chapterSubtitle\{(.*?)\}(.*?)\\\\theChapterSubtitle/\2\1/gs" | \
@@ -35,22 +39,32 @@ perl -0777 -pe "s/\\\\tocChapterNote\{.*?\}//gs" | \
 perl -0777 -pe "s/\\\\chapterPhotoTwoPage\{(.*?)\}\{.*?\}\{.*?\}\{.*?\}/\\\\includegraphics{\1}/gs" | \
 perl -0777 -pe "s/\\\\chapterPhotoInlinePortrait\{.*?\}\{(.*?)\}/\\\\includegraphics{\1}/gs" | \
 perl -0777 -pe "s/\\\\chapterPhotoInlineLandscape\{(.*?)\}/\\\\includegraphics{\1}/gs" | \
-perl -0777 -pe "s/\\\\includegraphics[[][^]]+[]]\{.*?\}//gs" | \
+perl -0777 -pe "s/\\\\includegraphics[[][^]]+[]]\{(.*?)\}/\\\\includegraphics{\1}/gs" | \
 perl -0777 -pe "s/\\\\verseRef\{(.*?)\}/\n\\\\emph{\1}% <attr attribution=\1>\n/gs" | \
-perl -0777 -pe "s/\\\\quoteRef\{(.*?)\}/\n\\\\emph{\1}% <attr attribution=\1>\n/gs" | \
+#perl -0777 -pe "s/\\\\quoteRef\{(.*?)\}/\n\\\\emph{\1}% <attr attribution=\1>\n/gs" | \
+perl -0777 -pe "s/\\\\quoteRef\{/FIXME:italic-quoteRef {/gs" | \
 perl -0777 -pe "s/\\\\quoteRefInline\{(.*?)\}/\n\\\\emph{\1}% <attr attribution=\1>\n/gs" | \
 perl -0777 -pe "s/\\\\quoteTitleFmt\{(.*?)\}/\\\\emph{\1}/gs" | \
+perl -0777 -pe "s/\\\\keywords\{(.*?)\}\n/\\\\textbf{--- \1 ---}\n/gs" | \
+perl -0777 -pe "s/\\\\illustration\{(.*?)\}/\n\n(FIXME:illustration-label \\\\emph{\1})\n\n/gs" | \
+perl -0777 -pe "s/\\\\caption\{(.*?)\}/\n\n(FIXME:figure-label \\\\emph{\1})\n\n/gs" | \
+perl -0777 -pe "s/\\\\photoFullBleed\{(.*?)\}/\\\\includegraphics{\1}/gs" | \
 perl -0777 -pe "s/\\\\thai\{(.*?)\}/\1/gs" | \
 perl -0777 -pe "s/\\\\textup\{(.*?)\}/{\\\\upshape \1}/gs" | \
 perl -0777 -pe "s/\\\\label\{.*?\}//gs" | \
 perl -0777 -pe "s/\\\\enlargethispage\**\{.*?\}//gs" | \
+perl -0777 -pe "s/\\\\thispagestyle\{.*?\}//gs" | \
 perl -0777 -pe "s/\\\\setlength\{.*?\}\{.*?\}//gs" | \
 perl -0777 -pe "s/\\\\thispagestyle\{.*?\}\{.*?\}//gs" | \
 perl -0777 -pe "s/\\\\pageref\{.*?\}/FIXME:pageref/gs" | \
+perl -0777 -pe "s/\\\\ref\{.*?\}/FIXME:ref/gs" | \
 perl -0777 -pe "s/\\\\definecolor\{.*?\}\{.*?\}\{.*?\}//gs" | \
+perl -0777 -pe "s/\\\\fontsize\{.*?\}\{.*?\}//gs" | \
+sed 's/\\selectfont//g' |\
 # Repeating hyphen (in Portuguese)
 sed 's/\(\w\)"-\(\w\)/\1-\2/g' |\
 sed 's/^\\vspace\**[{][^}]\+[}]%*$//g' |\
+sed 's/^\\hspace\**[{][^}]\+[}]%*$//g' |\
 sed 's/\\thinspace\s*/~/g' |\
 sed 's/\\par/\n\n/g' |\
 sed 's/\\mainmatter//g' |\
@@ -61,6 +75,12 @@ sed 's/\\parskip//g' |\
 sed 's/\\baselineskip//g' |\
 sed 's/\\linewidth//g' |\
 sed 's/\\Large//g' |\
+sed 's/\\null//g' |\
+sed 's/\\vfill//g' |\
+sed 's/\\figurepagelayout//g' |\
+sed 's/\\normalpagelayout//g' |\
+sed 's/\\footnotesize//g' |\
+sed 's/^\\noindent \+//g' |\
 sed 's/\\sectionBreak/\n\n<* * * * *>\n\n/g' |\
 sed 's/\\quoteBreak/\n\n<* * *>\n\n/g' |\
 perl -0777 -pe "s/\{[\s\%]+\}//gs"
