@@ -1,3 +1,4 @@
+[[boat-hu]]
 = Csónak
 
 *— sétáló meditáció módszere —*
@@ -26,9 +27,9 @@ figyelmet. A legtöbben összefogják a két kezet maguk előtt. Nem a kezek
 pontos helyzete számít, de ha oda-vissza lengeted a karjaid, az könnyen
 eltereli a figyelmed.
 
-image::walking.jpg[image]
+[[walking]](_Illusztráció: Sétáló Meditáció Testtartás_)
 
-(FIXME:illustration-label _Sétáló Meditáció Testtartás_)
+image::walking.jpg[Sétáló Meditáció Testtartás]
 
 Igazítsd a séta sebességét az energia szintedhez és a meditáció
 tárgyához. Egyesek gyors és határozott lépésekkel gyakorolják a sétáló
@@ -231,8 +232,6 @@ _A vágyban gyökerezik minden dolog. +
 A figyelemből születik minden dolog. +
 A kapcsolatban jelenik meg minden dolog. +
 Az érzetben találkozik minden dolog._
-
-FIXME:italic-quoteRef
 
 https://suttacentral.net/an10.58[AN 10.58], Gyökerek
 ____
@@ -463,8 +462,7 @@ tenni?’
 
 A Buddha a sikerhez vezető mentális eszközöket négy kategóriával írta
 le, amit a Siker Útjainak nevezünk (_iddhipāda_): lelkesedés, energikus
-erőfeszítés, összpontosított figyelem és vizsgálat (FIXME:ref-es
-ábra).footnote:[Lásd még:
+erőfeszítés, összpontosított figyelem és vizsgálat (link:boat-hu.xhtml#success[4.1-es ábra]).footnote:[Lásd még:
 https://buddhadhamma.github.io/path-factors-of-concentration.html#development-of-concentration-in-line-with-the-paths-to-success[Chapter
 18.6.B. in Buddhadhamma (buddhadhamma.github.io)], Development of
 Concentration in Line with the Paths to Success] Tekinthetünk erre úgy,
@@ -499,9 +497,9 @@ egy stabil rutint, ami hosszú időszakokat enged a koncentrált munkára
 vagy intenzív gyakorlásra. Más részről, akadályok és konfliktusok is
 garantáltan jönni fognak.
 
-(FIXME:figure-label _A Siker Négy Útja, iddhipāda_)
+[[success]](_4.1. ábra. A Siker Négy Útja, iddhipāda_)
 
-image::diagrams/paths-to-success-hu.jpg[image]
+image::diagrams/paths-to-success-hu.jpg[A Siker Négy Útja]
 
 Nem kell amiatt aggódnunk, hogy a meditáció meg fogja oldani minden
 problémánkat, és nem lesz mit tennünk. A meditáció nem

@@ -1,3 +1,4 @@
+[[awful-en]]
 = Awful
 
 == A Constructed Image
@@ -75,7 +76,7 @@ am this’. Sometimes we just need to get out of our own way.
 
 If you observe the water flow in a river channel, you’ll notice vortices
 forming behind obstacles. Their back-and-forth motion might seem
-familiar (see Figure FIXME:ref). When holding onto the perspective of ‘I
+familiar (see link:awful-en.xhtml#grasping[Figure 6.1]). When holding onto the perspective of ‘I
 am’ dominates the mind, we start flipping back-and-forth between
 opposites. We reason with ourselves what to do because ‘I like A’, or ‘I
 don’t like B’, ‘I should do X’, ‘I shouldn’t do Y’.
@@ -105,9 +106,9 @@ like looking at them. They make good illustrations in an article, but we
 should remember that the same people will look different in an ordinary
 moment.
 
-(FIXME:figure-label _Grasping and Turbulence in the Mind_)
+[[grasping]](_Figure 6.1: Grasping and Turbulence in the Mind_)
 
-image::diagrams/grasping-turbulence.jpg[image]
+image::diagrams/grasping-turbulence.jpg[Grasping and Turbulence in the Mind]
 
 Turbulence in obstructed water flow. The formation of vortices is
 similar to how grasping ’I am’ in the mind causes one to be stuck in a
@@ -133,8 +134,6 @@ when discourses that are words of the Tathāgata—deep, deep in their
 meaning, transcendent, connected with emptiness—are being recited. We
 will lend ear, will set our hearts on knowing them, will regard these
 teachings as worth grasping & mastering.’_
-
-FIXME:italic-quoteRef
 
 https://www.dhammatalks.org/suttas/SN/SN20_7.html[SN 20.7], The Peg
 ____
@@ -212,8 +211,6 @@ world of our experiences is not independent of us:
 ____
 _Mind precedes all states of being: they are led by
 the mind, made by the mind._
-
-FIXME:italic-quoteRef
 
 https://suttacentral.net/dhp1-20/pli/ms[Dhp 1]
 ____
@@ -330,9 +327,9 @@ all when you are the slave-driver of
 yourself.’footnote:[https://www.goodreads.com/book/show/16902.Walden[Walden
 by Henry David Thoreau]]
 
-(FIXME:figure-label _Achievements and the Hedonic Tredmill_)
+[[hedonic]](_Figure 6.2: Achievements and the Hedonic Tredmill_)
 
-image::diagrams/hedonic-treadmill-stairs.jpg[image]
+image::diagrams/hedonic-treadmill-stairs.jpg[Achievements and the Hedonic Tredmill]
 
 The Hedonic Treadmill is the tendency for new achievements to be adopted
 as a modified, _normal_ baseline, and for our level of happiness to
@@ -360,8 +357,6 @@ ____
 _[…] they practice restraint, protecting the faculty
 of mind, and achieving its restraint. When they have this noble sense
 restraint, they experience an unsullied bliss inside themselves._
-
-FIXME:italic-quoteRef
 
 https://suttacentral.net/mn38[MN 38], The Longer Discourse on the Ending
 of Craving
@@ -430,8 +425,6 @@ _One should not revive the past +
 Nor speculate on what’s to come; +
 The past is left behind, +
 The future is unrealized._
-
-FIXME:italic-quoteRef
 
 https://suttacentral.net/mn131[MN 131], One Fine Night
 ____
@@ -539,8 +532,6 @@ ____
 _One trains thus: ‘I shall breathe in contemplating
 relinquishment’. One trains thus: ‘I shall breathe out contemplating
 relinquishment’._
-
-FIXME:italic-quoteRef
 
 https://suttacentral.net/mn118[MN 118], Mindfulness of Breathing
 ____
@@ -779,8 +770,6 @@ Coming in contact again and again, +
 seeing their fall, +
 One loses one’s passion for them._
 
-FIXME:italic-quoteRef
-
 https://suttacentral.net/sn36.2[SN 36.2], Pleasure
 ____
 
@@ -879,9 +868,9 @@ so that the subject is to some extent transformed and strengthened even
 in his daily life by such experiences._
 ____
 
-(FIXME:figure-label _Hierarchy of needs, self-transcendental values_)
+[[values]](_Figure 6.3: Hierarchy of Needs, Self-Transcendental Values_)
 
-image::diagrams/self-transcendental-values.jpg[image]
+image::diagrams/self-transcendental-values.jpg[Hierarchy of Needs, Self-Transcendental Values]
 
 Maslow appended another level to his hierarchy of needs above
 self-actualization: _self-transcendence_. Examples include: not holding
@@ -963,8 +952,6 @@ _… One dwells contemplating its nature of arising, or
 one dwells contemplating its nature of ceasing, or one dwells
 contemplating its nature of both arising and ceasing. … And one dwells
 independent, not clinging to anything in the world._
-
-FIXME:italic-quoteRef
 
 https://suttacentral.net/mn10[MN 10], Mindfulness Meditation
 ____

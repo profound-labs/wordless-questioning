@@ -1,3 +1,4 @@
+[[mn118-hu]]
 = A Lélegzés Tudatosságáról (részlet)
 
 _https://a-buddha-ujja.hu/mn-118/hu/farkas-pal[MN 118], Ānāpānasati
@@ -73,6 +74,6 @@ Röviden be- és kilélegezvén tudja, +
 Ily módon hoz a légzés tudatossága, fejlesztve és újra meg újra
 gyakorolva, nagy eredményt, nagy hasznot.
 
-(FIXME:figure-label _Éberség a Légzésre, Ānāpānasati_)
+[[anapanasati]](_1.1. ábra. Éberség a Légzésre, Ānāpānasati_)
 
-image::diagrams/mindfulness-of-breathing-hu.jpg[image]
+image::diagrams/mindfulness-of-breathing-hu.jpg[Éberség a Légzésre]

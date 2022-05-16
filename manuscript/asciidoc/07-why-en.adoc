@@ -1,3 +1,4 @@
+[[why-en]]
 = Why
 
 == Doubt and Faith
@@ -115,7 +116,7 @@ founded on a perspective which integrates impermanence.
 In the _suttas_, doubt appears both in the list of Five Hindrances, and
 in the first three of the Ten Fetters, which are the ones that obscure
 understanding the Four Noble Truths. When doubt gets personal, there is
-no doubt that it leads to suffering. Figures FIXME:ref and FIXME:ref
+no doubt that it leads to suffering. Figures link:why-en.xhtml#suffering[7.1] and link:why-en.xhtml#cessation[7.2]
 illustrate how we get into this mess, and how we can get out of it.
 
 As a hindrance, doubt stops Right Effort, and stops developing the mind.
@@ -141,13 +142,13 @@ go: this is the obstruction. This creates the very limit we are
 frustratedly running up against. Understanding freedom through letting
 go doesn’t come to us easily.
 
-(FIXME:figure-label _Leading to Suffering_)
+[[suffering]](_Figure 7.1: Leading to Suffering_)
 
-image::diagrams/leading-to-suffering.jpg[image]
+image::diagrams/leading-to-suffering.jpg[Leading to Suffering]
 
-(FIXME:figure-label _Leading to Cessation_)
+[[cessation]](_Figure 7.2: Leading to Cessation_)
 
-image::diagrams/leading-to-cessation.jpg[image]
+image::diagrams/leading-to-cessation.jpg[Leading to Cessation]
 
 == Right View
 
@@ -228,13 +229,12 @@ state or thought, when we see ourselves in it, will be as limiting as
 the previous one. We are not freed by _becoming_ the right thing, but by
 recognizing that we can give up the compulsion to continue becoming.
 
-(FIXME:figure-label _Experience, Becoming and the Deathless_)
+[[deathless]](_Figure 7.3: Experience, Becoming and the Deathless_)
 
-image::diagrams/experience-becoming-deathless.jpg[image]
+image::diagrams/experience-becoming-deathless.jpg[Experience, Becoming and the Deathless]
 
 See also: Chapter 10, Birth, Decay and Death in The Buddha’s Teaching:
-It’s Essential +
-Meaning by R. G. de S. Wettimuny
+It’s Essential Meaning by R. G. de S. Wettimuny
 
 == New Eyes
 
@@ -271,8 +271,6 @@ ____
 _There is the case where a monk remains focused …
 ardent, alert, and mindful – subduing greed and distress with reference
 to the world._
-
-FIXME:italic-quoteRef
 
 https://suttacentral.net/mn10[MN 10], Mindfulness Meditation
 ____

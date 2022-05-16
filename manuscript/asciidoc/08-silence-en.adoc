@@ -1,3 +1,4 @@
+[[silence-en]]
 = Silence
 
 == Signal
@@ -71,11 +72,7 @@ the hearts of those who are receptive +
 become serene, +
 like a lake, deep, clear and still._
 
-FIXME:italic-quoteRef
-
-Dhp
-82.footnote:[https://forestsangha.org/teachings/books/a-dhammapada-for-contemplation?language=English[A
-Dhammapada for Contemplation by Ajahn Munindo (forestsangha.org)]]
+Dhp 82.footnote:[https://forestsangha.org/teachings/books/a-dhammapada-for-contemplation?language=English[A Dhammapada for Contemplation by Ajahn Munindo (forestsangha.org)]]
 ____
 
 == Lying down meditation method
@@ -88,9 +85,9 @@ not recommended for formal meditation. Rather, sitting, walking or
 standing meditation are preferable as they raise the body’s level of
 alertness through the physical effort.
 
-image::lying-down.jpg[image]
+[[lying-down]](_Illustration: Lying Down Meditation Posture_)
 
-(FIXME:illustration-label _Lying Down Meditation Posture_)
+image::lying-down.jpg[Lying Down Meditation Posture]
 
 Before lying down, determine a clear intention to be wakeful. This sets
 the suitable attitude and establishes some mental distance from our
@@ -247,11 +244,7 @@ flighty, flitting wherever it will, +
 restraint is good, +
 a restrained mind brings happiness._
 
-FIXME:italic-quoteRef
-
-Dhp
-35.footnote:[https://www.ancient-buddhist-texts.net/English-Texts/Dhamma-Verses/03-Mind.htm[Dhammapada,
-translated by Ānandajoti Bhikkhu]]
+Dhp 35.footnote:[https://www.ancient-buddhist-texts.net/English-Texts/Dhamma-Verses/03-Mind.htm[Dhammapada, translated by Ānandajoti Bhikkhu]]
 ____
 
 == Shrine

@@ -1,3 +1,4 @@
+[[why-hu]]
 = Miért
 
 == Kétség és Hit
@@ -119,7 +120,7 @@ az állandótlanságot.
 A szuttákban, a kétség szerepel az Öt Akadály listáján is, és Tíz Béklyó
 első három eleme között is, melyek eltakarják a Négy Nemes Igazság
 megértését. Mikor személyesen érint, világossá válik, hogy a kétség
-szenvedéshez vezet. A FIXME:ref-es és FIXME:ref-es ábrák illusztrálják
+szenvedéshez vezet. A link:why-hu.xhtml#suffering[7.1-es] és link:why-hu.xhtml#cessation[7.2-es] ábrák illusztrálják
 hogyan kerülünk ebbe a káoszba, és hogyan tudunk kijutni belőle.
 
 Mint akadály, a kétség megállítja a Helyes Erőfeszítést, és megállítja
@@ -148,13 +149,13 @@ elengedéstől: ez az akadály. Ez hozza létre éppen azt a korlátot, aminek
 frusztráltan nekiütközünk. A szabadságot az elengedésen keresztül
 megérteni nem megy nekünk egykönnyen.
 
-(FIXME:figure-label _Szenvedéshez Vezet_)
+[[suffering]](_7.1. ábra. Szenvedéshez Vezet_)
 
-image::diagrams/leading-to-suffering-hu.jpg[image]
+image::diagrams/leading-to-suffering-hu.jpg[Szenvedéshez Vezet]
 
-(FIXME:figure-label _Megszűnéshez Vezet_)
+[[cessation]](_7.2. ábra. Megszűnéshez Vezet_)
 
-image::diagrams/leading-to-cessation-hu.jpg[image]
+image::diagrams/leading-to-cessation-hu.jpg[Megszűnéshez Vezet]
 
 == Helyes Nézet
 
@@ -241,13 +242,12 @@ mint a korábbi. Nem abban áll a szabadságunk, hogy a megfelelő dologgá
 válunk, hanem a felismerésben, hogy fel tudjuk adni a kényszert, hogy
 folyton valamivé válnunk kelljen.
 
-(FIXME:figure-label _Tapasztalat, Létesülés és a Haláltalan_)
+[[deathless]](_7.3. ábra. Tapasztalat, Létesülés és a Haláltalan_)
 
-image::diagrams/experience-becoming-deathless-hu.jpg[image]
+image::diagrams/experience-becoming-deathless-hu.jpg[Tapasztalat, Létesülés és a Haláltalan]
 
 Lásd még: Chapter 10, Birth, Decay and Death in The Buddha’s Teaching:
-It’s Essential +
-Meaning by R. G. de S. Wettimuny
+It’s Essential Meaning by R. G. de S. Wettimuny
 
 == Új Szemmel
 
@@ -290,8 +290,6 @@ természetét szemléli. Megalapozódik benne az éberség: „van test, [vannak
 érzések, van tudat, vannak dhammák]“, oly mértékben, amely a puszta
 tudáshoz és a folytonos éberséghez szükséges. Szabadon időzik, semmihez
 sem kötődve a világon._
-
-FIXME:italic-quoteRef
 
 https://a-buddha-ujja.hu/mn-10/hu/toth-zsuzsanna[MN 10], Az éberség
 megalapozásáról szóló tanítóbeszéd

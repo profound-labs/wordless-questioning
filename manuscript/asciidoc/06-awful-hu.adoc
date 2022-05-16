@@ -1,3 +1,4 @@
+[[awful-hu]]
 = Pocsékul
 
 == Egy Felépített Kép
@@ -76,7 +77,7 @@ egyszerűen csak félre kell állnunk a saját utunkból.
 
 Ha megfigyeled a víz folyását egy folyómederben, láthatod az örvényeket,
 amik az akadályok mögött keletkeznek. Ezek oda-vissza mozgása ismerősnek
-tűnhet (lásd FIXME:ref-es ábra). Mikor az elmében az ‘én vagyok’
+tűnhet (lásd link:awful-hu.xhtml#grasping[6.1-es ábra]). Mikor az elmében az ‘én vagyok’
 nézőpontja domináns, elkezdünk oda-vissza csapódni az ellenkező
 álláspontok között. Magunkkal vitatkozunk, mit tegyünk, mert ‘én
 szeretem az A-t’, vagy ‘nem szeretem a B-t’, ‘X-et kellene csináljam’,
@@ -108,9 +109,9 @@ Ezek afféle vipasszana-glamúr fotók – kicsit hiú dolog, de szeretjük
 látni őket. Jó illusztráció lesz belőlük egy cikkben, de emlékezzünk rá,
 hogy ugyanazok az emberek máshogy néznek ki egy hétköznapi pillanatban.
 
-(FIXME:figure-label _Ragaszkodás és Kavargó Örvények az Elmében_)
+[[grasping]](_6.1. ábra. Ragaszkodás és Kavargó Örvények az Elmében_)
 
-image::diagrams/grasping-turbulence-hu.jpg[image]
+image::diagrams/grasping-turbulence-hu.jpg[Ragaszkodás és Kavargó Örvények az Elmében]
 
 Kavargó örvények egy akadályozott vízfolyamban. Az örvények kialakulása
 hasonló ahhoz, ahogy az elmében az ‘Én vagyok’ szemlélet megragadása
@@ -216,8 +217,6 @@ világa nem független tőlünk:
 ____
 _Az elme minden létállapot előtt jár, az elme vezeti
 őket, az elméből származnak._
-
-FIXME:italic-quoteRef
 
 https://suttacentral.net/dhp1-20/pli/ms[Dhp 1]
 ____
@@ -340,9 +339,9 @@ mind közül, amikor te vagy önmagad
 rabszolgahajcsára.’footnote:[https://www.goodreads.com/book/show/16902.Walden[Walden
 by Henry David Thoreau]]
 
-(FIXME:figure-label _Eredmények és a Hedonikus Taposómalom_)
+[[hedonic]](_6.2. ábra. Eredmények és a Hedonikus Taposómalom_)
 
-image::diagrams/hedonic-treadmill-stairs-hu.jpg[image]
+image::diagrams/hedonic-treadmill-stairs-hu.jpg[Eredmények és a Hedonikus Taposómalom]
 
 A Hedonikus Taposómalom arra utal, hogy hajlamosak vagyunk az új
 eredményeket egy új, _normális_ alapszintnek tekinteni, és a
@@ -372,10 +371,7 @@ _[…] Vigyáz az érzékeire, védi az elme tényezőit,
 visszafogja azokat. Amikor birtokában van ez a nemes érzéki
 visszafogottság, nem kifogásolható boldogságot tapasztal magában._
 
-FIXME:italic-quoteRef
-
-https://a-buddha-ujja.hu/mn-38/hu/a-pali-fordito-csoport[MN 38], A
-szomjúhozás kioltása
+https://a-buddha-ujja.hu/mn-38/hu/a-pali-fordito-csoport[MN 38], A szomjúhozás kioltása
 ____
 
 *— önellenszenv, önkritika, tükrök labirintusa —*
@@ -443,8 +439,6 @@ _A múltat ne kergesd, +
 és ne álmodozz a jövőről. +
 Ami elmúlt az már mögöttünk van. +
 Ami eljön azt még nem értük el._
-
-FIXME:italic-quoteRef
 
 https://suttacentral.net/mn131[MN 131], Bhaddekaratta Sutta
 ____
@@ -560,8 +554,6 @@ lépése:
 ____
 _‘Az eloldódás fölött szemlélődve lélegzem be, így
 gyakorol. Az eloldódás fölött szemlélődve lélegzem ki, így gyakorol.’_
-
-FIXME:italic-quoteRef
 
 https://a-buddha-ujja.hu/mn-118/hu/farkas-pal[MN 118], Ānāpānasati Sutta
 ____
@@ -814,8 +806,6 @@ megtévesztő és szétbomló’, +
 elmúlásukat szemlélve, +
 a szenvedélytől megszabadul._
 
-FIXME:italic-quoteRef
-
 https://suttacentral.net/sn36.2/pli/ms[SN 36.2], Sukha Sutta
 ____
 
@@ -947,9 +937,9 @@ magunkról, hogy az erőfeszítéseink összhangban állnak a központi
 értékeinkkel vagy sem, még akkor is, ha elterelik a figyelmünket olyan
 dolgok, amiken nem terveztünk olyan sok időt tölteni.
 
-(FIXME:figure-label _Szükségletek Hierarchiája, Önmeghaladó Értékek_)
+[[values]](_6.3. ábra. Szükségletek Hierarchiája, Önmeghaladó Értékek_)
 
-image::diagrams/self-transcendental-values-hu.jpg[image]
+image::diagrams/self-transcendental-values-hu.jpg[Szükségletek Hierarchiája, Önmeghaladó Értékek]
 
 Emlékszem engem mennyire felrázott, amikor azt olvastam egy ápolónő
 beszámolójában,footnote:[https://bronnieware.com/blog/regrets-of-the-dying/[Regrets
@@ -1014,8 +1004,5 @@ vagy úgy időzik, hogy az elmúlás természetét szemléli, vagy úgy időzik,
 hogy a keletkezés és az elmúlás természetét szemléli. … Szabadon időzik,
 semmihez sem kötődve a világon._
 
-FIXME:italic-quoteRef
-
-https://a-buddha-ujja.hu/mn-10/hu/toth-zsuzsanna[MN 10], Az éberség
-megalapozásáról szóló tanítóbeszéd
+https://a-buddha-ujja.hu/mn-10/hu/toth-zsuzsanna[MN 10], Az éberség megalapozásáról szóló tanítóbeszéd
 ____

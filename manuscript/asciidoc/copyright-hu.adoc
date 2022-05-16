@@ -22,7 +22,7 @@ https://forestsangha.org/
 
 https://a-buddha-ujja.hu/
 
-image::cc-by-nc-nd.png[image]
+image::cc-by-nc-nd.png[cc-by-nc-nd]
 
 Ez a Mű a Creative Commons
 Nevezd meg! - Ne add el! - Ne változtasd! 4.0 Nemzetközi Licenc

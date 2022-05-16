@@ -4,7 +4,7 @@
 :author: Bhikkhu Gambhíró
 :creator: {author}
 :version: v1.0
-:revdate: 2022-05-10
+:revdate: 2022-05-16
 :doctype: book
 :lang: en
 :pubs-logo: sumedharama-logo-black-w150.jpg
@@ -44,5 +44,7 @@ include::{includes}/06-awful-hu.adoc[]
 include::{includes}/07-why-hu.adoc[]
 
 include::{includes}/08-silence-hu.adoc[]
+
+include::{includes}/illustrations-figures-hu.adoc[]
 
 include::{includes}/copyright-hu.adoc[]

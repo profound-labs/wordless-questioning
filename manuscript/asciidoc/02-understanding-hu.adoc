@@ -1,3 +1,4 @@
+[[understanding-hu]]
 = Megértés
 
 *— tények és tapasztalat, kétség, tények halmozása —*
@@ -28,9 +29,9 @@ _magunkat látjuk bennük._ Úgy látjuk, hogy ezek vagyunk, ezek voltunk,
 ezek leszünk, és mivel szüntelenül változnak és felbomlanak, egyre
 tovább folytatjuk, várjuk a következőt.
 
-(FIXME:figure-label _Érzet és Azonosulás_)
+[[feeling]](_2.1. ábra. Érzet és Azonosulás_)
 
-image::diagrams/feeling-identification-hu.jpg[image]
+image::diagrams/feeling-identification-hu.jpg[Érzet és Azonosulás]
 
 Mi lenne, ha egy nap úgy ébrednénk fel, hogy semmire sem emlékszünk a
 múltból? A tapasztalatunkat ilyen állapotban is megragadnánk, mint _én
@@ -83,8 +84,6 @@ _Teljesen megértve az érzéseket, +
 Megtisztul még ebben az életben. +
 A Tanban szilárdan áll: a test széthullásakor, +
 A tudás mesterét sehol sem találni._
-
-FIXME:italic-quoteRef
 
 https://suttacentral.net/sn36.5/en/bodhi[SN 36.5], Látni kell
 ____
@@ -158,9 +157,9 @@ fordulunk, nem attól el. Ehelyett egy érzékeny, higgadt figyelmet
 fejlesztünk. Éberek és érzékenyek maradunk a tapasztalatra, de az már
 nem irányít, és nem kavar fel minket. Nyugodtak maradunk.
 
-(FIXME:figure-label _Érzék-Kapcsolat és Érzet_)
+[[contact]](_2.2. ábra. Érzék-Kapcsolat és Érzet_)
 
-image::diagrams/sense-contact-feeling-hu.jpg[image]
+image::diagrams/sense-contact-feeling-hu.jpg[Érzék-Kapcsolat és Érzet]
 
 *— önnarratíva, elbeszélés —*
 

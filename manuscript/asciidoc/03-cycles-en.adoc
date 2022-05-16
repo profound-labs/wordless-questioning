@@ -1,3 +1,4 @@
+[[cycles-en]]
 = Cycles
 
 *— steps in practice, descriptions and awareness —*

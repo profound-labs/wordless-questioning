@@ -1,3 +1,4 @@
+[[cycles-hu]]
 = Ciklusok
 
 *— lépések a gyakorlásban, leírások és tudatosság —*

@@ -1,3 +1,4 @@
+[[bones-en]]
 = Bones
 
 *— physical pain during meditation —*
@@ -28,9 +29,9 @@ move our attention methodically around the body, noticing a spot where
 it is not painful, and meditating while staying with the sensations in
 that area.
 
-image::standing.jpg[image]
+[[standing]](_Illustration: Standing Meditation Posture_)
 
-(FIXME:illustration-label _Standing Meditation Posture_)
+image::standing.jpg[Standing Meditation Posture]
 
 An interesting exercise is to locate exactly where the edges of the
 painful area are. Is it a sharp or diffuse boundary? Does it stays
@@ -283,9 +284,9 @@ then construct a person from it all. We glance at a mirror for a
 fraction of a second, recognize the general outline or notice some
 particular feature, and think, ‘That’s me. How do I look?’
 
-(FIXME:figure-label _Experience and Illusion of Self_)
+[[self]](_Figure 5.1: Experience and Illusion of Self_)
 
-image::diagrams/senses-self-illusion.jpg[image]
+image::diagrams/senses-self-illusion.jpg[Experience and Illusion of Self]
 
 We experience a self, which has no substance beyond that experience.
 Above, conditioned expectations create filled-in shapes which we

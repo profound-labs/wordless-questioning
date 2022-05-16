@@ -1,3 +1,4 @@
+[[understanding-en]]
 = Understanding
 
 *— facts and experience, doubt, accumulating facts —*
@@ -28,9 +29,9 @@ process is that _we see ourselves in them._ We see them as what we are,
 what we were, what we are going to be. And since they keep changing and
 breaking up, we continue on and on, expecting the next one.
 
-(FIXME:figure-label _Feeling and Identification_)
+[[feeling]](_Figure 2.1: Feeling and Identification_)
 
-image::diagrams/feeling-identification.jpg[image]
+image::diagrams/feeling-identification.jpg[Feeling and Identification]
 
 What if we woke up one morning without any memory of our past? Even in
 that state, we would still grasp our experience as _me and mine_. It
@@ -78,8 +79,6 @@ _Having fully understood feelings, +
 He is taintless in this very life. +
 Standing in Dhamma, with the body’s breakup +
 The knowledge-master cannot be reckoned._
-
-FIXME:italic-quoteRef
 
 https://suttacentral.net/sn36.5/en/bodhi[SN 36.5], Should Be Seen
 ____
@@ -152,9 +151,9 @@ not away from it. We cultivate attention with sensitive equanimity.
 Though we remain alert and responsive to the experience, it no longer
 controls and disturbs us. We remain calm.
 
-(FIXME:figure-label _Sense Contact and Feeling_)
+[[contact]](_Figure 2.2: Sense Contact and Feeling_)
 
-image::diagrams/sense-contact-feeling.jpg[image]
+image::diagrams/sense-contact-feeling.jpg[Sense Contact and Feeling]
 
 *— self-narrative, self-description —*
 

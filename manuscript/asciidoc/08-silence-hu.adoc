@@ -1,3 +1,4 @@
+[[silence-hu]]
 = Csend
 
 == Jelzés
@@ -70,8 +71,6 @@ nyugodt és mély tó, olyan +
 a bölcs, aki miután hallott +
 a dharmákról, lecsendesült._
 
-FIXME:italic-quoteRef
-
 Dhammapada 82, ford. Fórizs László
 ____
 
@@ -85,9 +84,9 @@ formális meditációra. Ehelyett az ülő, sétáló vagy álló meditáció
 megfelelőbb, mivel ezek növelik a test éberségének szintjét az
 erőfeszítésen keresztül.
 
-image::lying-down.jpg[image]
+[[lying-down]](_Illusztráció: Fekvő Meditáció Testtartás_)
 
-(FIXME:illustration-label _Fekvő Meditáció Testtartás_)
+image::lying-down.jpg[Fekvő Meditáció Testtartás]
 
 Mielőtt lefeküdnél, határozd meg tisztán a szándékot, hogy éber leszel.
 Ez megfelelő hozzáállást teremt, és némi mentális távolságot hoz létre a
@@ -248,8 +247,6 @@ _A nehezen megfékezhető, +
 csapongó, vágyűzött elme +
 ellenőrzése jó. A megfékezett +
 elme boldogságot hordoz._
-
-FIXME:italic-quoteRef
 
 Dhammapada 35, ford. Fórizs László
 ____

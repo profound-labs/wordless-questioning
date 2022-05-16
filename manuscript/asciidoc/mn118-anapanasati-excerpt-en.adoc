@@ -1,3 +1,4 @@
+[[mn118-en]]
 = Mindfulness of Breathing (excerpt)
 
 _https://suttacentral.net/mn118[MN 118], Ānāpānasati Sutta_
@@ -72,6 +73,6 @@ He trains thus:
 Bhikkhus, that is how mindfulness of breathing is developed and
 cultivated, so that it is of great fruit and great benefit.
 
-image::diagrams/mindfulness-of-breathing.jpg[image]
+[[anapanasati]](_Figure 1.1: Mindfulness of Breathing, Ānāpānasati_)
 
-(FIXME:figure-label _Mindfulness of Breathing, Ānāpānasati_)
+image::diagrams/mindfulness-of-breathing.jpg[Mindfulness of Breathing]

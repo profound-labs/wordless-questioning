@@ -1,0 +1,38 @@
+[[illustrations-figures-hu]]
+= Illusztrációk és Ábrák Jegyzéke
+
+== Illusztrációk Jegyzéke
+
+1 link:breathing-hu.xhtml#sitting[Ülő Meditáció Tesstartás]
+
+2 link:breathing-hu.xhtml#breathing[Légzés Technika]
+
+3 link:boat-hu.xhtml#walking[Sétáló Meditáció Testtartás]
+
+4 link:bones-hu.xhtml#standing[Álló Meditáció Testtartás]
+
+5 link:silence-hu.xhtml#lying-down[Fekvő Meditáció Testtartás]
+
+== Ábrák Jegyzéke
+
+1.1 link:mn118-hu.xhtml#anapanasati[Éberség a Légzésre (_Ānāpānasati_)]
+
+2.1 link:understanding-hu.xhtml#feeling[Érzet és Azonosulás]
+
+2.2 link:understanding-hu.xhtml#contact[Érzék-Kapcsolat és Érzet]
+
+4.1 link:boat-hu.xhtml#success[A Siker Négy Útja (_iddhipāda_)]
+
+5.1 link:bones-hu.xhtml#self[Az Én Tapasztalata és Illúziója]
+
+6.1 link:awful-hu.xhtml#grasping[Ragaszkodás és Kavargó Örvények az Elmében]
+
+6.2 link:awful-hu.xhtml#hedonic[Eredmények és a Hedonikus Taposómalom]
+
+6.3 link:awful-hu.xhtml#values[Szükségletek Hierarchiája, Önmeghaladó Értékek]
+
+7.1 link:why-hu.xhtml#suffering[Szenvedéshez Vezet]
+
+7.2 link:why-hu.xhtml#cessation[Megszűnéshez Vezet]
+
+7.3 link:why-hu.xhtml#deathless[Tapasztalat, Létesülés és a Haláltalan]

@@ -24,7 +24,7 @@ https://forestsangha.org/
 
 https://a-buddha-ujja.hu/
 
-image::cc-by-nc-nd.png[image]
+image::cc-by-nc-nd.png[cc-by-nc-nd]
 
 This work is licensed under a Creative Commons
 Attribution-NonCommercial-NoDerivatives 4.0 International License.

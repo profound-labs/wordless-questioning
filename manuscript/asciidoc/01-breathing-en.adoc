@@ -1,3 +1,4 @@
+[[breathing-en]]
 = Breathing
 
 *— brief _ānāpānasati_ method and posture —*
@@ -28,9 +29,9 @@ position, which creates tension in the back muscles. When we pull the
 head backward, we can feel the back muscles relaxing. Pull in the chin
 slightly, but there is no need to force it.
 
-image::sitting.jpg[image]
+[[sitting]](_Illustration: Sitting Meditation Posture_)
 
-(FIXME:illustration-label _Sitting Meditation Posture_)
+image::sitting.jpg[Sitting Meditation Posture]
 
 Sit in a balanced, upright posture, with the shoulders relaxed. In a
 good posture, the breathing is easy and even.
@@ -198,9 +199,9 @@ It is not necessary to express these steps in thought, relax and watch
 as the feelings appear in the body. It can take a little while for the
 body to settle.
 
-image::breathing.jpg[image]
+[[breathing]](_Illustration: Breathing Technique_)
 
-(FIXME:illustration-label _Breathing Technique_)
+image::breathing.jpg[Breathing Technique]
 
 The beating of the heart will calm down, and the breathing becomes
 regular and light.

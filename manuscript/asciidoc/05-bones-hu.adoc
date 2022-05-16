@@ -1,3 +1,4 @@
+[[bones-hu]]
 = Csontok
 
 *— testi fájdalom meditáció közben —*
@@ -29,9 +30,9 @@ fájdalom nélküli részén, vagy módszeresen végig vezethetjük a test
 különböző részein, megfigyelve a helyet, ahol nincs fájdalom, és
 meditációnkat az ott tapasztalható érzetek szemléletével folytatjuk.
 
-image::standing.jpg[image]
+[[standing]](_Illusztráció: Álló Meditáció Testtartás_)
 
-(FIXME:illustration-label _Álló Meditáció Testtartás_)
+image::standing.jpg[Álló Meditáció Testtartás]
 
 Egy érdekes gyakorlat pontosan meghatározni, hol húzódnak a fájdalmas
 terület határai. Éles ez a határ, vagy határozatlan? Rögzítve marad,
@@ -288,9 +289,9 @@ elég a másodperc törtrészéig rápillantanunk, majd felismerve a
 körvonalat vagy egy tipikus jellemzőt, és azt gondoljuk, ‘Ez én vagyok.
 Jól nézek ki?’
 
-(FIXME:figure-label _Az Én Tapasztalata és Illúziója_)
+[[self]](_5.1. ábra. Az Én Tapasztalata és Illúziója_)
 
-image::diagrams/senses-self-illusion-hu.jpg[image]
+image::diagrams/senses-self-illusion-hu.jpg[Az Én Tapasztalata és Illúziója]
 
 Tapasztalunk egy ‘én’-t, aminek nincs lényegi valósága azon a
 tapasztalaton kívül. Ahogy fent látható, a kondicionált elvárások

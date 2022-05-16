@@ -1,0 +1,38 @@
+[[illustrations-figures-en]]
+= List of Illustrations and Figures
+
+== List of Illustrations
+
+1 link:breathing-en.xhtml#sitting[Sitting Meditation Posture]
+
+2 link:breathing-en.xhtml#breathing[Breathing Technique]
+
+3 link:boat-en.xhtml#walking[Walking Meditation Posture]
+
+4 link:bones-en.xhtml#standing[Standing Meditation Posture]
+
+5 link:silence-en.xhtml#lying-down[Lying Down Meditation Posture]
+
+== List of Figures
+
+1.1 link:mn118-en.xhtml#anapanasati[Mindfulness of Breathing (_Ānāpānasati_)]
+
+2.1 link:understanding-en.xhtml#feeling[Feeling and Identification]
+
+2.2 link:understanding-en.xhtml#contact[Sense Contact and Feeling]
+
+4.1 link:boat-en.xhtml#success[The Four Paths to Success (_iddhipāda_)]
+
+5.1 link:bones-en.xhtml#self[Experience and Illusion of Self]
+
+6.1 link:awful-en.xhtml#grasping[Grasping and Turbulence in the Mind]
+
+6.2 link:awful-en.xhtml#hedonic[Achievements and the Hedonic Tredmill]
+
+6.3 link:awful-en.xhtml#values[Hierarchy of Needs, Self-Transcendental Values]
+
+7.1 link:why-en.xhtml#suffering[Leading to Suffering]
+
+7.2 link:why-en.xhtml#cessation[Leading to Cessation]
+
+7.3 link:why-en.xhtml#deathless[Experience, Becoming and the Deathless]

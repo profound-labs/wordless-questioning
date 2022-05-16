@@ -1,3 +1,4 @@
+[[breathing-hu]]
 = Légzés
 
 *— _ānāpānasati_ módszer és testtartás röviden —*
@@ -31,9 +32,9 @@ erőltetni.
 Ülj egyenesen, kiegyensúlyozott testtartásban, a vállakat ellazítva. Jó
 tartással a légzés könnyű és egyenletes.
 
-image::sitting.jpg[image]
+[[sitting]](_Illusztráció: Ülő Meditáció Tesstartás_)
 
-(FIXME:illustration-label _Ülő Meditáció Tesstartás_)
+image::sitting.jpg[Ülő Meditáció Tesstartás]
 
 A test csontjai úgy ülnek egymáson mint egy kövekből rakott torony. A
 csípő-csont a párnán nyugszik, a gerinc a csípőn, a gerinc-korongok
@@ -195,9 +196,9 @@ tágulásának. A mellkas emelkedik, miközben a tüdőt kitölti a levegő, de
 nem kell nagyra tágítani a mellkast. Nyugodtan ülünk, érezhetjük a
 szívverés halk ritmusát.
 
-image::breathing.jpg[image]
+[[breathing]](_Illusztráció: Légzés Technika_)
 
-(FIXME:illustration-label _Légzés Technika_)
+image::breathing.jpg[Légzés Technika]
 
 Kilégzéskor az izmok ellazulnak, a meleg levegő felfelé áramlik a
 légcsövön, és az orron át távozik.
